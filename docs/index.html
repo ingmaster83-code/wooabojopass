@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>정부지원금 한눈에 총정리 2026 | bojopass</title>
+  <meta name="description" content="2026년 정부지원금, 복지혜택, 보조금 정보를 한눈에 확인하세요. 청년, 소상공인, 노인, 장애인 등 대상자별 맞춤 지원금 안내.">
+  <meta name="keywords" content="정부지원금, 복지혜택, 보조금, 지원금 2026, 청년지원금, 소상공인지원금, 생활지원금">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="bojopass">
+  <meta property="og:title" content="정부지원금 한눈에 총정리 2026 | bojopass">
+  <meta property="og:description" content="2026년 정부지원금, 복지혜택, 보조금 정보를 한눈에 확인하세요.">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:url" content="https://wooabojopass.wooahouse.com/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://wooabojopass.wooahouse.com/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:image" content="https://wooabojopass.wooahouse.com/og.png">
+  <link rel="canonical" href="https://wooabojopass.wooahouse.com/">
+  <meta name="naver-site-verification" content="7afcd79d93548b43c77d7273bd621aa16842eafc" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZX4XBP4RMQ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZX4XBP4RMQ');</script>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ── 카테고리 + 맞춤찾기 2컬럼 레이아웃 ── */
+    .home-mid-layout {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 20px;
+      display: grid;
+      grid-template-columns: 360px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+    .home-cat-col { min-width: 0; }
+    .home-cat-col .category-grid {
+      grid-template-columns: repeat(2, 1fr) !important;
+      gap: 8px !important;
+    }
+    .home-cat-col .category-card {
+      padding: 5px 8px;
+    }
+    .home-cat-col .category-icon { font-size: 22px; margin-bottom: 4px; }
+    .home-cat-col .category-name { font-size: 12px; margin-bottom: 1px; }
+    .home-cat-col .category-count { font-size: 10px; }
+    .home-cat-col .tabs { margin-bottom: 8px; }
+    .home-cat-col .tab-btn { padding: 5px 12px; font-size: 12px; }
+    .home-cat-col .section { padding-top: 0 !important; padding-bottom: 0 !important; }
+
+    /* ── 맞춤 찾기 섹션 ── */
+    .finder-section {
+      background: linear-gradient(135deg, #FEF3E2 0%, #FDE8C8 60%, #FDD9A8 100%);
+      border-top: 1px solid #FDD9A8;
+      border-bottom: 1px solid #FDD9A8;
+      padding: 48px 20px;
+    }
+    .finder-section-inline {
+      border: 1.5px solid #FDD9A8;
+      border-radius: var(--radius-xl);
+      padding: 28px 24px;
+    }
+    .finder-inner {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    .finder-section-inline .finder-inner {
+      max-width: 100%;
+    }
+    .finder-eyebrow {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 4px;
+    }
+    .finder-title {
+      font-size: clamp(16px, 2.5vw, 20px);
+      font-weight: 800;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+      letter-spacing: -0.5px;
+    }
+    .finder-sub {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-bottom: 16px;
+    }
+    /* 스텝 인디케이터 */
+    .finder-steps {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin-bottom: 16px;
+    }
+    .finder-step-dot {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: #E7E5E4;
+      color: var(--text-muted);
+      font-size: 10px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: all 0.3s;
+    }
+    .finder-step-dot.active { background: var(--primary); color: #fff; }
+    .finder-step-dot.done   { background: var(--success);  color: #fff; }
+    .finder-step-line {
+      flex: 1;
+      height: 2px;
+      background: #E7E5E4;
+      transition: background 0.3s;
+    }
+    .finder-step-line.done { background: var(--success); }
+    /* 카드 */
+    .finder-card {
+      background: #fff;
+      border: 1.5px solid #FDD9A8;
+      border-radius: var(--radius-xl);
+      padding: 18px;
+      box-shadow: 0 4px 24px rgba(249,115,22,0.08);
+    }
+    .finder-q {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+    }
+    .finder-q span { color: var(--secondary); }
+    /* 옵션 버튼들 */
+    .finder-options {
+      display: grid;
+      gap: 10px;
+    }
+    .finder-options.col2 { grid-template-columns: repeat(2, 1fr); }
+    .finder-options.col3 { grid-template-columns: repeat(3, 1fr); }
+    .finder-options.col4 { grid-template-columns: repeat(4, 1fr); }
+    .finder-opt {
+      padding: 9px 8px;
+      background: var(--section-bg);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      color: var(--text-primary);
+      font-size: 12px;
+      font-weight: 500;
+      font-family: inherit;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.15s;
+      line-height: 1.4;
+    }
+    .finder-opt:hover  { border-color: var(--primary); background: var(--primary); color: #fff; }
+    .finder-opt.active { background: var(--primary); border-color: var(--primary); color: #fff; font-weight: 700; }
+    .finder-opt .opt-emoji { font-size: 15px; display: block; margin-bottom: 2px; }
+    /* 슬라이더 */
+    .finder-slider-wrap { padding: 8px 0; }
+    .finder-slider-label {
+      display: flex;
+      justify-content: space-between;
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-bottom: 12px;
+    }
+    .finder-slider-val {
+      font-size: 16px;
+      font-weight: 800;
+      color: var(--secondary);
+      text-align: center;
+      margin-bottom: 8px;
+    }
+    input[type=range].finder-range {
+      width: 100%;
+      accent-color: var(--primary);
+      height: 6px;
+      cursor: pointer;
+    }
+    /* 네비 버튼 */
+    .finder-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 14px;
+      gap: 8px;
+    }
+    .finder-btn-back {
+      padding: 8px 14px;
+      background: none;
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      color: var(--text-secondary);
+      font-size: 12px;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .finder-btn-back:hover { border-color: var(--primary); color: var(--primary); }
+    .finder-btn-next {
+      flex: 1;
+      padding: 10px;
+      background: var(--primary);
+      border: none;
+      border-radius: 20px;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .finder-btn-next:hover { background: var(--primary-dark); }
+    .finder-btn-next:disabled { background: #57534E; cursor: not-allowed; }
+    /* 결과 */
+    .finder-result-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .finder-result-count {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--primary);
+    }
+    .finder-result-sub { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+    .finder-result-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+      max-height: 340px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+    .finder-result-grid::-webkit-scrollbar { width: 4px; }
+    .finder-result-grid::-webkit-scrollbar-thumb { background: #57534E; border-radius: 2px; }
+    .finder-result-card {
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 14px;
+      text-decoration: none;
+      transition: all 0.15s;
+      display: block;
+    }
+    .finder-result-card:hover { border-color: var(--primary); background: var(--primary-light); }
+    .finder-result-name { font-size: 14px; font-weight: 700; color: var(--text-primary); margin-bottom: 4px; line-height: 1.4; }
+    .finder-result-dept { font-size: 12px; color: var(--text-muted); margin-bottom: 6px; }
+    .finder-result-amount { font-size: 13px; font-weight: 600; color: var(--primary); }
+    .finder-see-all {
+      display: block;
+      text-align: center;
+      margin-top: 16px;
+      padding: 12px;
+      background: var(--primary-light);
+      color: var(--primary);
+      border-radius: var(--radius-md);
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .finder-restart {
+      display: block;
+      text-align: center;
+      margin-top: 10px;
+      color: var(--text-muted);
+      font-size: 13px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      font-family: inherit;
+      width: 100%;
+    }
+    .finder-restart:hover { color: var(--primary); }
+    @media (max-width: 900px) {
+      .home-mid-layout { grid-template-columns: 1fr; padding: 20px; gap: 16px; }
+      .home-cat-col .category-grid { grid-template-columns: repeat(4, 1fr) !important; }
+    }
+    @media (max-width: 600px) {
+      .finder-options.col4 { grid-template-columns: repeat(2, 1fr); }
+      .finder-options.col3 { grid-template-columns: repeat(3, 1fr); }
+      .finder-result-grid  { grid-template-columns: 1fr; }
+      .home-cat-col .category-grid { grid-template-columns: repeat(2, 1fr) !important; }
+    }
+    /* 메인 사이드바 */
+    .main-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 32px;
+      align-items: start;
+    }
+    .main-sidebar { position: sticky; top: 80px; padding-top: 40px; }
+    @media (max-width: 1024px) {
+      .main-grid { grid-template-columns: 1fr; }
+      .main-sidebar { display: none; }
+    }
+  </style>
+  <!-- Google AdSense -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script> -->
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+<header class="header">
+  <div class="header-inner">
+    <a href="/" class="logo">bojo<span>pass</span></a>
+    <div class="header-search">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="globalSearch" placeholder="찾는 지원금을 검색하세요">
+    </div>
+    <nav class="header-nav">
+      <a href="list.html">전체 목록</a>
+      <a href="calendar.html">신청 캘린더</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ── TOP AD ── -->
+<div class="ad-wrap">
+  <div class="ad-slot ad-slot-top">광고 (728×90)</div>
+</div>
+
+<!-- ── HERO ── -->
+<section class="hero">
+  <div class="hero-eyebrow">✨ 2026년 최신 정보 업데이트 완료</div>
+  <h1>내게 맞는 <em>정부지원금</em><br>한눈에 찾아보세요</h1>
+  <p class="hero-sub">어려운 행정 용어 없이, 쉽고 빠르게 확인할 수 있어요</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <div class="hero-stat-num" id="statTotal">—</div>
+      <div class="hero-stat-label">전체 지원사업</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num" id="statCentral">—</div>
+      <div class="hero-stat-label">중앙부처 지원금</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num" id="statLocal">—</div>
+      <div class="hero-stat-label">지자체 지원금</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num" id="statDeadline">—</div>
+      <div class="hero-stat-label">신청 가능</div>
+    </div>
+  </div>
+</section>
+
+<!-- ── 카테고리 + 맞춤찾기 2컬럼 ── -->
+<div class="home-mid-layout">
+
+<!-- 왼쪽: 카테고리 -->
+<div class="home-cat-col">
+<div class="section" style="padding:0;">
+  <!-- Tabs -->
+  <div class="tabs" id="catTabs">
+    <button class="tab-btn active" data-tab="target">👤 대상자별</button>
+    <button class="tab-btn" data-tab="field">📁 분야별</button>
+  </div>
+
+  <!-- 대상자별 -->
+  <div id="tabTarget" class="category-grid">
+    <a href="대상/청년.html" class="category-card">
+      <div class="category-icon">🙋</div>
+      <div class="category-name">청년</div>
+      <div class="category-count">만 19~34세</div>
+    </a>
+    <a href="대상/중장년.html" class="category-card">
+      <div class="category-icon">💼</div>
+      <div class="category-name">중장년</div>
+      <div class="category-count">만 40~64세</div>
+    </a>
+    <a href="대상/노인.html" class="category-card">
+      <div class="category-icon">👴</div>
+      <div class="category-name">노인</div>
+      <div class="category-count">만 65세 이상</div>
+    </a>
+    <a href="대상/장애인.html" class="category-card">
+      <div class="category-icon">♿</div>
+      <div class="category-name">장애인</div>
+      <div class="category-count">등록 장애인</div>
+    </a>
+    <a href="대상/임산부.html" class="category-card">
+      <div class="category-icon">🤰</div>
+      <div class="category-name">임산부</div>
+      <div class="category-count">임신·출산 가정</div>
+    </a>
+    <a href="대상/다자녀.html" class="category-card">
+      <div class="category-icon">👨‍👩‍👧‍👦</div>
+      <div class="category-name">다자녀</div>
+      <div class="category-count">자녀 2명 이상</div>
+    </a>
+    <a href="대상/한부모.html" class="category-card">
+      <div class="category-icon">👩‍👧</div>
+      <div class="category-name">한부모</div>
+      <div class="category-count">한부모 가정</div>
+    </a>
+    <a href="대상/소상공인.html" class="category-card">
+      <div class="category-icon">🏪</div>
+      <div class="category-name">소상공인</div>
+      <div class="category-count">자영업·소기업</div>
+    </a>
+  </div>
+
+  <!-- 분야별 (hidden) -->
+  <div id="tabField" class="category-grid" style="display:none;">
+    <a href="분야/주거.html" class="category-card">
+      <div class="category-icon">🏠</div>
+      <div class="category-name">주거</div>
+      <div class="category-count">주택·임대</div>
+    </a>
+    <a href="분야/취업.html" class="category-card">
+      <div class="category-icon">💼</div>
+      <div class="category-name">취업</div>
+      <div class="category-count">일자리·고용</div>
+    </a>
+    <a href="분야/육아.html" class="category-card">
+      <div class="category-icon">👶</div>
+      <div class="category-name">육아</div>
+      <div class="category-count">보육·양육</div>
+    </a>
+    <a href="분야/의료.html" class="category-card">
+      <div class="category-icon">🏥</div>
+      <div class="category-name">의료</div>
+      <div class="category-count">건강·치료</div>
+    </a>
+    <a href="분야/교육.html" class="category-card">
+      <div class="category-icon">📚</div>
+      <div class="category-name">교육</div>
+      <div class="category-count">학습·장학</div>
+    </a>
+    <a href="분야/창업.html" class="category-card">
+      <div class="category-icon">🚀</div>
+      <div class="category-name">창업</div>
+      <div class="category-count">스타트업·창업</div>
+    </a>
+    <a href="분야/금융.html" class="category-card">
+      <div class="category-icon">💰</div>
+      <div class="category-name">금융</div>
+      <div class="category-count">대출·이자지원</div>
+    </a>
+    <a href="분야/복지.html" class="category-card">
+      <div class="category-icon">🤝</div>
+      <div class="category-name">복지</div>
+      <div class="category-count">생활·복지서비스</div>
+    </a>
+  </div>
+</div>
+</div><!-- home-cat-col 끝 -->
+
+<!-- 오른쪽: 맞춤 찾기 -->
+<section class="finder-section finder-section-inline">
+  <div class="finder-inner">
+    <div class="finder-eyebrow">✨ 맞춤 추천</div>
+    <h2 class="finder-title">나에게 맞는 지원금 찾기</h2>
+    <p class="finder-sub">몇 가지 정보만 입력하면 받을 수 있는 지원금을 찾아드려요</p>
+
+    <!-- 스텝 인디케이터 -->
+    <div class="finder-steps" id="finderSteps">
+      <div class="finder-step-dot active" id="dot0">1</div>
+      <div class="finder-step-line" id="line0"></div>
+      <div class="finder-step-dot" id="dot1">2</div>
+      <div class="finder-step-line" id="line1"></div>
+      <div class="finder-step-dot" id="dot2">3</div>
+      <div class="finder-step-line" id="line2"></div>
+      <div class="finder-step-dot" id="dot3">4</div>
+      <div class="finder-step-line" id="line3"></div>
+      <div class="finder-step-dot" id="dot4">5</div>
+    </div>
+
+    <div class="finder-card" id="finderCard">
+      <!-- 스텝 0: 나이 -->
+      <div class="finder-pane" id="pane0">
+        <div class="finder-q">나이가 어떻게 되세요? <span id="ageDisplay">30세</span></div>
+        <div class="finder-slider-wrap">
+          <div class="finder-slider-val" id="ageVal">30세</div>
+          <input type="range" class="finder-range" id="ageSlider" min="15" max="80" value="30">
+          <div class="finder-slider-label"><span>15세</span><span>80세</span></div>
+        </div>
+        <div class="finder-nav">
+          <button class="finder-btn-next" onclick="nextStep()">다음 →</button>
+        </div>
+      </div>
+
+      <!-- 스텝 1: 성별·결혼유무 -->
+      <div class="finder-pane" id="pane1" style="display:none;">
+        <div class="finder-q">성별과 결혼 여부를 알려주세요</div>
+        <div class="finder-options col2" style="margin-bottom:14px;" id="genderOpts">
+          <button class="finder-opt" data-val="male" onclick="selectOpt(this,'gender')"><span class="opt-emoji">👨</span>남성</button>
+          <button class="finder-opt" data-val="female" onclick="selectOpt(this,'gender')"><span class="opt-emoji">👩</span>여성</button>
+        </div>
+        <div class="finder-options col3" id="marryOpts">
+          <button class="finder-opt" data-val="single" onclick="selectOpt(this,'marry')"><span class="opt-emoji">🙋</span>미혼</button>
+          <button class="finder-opt" data-val="married" onclick="selectOpt(this,'marry')"><span class="opt-emoji">💑</span>기혼</button>
+          <button class="finder-opt" data-val="single-parent" onclick="selectOpt(this,'marry')"><span class="opt-emoji">👩‍👧</span>한부모</button>
+        </div>
+        <div class="finder-nav">
+          <button class="finder-btn-back" onclick="prevStep()">← 이전</button>
+          <button class="finder-btn-next" id="step1Next" onclick="nextStep()" disabled>다음 →</button>
+        </div>
+      </div>
+
+      <!-- 스텝 2: 연소득 -->
+      <div class="finder-pane" id="pane2" style="display:none;">
+        <div class="finder-q">가구 <span>연 소득</span>이 얼마 정도인가요?</div>
+        <div class="finder-slider-wrap">
+          <div class="finder-slider-val" id="incomeVal">3,000만원</div>
+          <input type="range" class="finder-range" id="incomeSlider" min="0" max="15" value="5">
+          <div class="finder-slider-label"><span>소득 없음</span><span>1억 5천만원 이상</span></div>
+        </div>
+        <p style="font-size:12px;color:#78716C;margin-top:8px;">※ 정확하지 않아도 괜찮아요. 대략적인 범위로 입력해주세요.</p>
+        <div class="finder-nav">
+          <button class="finder-btn-back" onclick="prevStep()">← 이전</button>
+          <button class="finder-btn-next" onclick="nextStep()">다음 →</button>
+        </div>
+      </div>
+
+      <!-- 스텝 3: 특수 상황 -->
+      <div class="finder-pane" id="pane3" style="display:none;">
+        <div class="finder-q">해당되는 상황이 있으면 모두 선택해주세요 <span style="font-size:14px;color:#A8A29E;">(복수 선택 가능)</span></div>
+        <div class="finder-options col3" id="situOpts">
+          <button class="finder-opt toggle-opt" data-val="장애인" onclick="toggleOpt(this)"><span class="opt-emoji">♿</span>장애인</button>
+          <button class="finder-opt toggle-opt" data-val="임산부" onclick="toggleOpt(this)"><span class="opt-emoji">🤰</span>임신·출산</button>
+          <button class="finder-opt toggle-opt" data-val="다자녀" onclick="toggleOpt(this)"><span class="opt-emoji">👶</span>자녀 있음</button>
+          <button class="finder-opt toggle-opt" data-val="소상공인" onclick="toggleOpt(this)"><span class="opt-emoji">🏪</span>자영업·사업자</button>
+          <button class="finder-opt toggle-opt" data-val="취업" onclick="toggleOpt(this)"><span class="opt-emoji">💼</span>구직 중</button>
+          <button class="finder-opt toggle-opt" data-val="주거" onclick="toggleOpt(this)"><span class="opt-emoji">🏠</span>주거 불안정</button>
+        </div>
+        <div class="finder-nav">
+          <button class="finder-btn-back" onclick="prevStep()">← 이전</button>
+          <button class="finder-btn-next" onclick="nextStep()">결과 보기 🎉</button>
+        </div>
+      </div>
+
+      <!-- 스텝 4: 결과 -->
+      <div class="finder-pane" id="pane4" style="display:none;">
+        <div class="finder-result-header">
+          <div class="finder-result-count" id="resultCount">0개</div>
+          <div class="finder-result-sub">받을 수 있는 지원금을 찾았어요!</div>
+        </div>
+        <div class="finder-result-grid" id="finderResults"></div>
+        <a href="list.html" class="finder-see-all" id="finderSeeAll">전체 결과 목록에서 보기 →</a>
+        <button class="finder-restart" onclick="restartFinder()">↺ 다시 찾기</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div><!-- home-mid-layout 끝 -->
+
+<div class="section-divider"></div>
+
+<!-- ── 카드 섹션 + 사이드바 ── -->
+<div class="main-grid">
+<div><!-- 카드 콘텐츠 시작 -->
+
+<!-- ── 신규 지원금 ── -->
+<div class="section" style="padding-left:0;padding-right:0;">
+  <div class="section-header">
+    <h2 class="section-title">🆕 새로 추가된 지원금</h2>
+    <a href="list.html" class="section-more">전체 보기 →</a>
+  </div>
+  <div class="card-grid" id="newCards" style="min-height:120px">
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- ── 마감임박 ── -->
+<div class="section" style="padding-left:0;padding-right:0;">
+  <div class="section-header">
+    <h2 class="section-title">⏰ 마감 임박 지원금</h2>
+    <a href="list.html?sort=deadline" class="section-more">전체 보기 →</a>
+  </div>
+  <div class="card-grid" id="deadlineCards" style="min-height:120px">
+
+  </div>
+</div>
+
+<!-- ── BOTTOM AD ── -->
+<div style="padding:8px 0 20px;">
+  <div class="ad-slot ad-slot-mid">광고 (728×90)</div>
+</div>
+
+</div><!-- 카드 콘텐츠 끝 -->
+
+<!-- ── 사이드바 ── -->
+<aside class="main-sidebar">
+  <div class="ad-slot ad-slot-sidebar">광고 (300×600)</div>
+</aside>
+
+</div><!-- 그리드 끝 -->
+
+<!-- ── FOOTER ── -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-logo">bojo<span>pass</span></div>
+        <p class="footer-desc">
+          정부지원금 및 복지혜택 정보를 쉽고 빠르게.<br>
+          매일 새벽 최신 정보로 자동 업데이트됩니다.
+        </p>
+      </div>
+      <div class="footer-links">
+        <a href="list.html">전체 목록</a>
+        <a href="calendar.html">신청 캘린더</a>
+        <a href="privacy.html">개인정보처리방침</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 bojopass. 본 사이트의 정보는 공공데이터포털 API를 기반으로 자동 수집됩니다.</p>
+      <p style="margin-top:6px;">정확한 정보는 각 부처 공식 사이트에서 확인하시기 바랍니다.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+// ── 맞춤 지원금 찾기 ──────────────────────────────
+const finderState = { age: 30, gender: null, marry: null, income: 5, situations: [] };
+let finderStep = 0;
+let allItems = [];
+
+// 데이터 미리 로드
+(async () => {
+  try {
+    const [c, l, stats] = await Promise.all([
+      fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/stats.json').then(r => r.ok ? r.json() : {}).catch(() => {}),
+    ]);
+    allItems = [...c, ...l];
+    document.getElementById('statTotal').textContent   = (stats.total   ?? allItems.length).toLocaleString();
+    document.getElementById('statCentral').textContent = (stats.central ?? c.length).toLocaleString();
+    document.getElementById('statLocal').textContent   = (stats.local   ?? l.length).toLocaleString();
+    document.getElementById('statDeadline').textContent = (stats.active ?? 0).toLocaleString();
+  } catch(e) {}
+})();
+
+// 나이 슬라이더
+const ageSlider = document.getElementById('ageSlider');
+ageSlider.addEventListener('input', () => {
+  const v = ageSlider.value;
+  finderState.age = +v;
+  document.getElementById('ageVal').textContent = `${v}세`;
+});
+
+// 연소득 슬라이더
+const INCOME_LABELS = ['소득 없음','500만원 미만','500~1,000만원','1,000~2,000만원','2,000~3,000만원',
+  '3,000~4,000만원','4,000~5,000만원','5,000~6,000만원','6,000~7,000만원','7,000~8,000만원',
+  '8,000만원~1억','1억~1억2천','1억2천~1억5천','1억5천~2억','2억 이상','2억 5천 이상'];
+const incomeSlider = document.getElementById('incomeSlider');
+incomeSlider.addEventListener('input', () => {
+  finderState.income = +incomeSlider.value;
+  document.getElementById('incomeVal').textContent = INCOME_LABELS[finderState.income] || '';
+});
+
+function selectOpt(el, group) {
+  el.closest('.finder-options').querySelectorAll('.finder-opt').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  finderState[group] = el.dataset.val;
+  // 두 그룹 모두 선택됐을 때 다음 버튼 활성화
+  if (finderState.gender && finderState.marry) {
+    document.getElementById('step1Next').disabled = false;
+  }
+}
+
+function toggleOpt(el) {
+  const val = el.dataset.val;
+  if (el.classList.contains('active')) {
+    el.classList.remove('active');
+    finderState.situations = finderState.situations.filter(v => v !== val);
+  } else {
+    el.classList.add('active');
+    finderState.situations.push(val);
+  }
+}
+
+function nextStep() {
+  if (finderStep < 3) {
+    goToStep(finderStep + 1);
+  } else {
+    // 결과 계산
+    const results = calcFinderResults();
+    showFinderResults(results);
+    goToStep(4);
+  }
+}
+function prevStep() { goToStep(finderStep - 1); }
+
+function goToStep(n) {
+  document.getElementById(`pane${finderStep}`).style.display = 'none';
+  document.getElementById(`pane${n}`).style.display = 'block';
+
+  // 스텝 인디케이터 업데이트
+  for (let i = 0; i <= 4; i++) {
+    const dot  = document.getElementById(`dot${i}`);
+    if (i < n)       { dot.className = 'finder-step-dot done'; dot.textContent = '✓'; }
+    else if (i === n){ dot.className = 'finder-step-dot active'; dot.textContent = i+1; }
+    else             { dot.className = 'finder-step-dot'; dot.textContent = i+1; }
+  }
+  for (let i = 0; i <= 3; i++) {
+    document.getElementById(`line${i}`).className = i < n ? 'finder-step-line done' : 'finder-step-line';
+  }
+  finderStep = n;
+}
+
+function calcFinderResults() {
+  const { age, marry, income, situations } = finderState;
+  const incomeWon = [0, 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 10000, 12000, 15000, 20000, 25000, 30000][income] * 10000;
+
+  // 대상 태그 후보
+  const targetTags = [];
+  if (age >= 15 && age <= 34) targetTags.push('청년');
+  if (age >= 40 && age <= 64) targetTags.push('중장년');
+  if (age >= 65) targetTags.push('노인');
+  if (marry === 'single-parent') targetTags.push('한부모');
+  situations.forEach(s => {
+    if (['장애인','임산부','다자녀','소상공인'].includes(s)) targetTags.push(s);
+  });
+  if (targetTags.length === 0) targetTags.push('복지');
+
+  const fieldTags = [];
+  if (situations.includes('취업')) fieldTags.push('취업');
+  if (situations.includes('주거')) fieldTags.push('주거');
+
+  const TARGET_KW = {
+    '청년':   ['청년','대학생','만 19','만19'],
+    '중장년': ['중장년','만 40','4050'],
+    '노인':   ['노인','어르신','고령','만 65'],
+    '장애인': ['장애인','장애'],
+    '임산부': ['임산부','임신','출산','산모'],
+    '다자녀': ['다자녀','자녀','육아','아동','보육'],
+    '한부모': ['한부모','편부','편모','미혼모'],
+    '소상공인':['소상공인','자영업','창업','중소기업'],
+    '취업':   ['취업','일자리','구직','고용'],
+    '주거':   ['주거','주택','임대','월세','전세'],
+  };
+
+  return allItems.filter(item => {
+    const txt = [item.name, item.target_summary, item.categories, item.summary, item.life_cycle].join(' ').toLowerCase();
+    const tags = [...targetTags, ...fieldTags];
+    return tags.some(tag => {
+      const kws = TARGET_KW[tag] || [tag];
+      return kws.some(kw => txt.includes(kw.toLowerCase()));
+    });
+  }).slice(0, 20);
+}
+
+function showFinderResults(results) {
+  document.getElementById('resultCount').textContent = `${results.length}개`;
+  const grid = document.getElementById('finderResults');
+  grid.innerHTML = results.length ? results.map(item => {
+    const slug = String(item.name || '').trim().replace(/[^\w\s가-힣]/g,'-').replace(/[\s_]+/g,'-').replace(/^-+|-+$/g,'');
+    const amount = String(item.amount_summary || '').slice(0, 22);
+    return `<a href="jiwon/${slug}.html" class="finder-result-card">
+      <div class="finder-result-name">${item.name || ''}</div>
+      <div class="finder-result-dept">${item.dept || ''}</div>
+      ${amount ? `<div class="finder-result-amount">${amount}</div>` : ''}
+    </a>`;
+  }).join('') : '<p style="color:#A8A29E;text-align:center;grid-column:1/-1;padding:20px;">조건에 맞는 지원금을 찾지 못했어요.<br>전체 목록에서 직접 검색해 보세요.</p>';
+
+  // 전체보기 링크에 필터 파라미터 추가
+  const { age, marry, situations } = finderState;
+  let target = '';
+  if (age >= 15 && age <= 34) target = '청년';
+  else if (age >= 65) target = '노인';
+  else if (situations.includes('소상공인')) target = '소상공인';
+  if (target) document.getElementById('finderSeeAll').href = `list.html?target=${target}`;
+}
+
+function restartFinder() {
+  finderState.age = 30; finderState.gender = null;
+  finderState.marry = null; finderState.income = 5;
+  finderState.situations = [];
+  ageSlider.value = 30;
+  document.getElementById('ageVal').textContent = '30세';
+  incomeSlider.value = 5;
+  document.getElementById('incomeVal').textContent = INCOME_LABELS[5];
+  document.querySelectorAll('.finder-opt').forEach(b => b.classList.remove('active'));
+  document.getElementById('step1Next').disabled = true;
+  goToStep(0);
+}
+
+// ── Tab 전환 ─────────────────────────────────────
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const tab = btn.dataset.tab;
+      document.getElementById('tabTarget').style.display = tab === 'target' ? 'grid' : 'none';
+      document.getElementById('tabField').style.display  = tab === 'field'  ? 'grid' : 'none';
+    });
+  });
+
+  // 검색 엔터
+  document.getElementById('globalSearch').addEventListener('keydown', e => {
+    if (e.key === 'Enter') {
+      const q = e.target.value.trim();
+      if (q) location.href = `list.html?q=${encodeURIComponent(q)}`;
+    }
+  });
+
+// ── 카드 섹션 렌더링 ──────────────────────────────
+function slugify(s) {
+  return String(s).trim().replace(/[^\w\s가-힣]/g, '-').replace(/[\s_]+/g, '-').replace(/^-+|-+$/g, '');
+}
+function calcDday(end) {
+  if (!end) return { period: '연중 상시', cls: 'badge-dday-ongoing', label: '상시', daysLeft: 9999 };
+  const s = String(end).replace(/[-\.]/g, '').slice(0, 8);
+  if (s.length < 8) return { period: end, cls: 'badge-dday-safe', label: '확인', daysLeft: 9999 };
+  const endDate = new Date(+s.slice(0,4), +s.slice(4,6)-1, +s.slice(6,8));
+  const today = new Date(); today.setHours(0,0,0,0);
+  const diff = Math.round((endDate - today) / 86400000);
+  const fmt = `~${s.slice(0,4)}.${s.slice(4,6)}.${s.slice(6,8)}`;
+  if (diff < 0)   return { period: fmt, cls: 'badge-dday-closed', label: '마감',     daysLeft: diff };
+  if (diff <= 3)  return { period: fmt, cls: 'badge-dday-danger', label: `D-${diff}`, daysLeft: diff };
+  if (diff <= 30) return { period: fmt, cls: 'badge-dday-warn',   label: `D-${diff}`, daysLeft: diff };
+  return           { period: fmt, cls: 'badge-dday-safe',  label: `D-${diff}`, daysLeft: diff };
+}
+function renderHomeCard(item) {
+  const srcBadge = item.source === 'central'
+    ? '<span class="badge badge-source-central">중앙부처</span>'
+    : '<span class="badge badge-source-local">지자체</span>';
+  const { period, cls, label } = calcDday(item.apply_end);
+  const slug = slugify(item.name || item.id || '');
+  const amount = String(item.amount_summary || '').slice(0, 28);
+  const summary = String(item.summary || '').slice(0, 70);
+  return `<a href="jiwon/${slug}.html" class="jiwon-card">
+  <div class="card-top">
+    <div class="card-badges">${srcBadge}</div>
+    <span class="badge-dday ${cls}">${label}</span>
+  </div>
+  <div class="card-title">${item.name || ''}</div>
+  <div class="card-dept">${item.dept || ''}</div>
+  <div class="card-info">
+    <div class="card-info-item">
+      <span class="card-info-label">지원내용</span>
+      <span class="card-info-value">${amount || '-'}</span>
+    </div>
+    <div class="card-info-item">
+      <span class="card-info-label">신청기간</span>
+      <span class="card-info-value">${period}</span>
+    </div>
+  </div>
+  <div class="card-target">${summary}</div>
+  <div class="card-btn">자세히 보기 →</div>
+</a>`;
+}
+
+(async () => {
+  try {
+    const [c, l] = await Promise.all([
+      fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+    ]);
+    const all = [...c, ...l];
+
+    // 신규 지원금: 마감 안된 것 앞 6개 (파일 순서 = 최신 수집 순서)
+    const active = all.filter(item => {
+      const { daysLeft } = calcDday(item.apply_end);
+      return daysLeft >= 0;
+    });
+    const newEl = document.getElementById('newCards');
+    if (newEl) newEl.innerHTML = active.slice(0, 6).map(renderHomeCard).join('') || '<p style="color:#A8A29E;padding:20px;text-align:center;">데이터를 불러오는 중입니다.</p>';
+
+    // 마감 임박: daysLeft 0~30 오름차순
+    const deadline = active.filter(item => calcDday(item.apply_end).daysLeft <= 30)
+      .sort((a, b) => calcDday(a.apply_end).daysLeft - calcDday(b.apply_end).daysLeft);
+    const deadEl = document.getElementById('deadlineCards');
+    if (deadEl) deadEl.innerHTML = deadline.slice(0, 6).map(renderHomeCard).join('') || '<p style="color:#A8A29E;padding:20px;text-align:center;">마감 임박 지원금이 없습니다.</p>';
+  } catch(e) {}
+})();
+</script>
+</body>
+</html>

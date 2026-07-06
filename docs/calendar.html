@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026년 정부지원금 신청일정 캘린더 — 월별 일정 | bojopass</title>
+  <meta name="description" content="2026년 정부지원금 신청 시작일과 마감일을 월별 캘린더로 한눈에 확인하세요. 놓치지 말고 제때 신청하세요.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="bojopass">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="canonical" href="https://wooabojopass.wooahouse.com/calendar.html">
+  <meta name="naver-site-verification" content="7afcd79d93548b43c77d7273bd621aa16842eafc" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZX4XBP4RMQ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZX4XBP4RMQ');</script>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ── 레이아웃 ── */
+    .cal-layout {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 28px 20px;
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 28px;
+      align-items: start;
+    }
+
+    /* ── 캘린더 헤더 ── */
+    .cal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      gap: 12px;
+    }
+    .cal-month-title {
+      font-size: 22px;
+      font-weight: 800;
+      color: var(--text-primary);
+      letter-spacing: -0.5px;
+    }
+    .cal-nav-btns { display: flex; gap: 8px; }
+    .cal-nav-btn {
+      width: 38px;
+      height: 38px;
+      border: 1.5px solid var(--border);
+      border-radius: 50%;
+      background: #fff;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.15s;
+      font-family: inherit;
+      color: var(--text-primary);
+    }
+    .cal-nav-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
+    .cal-today-btn {
+      padding: 0 14px;
+      height: 38px;
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      background: #fff;
+      font-size: 13px;
+      font-weight: 600;
+      font-family: inherit;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .cal-today-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
+
+    /* ── 범례 ── */
+    .cal-legend {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+    .legend-item { display: flex; align-items: center; gap: 5px; }
+    .legend-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── 달력 그리드 ── */
+    .cal-grid-wrap {
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+    }
+    .cal-weekdays {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      background: var(--section-bg);
+      border-bottom: 1px solid var(--border);
+    }
+    .cal-weekday {
+      padding: 10px 4px;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+    .cal-weekday.sun { color: #EF4444; }
+    .cal-weekday.sat { color: #3B82F6; }
+
+    .cal-days {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+    }
+    .cal-day {
+      min-height: 90px;
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 6px 5px 4px;
+      cursor: default;
+      transition: background 0.15s;
+      vertical-align: top;
+    }
+    .cal-day:nth-child(7n) { border-right: none; }
+    .cal-day.has-events { cursor: pointer; }
+    .cal-day.has-events:hover { background: var(--primary-light); }
+    .cal-day.other-month { background: #FAFAF9; }
+    .cal-day.today { background: #FFF7ED; }
+
+    .cal-day-num {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 4px;
+      line-height: 1;
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+    .cal-day.today .cal-day-num {
+      background: var(--primary);
+      color: #fff;
+    }
+    .cal-day.other-month .cal-day-num { color: var(--text-muted); }
+    .cal-day.sun .cal-day-num { color: #EF4444; }
+    .cal-day.sat .cal-day-num { color: #3B82F6; }
+    .cal-day.today.sun .cal-day-num,
+    .cal-day.today.sat .cal-day-num { color: #fff; }
+
+    /* 이벤트 바 */
+    .cal-events { display: flex; flex-direction: column; gap: 2px; }
+    .cal-event {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 5px;
+      border-radius: 3px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.5;
+      cursor: pointer;
+    }
+    .cal-event.start { background: #DCFCE7; color: #15803D; }
+    .cal-event.end   { background: #FEE2E2; color: #DC2626; }
+    .cal-event.ongoing { background: #EFF6FF; color: #1D4ED8; }
+    .cal-event.more {
+      font-size: 10px;
+      color: var(--text-muted);
+      padding: 1px 5px;
+      background: none;
+      cursor: pointer;
+    }
+
+    /* ── 이번달 목록 ── */
+    .this-month-list {
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      margin-top: 20px;
+    }
+    .this-month-header {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      font-size: 16px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .this-month-tabs {
+      display: flex;
+      gap: 4px;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+    }
+    .this-month-tab {
+      padding: 5px 12px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      font-family: inherit;
+      border: 1.5px solid var(--border);
+      background: #fff;
+      color: var(--text-secondary);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+    .this-month-tab.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+
+    .this-month-items { max-height: 400px; overflow-y: auto; }
+    .this-month-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.15s;
+      text-decoration: none;
+    }
+    .this-month-item:last-child { border-bottom: none; }
+    .this-month-item:hover { background: var(--primary-light); }
+    .this-month-item-date {
+      flex-shrink: 0;
+      width: 48px;
+      text-align: center;
+    }
+    .this-month-item-date .day { font-size: 20px; font-weight: 800; color: var(--primary); line-height: 1; }
+    .this-month-item-date .month { font-size: 11px; color: var(--text-muted); }
+    .this-month-item-info { flex: 1; min-width: 0; }
+    .this-month-item-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .this-month-item-dept { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+    .this-month-item-badge { flex-shrink: 0; }
+
+    /* ── 사이드바 ── */
+    .cal-sidebar { position: sticky; top: 80px; display: flex; flex-direction: column; gap: 16px; }
+    .cal-mini-card {
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 18px;
+    }
+    .cal-mini-title { font-size: 14px; font-weight: 700; margin-bottom: 12px; }
+    .cal-deadline-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      text-decoration: none;
+    }
+    .cal-deadline-item:last-child { border-bottom: none; }
+    .cal-deadline-item:hover .cal-deadline-name { color: var(--primary); }
+    .cal-deadline-dday {
+      flex-shrink: 0;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 7px;
+      border-radius: 8px;
+    }
+    .cal-deadline-name { font-size: 13px; color: var(--text-primary); line-height: 1.4; flex: 1; min-width: 0; }
+
+    /* ── 데이 모달 ── */
+    .day-modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .day-modal-overlay.open { display: flex; }
+    .day-modal {
+      background: #fff;
+      border-radius: var(--radius-xl);
+      padding: 24px;
+      max-width: 480px;
+      width: 100%;
+      max-height: 80vh;
+      overflow-y: auto;
+      box-shadow: var(--shadow-lg);
+    }
+    .day-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+    .day-modal-date { font-size: 18px; font-weight: 800; }
+    .day-modal-close {
+      width: 32px; height: 32px;
+      border: 1.5px solid var(--border);
+      border-radius: 50%;
+      background: none;
+      font-size: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: inherit;
+      color: var(--text-secondary);
+    }
+    .day-modal-close:hover { border-color: var(--danger); color: var(--danger); }
+    .day-modal-list { display: flex; flex-direction: column; gap: 10px; }
+    .day-modal-item {
+      padding: 12px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      text-decoration: none;
+      display: block;
+      transition: all 0.15s;
+    }
+    .day-modal-item:hover { border-color: var(--primary); background: var(--primary-light); }
+    .day-modal-item-type {
+      font-size: 11px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .day-modal-item-type.start { color: var(--success); }
+    .day-modal-item-type.end   { color: var(--danger); }
+    .day-modal-item-name { font-size: 14px; font-weight: 600; color: var(--text-primary); }
+    .day-modal-item-dept { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+    /* 로딩 */
+    .cal-loading { text-align: center; padding: 60px 20px; color: var(--text-muted); }
+    .cal-loading-spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (max-width: 1024px) {
+      .cal-layout { grid-template-columns: 1fr; }
+      .cal-sidebar { position: static; }
+      .ad-slot-sidebar { display: none; }
+    }
+    @media (max-width: 600px) {
+      .cal-day { min-height: 60px; padding: 4px 3px; }
+      .cal-day-num { font-size: 11px; width: 20px; height: 20px; }
+      .cal-event { display: none; }
+      .cal-day.has-events::after {
+        content: '●';
+        font-size: 8px;
+        color: var(--primary);
+        display: block;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <a href="/" class="logo">bojo<span>pass</span></a>
+    <div class="header-search">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="globalSearch" placeholder="찾는 지원금을 검색하세요">
+    </div>
+    <nav class="header-nav">
+      <a href="list.html">전체 목록</a>
+      <a href="calendar.html" style="color:var(--primary);">신청 캘린더</a>
+    </nav>
+  </div>
+</header>
+
+<div class="ad-wrap">
+  <div class="ad-slot ad-slot-top"><!-- 광고 --></div>
+</div>
+
+<div class="cal-layout">
+
+  <!-- ── 메인 캘린더 ── -->
+  <div>
+    <!-- 헤더 -->
+    <div class="cal-header">
+      <h1 class="cal-month-title" id="calTitle">2026년 6월</h1>
+      <div style="display:flex;gap:8px;align-items:center;">
+        <button class="cal-today-btn" onclick="goToday()">오늘</button>
+        <div class="cal-nav-btns">
+          <button class="cal-nav-btn" onclick="moveMonth(-1)">‹</button>
+          <button class="cal-nav-btn" onclick="moveMonth(1)">›</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 범례 -->
+    <div class="cal-legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#16A34A;"></div>신청 시작</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#DC2626;"></div>마감일</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#2563EB;"></div>신청 진행 중</div>
+    </div>
+
+    <!-- 달력 -->
+    <div id="calWrap">
+      <div class="cal-loading">
+        <div class="cal-loading-spinner"></div>
+        <p>일정을 불러오는 중이에요...</p>
+      </div>
+    </div>
+
+    <!-- 이번달 목록 -->
+    <div class="this-month-list" id="listWrap" style="display:none;">
+      <div class="this-month-header">
+        <span id="listTitle">이번달 신청 가능한 지원금</span>
+        <span id="listCount" style="font-size:14px;color:var(--primary);font-weight:700;"></span>
+      </div>
+      <div class="this-month-tabs" id="listTabs">
+        <button class="this-month-tab active" data-filter="all" onclick="filterList(this)">전체</button>
+        <button class="this-month-tab" data-filter="start" onclick="filterList(this)">🟢 시작</button>
+        <button class="this-month-tab" data-filter="end" onclick="filterList(this)">🔴 마감</button>
+        <button class="this-month-tab" data-filter="ongoing" onclick="filterList(this)">🔵 진행중</button>
+      </div>
+      <div class="this-month-items" id="listItems"></div>
+    </div>
+  </div>
+
+  <!-- ── 사이드바 ── -->
+  <aside class="cal-sidebar">
+    <div class="cal-mini-card">
+      <div class="cal-mini-title">⏰ 마감 임박</div>
+      <div id="deadlineList">
+        <div style="color:var(--text-muted);font-size:13px;">불러오는 중...</div>
+      </div>
+    </div>
+    <div class="cal-mini-card">
+      <div class="cal-mini-title">📊 이번달 현황</div>
+      <div id="monthStats" style="display:flex;flex-direction:column;gap:8px;font-size:14px;"></div>
+    </div>
+    <div class="ad-slot ad-slot-sidebar"><!-- 광고 --></div>
+  </aside>
+
+</div>
+
+<!-- ── 날짜 클릭 모달 ── -->
+<div class="day-modal-overlay" id="dayModal" onclick="closeDayModal(event)">
+  <div class="day-modal">
+    <div class="day-modal-header">
+      <div class="day-modal-date" id="modalDate"></div>
+      <button class="day-modal-close" onclick="closeDayModal()">✕</button>
+    </div>
+    <div class="day-modal-list" id="modalList"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-logo">bojo<span>pass</span></div>
+        <p class="footer-desc">정부지원금 및 복지혜택 정보를 쉽고 빠르게.<br>매일 새벽 최신 정보로 자동 업데이트됩니다.</p>
+      </div>
+      <div class="footer-links">
+        <a href="list.html">전체 목록</a>
+        <a href="calendar.html">신청 캘린더</a>
+        <a href="privacy.html">개인정보처리방침</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 bojopass. 정확한 정보는 각 부처 공식 사이트에서 확인하시기 바랍니다.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+const TODAY = new Date();
+TODAY.setHours(0,0,0,0);
+let curYear  = TODAY.getFullYear();
+let curMonth = TODAY.getMonth(); // 0-indexed
+let allItems = [];
+let monthEvents = {}; // { 'YYYY-MM-DD': [{type, item}] }
+let listFilter = 'all';
+
+// ── 데이터 로드 ───────────────────────────────────
+async function loadData() {
+  try {
+    const [c, l] = await Promise.all([
+      fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+    ]);
+    allItems = [...c, ...l].map(item => ({
+      ...item,
+      slug: slugify(item.name || item.id || ''),
+    }));
+    renderAll();
+  } catch(e) {
+    document.getElementById('calWrap').innerHTML =
+      '<p style="text-align:center;padding:40px;color:var(--text-muted);">데이터를 불러오지 못했어요.</p>';
+  }
+}
+
+function slugify(s) {
+  return String(s).trim().replace(/[^\w\s가-힣]/g,'-').replace(/[\s_]+/g,'-').replace(/^-+|-+$/g,'');
+}
+
+function parseDate(s) {
+  if (!s) return null;
+  const d = String(s).replace(/[-\.]/g,'').slice(0,8);
+  if (d.length < 8) return null;
+  const dt = new Date(+d.slice(0,4), +d.slice(4,6)-1, +d.slice(6,8));
+  return isNaN(dt) ? null : dt;
+}
+
+function fmt(dt) {
+  if (!dt) return '';
+  return `${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,'0')}-${String(dt.getDate()).padStart(2,'0')}`;
+}
+
+function calcDday(end) {
+  if (!end) return { cls: 'badge-dday-ongoing', label: '상시' };
+  const diff = Math.round((end - TODAY) / 86400000);
+  if (diff < 0)  return { cls: 'badge-dday-closed',  label: '마감' };
+  if (diff <= 3) return { cls: 'badge-dday-danger',  label: `D-${diff}` };
+  if (diff <= 30)return { cls: 'badge-dday-warn',    label: `D-${diff}` };
+  return           { cls: 'badge-dday-safe',  label: `D-${diff}` };
+}
+
+// ── 이벤트 인덱스 빌드 ────────────────────────────
+function buildMonthEvents(year, month) {
+  const events = {};
+  const monthStart = new Date(year, month, 1);
+  const monthEnd   = new Date(year, month+1, 0);
+
+  allItems.forEach(item => {
+    const start = parseDate(item.apply_start);
+    const end   = parseDate(item.apply_end);
+
+    // 신청 시작일이 이번달이면 start 이벤트
+    if (start && start.getFullYear() === year && start.getMonth() === month) {
+      const key = fmt(start);
+      if (!events[key]) events[key] = [];
+      events[key].push({ type: 'start', item });
+    }
+
+    // 마감일이 이번달이면 end 이벤트
+    if (end && end.getFullYear() === year && end.getMonth() === month) {
+      const key = fmt(end);
+      if (!events[key]) events[key] = [];
+      events[key].push({ type: 'end', item });
+    }
+
+    // 이번달 전체에 걸쳐 신청중인 것 (시작이 이번달 이전, 마감이 이번달 이후)
+    if (end && start && start < monthStart && end > monthEnd) {
+      // 1일에만 ongoing 표시 (너무 많으면 지저분)
+      const key = fmt(monthStart);
+      if (!events[key]) events[key] = [];
+      // 중복 방지
+      if (!events[key].find(e => e.item === item)) {
+        events[key].push({ type: 'ongoing', item });
+      }
+    }
+  });
+
+  return events;
+}
+
+// ── 달력 렌더링 ───────────────────────────────────
+function renderAll() {
+  monthEvents = buildMonthEvents(curYear, curMonth);
+  renderCalendar();
+  renderList();
+  renderDeadlines();
+  renderMonthStats();
+}
+
+function renderCalendar() {
+  const firstDay = new Date(curYear, curMonth, 1).getDay(); // 0=일
+  const lastDate = new Date(curYear, curMonth+1, 0).getDate();
+  const prevLastDate = new Date(curYear, curMonth, 0).getDate();
+
+  document.getElementById('calTitle').textContent = `${curYear}년 ${curMonth+1}월`;
+
+  let html = `<div class="cal-grid-wrap">
+    <div class="cal-weekdays">
+      <div class="cal-weekday sun">일</div>
+      <div class="cal-weekday">월</div>
+      <div class="cal-weekday">화</div>
+      <div class="cal-weekday">수</div>
+      <div class="cal-weekday">목</div>
+      <div class="cal-weekday">금</div>
+      <div class="cal-weekday sat">토</div>
+    </div>
+    <div class="cal-days">`;
+
+  // 이전달 채우기
+  for (let i = firstDay - 1; i >= 0; i--) {
+    html += `<div class="cal-day other-month">
+      <div class="cal-day-num">${prevLastDate - i}</div>
+    </div>`;
+  }
+
+  // 이번달
+  for (let d = 1; d <= lastDate; d++) {
+    const dt     = new Date(curYear, curMonth, d);
+    const key    = fmt(dt);
+    const isToday = dt.getTime() === TODAY.getTime();
+    const dow    = dt.getDay();
+    const evs    = monthEvents[key] || [];
+    const hasEvs = evs.length > 0;
+
+    let cls = 'cal-day';
+    if (isToday) cls += ' today';
+    if (dow === 0) cls += ' sun';
+    if (dow === 6) cls += ' sat';
+    if (hasEvs) cls += ' has-events';
+
+    const evHtml = evs.slice(0,2).map(e => {
+      const name = (e.item.name || '').slice(0, 10);
+      return `<div class="cal-event ${e.type}" onclick="event.stopPropagation();openDayModal('${key}')">${name}</div>`;
+    }).join('');
+    const moreHtml = evs.length > 2
+      ? `<div class="cal-event more" onclick="event.stopPropagation();openDayModal('${key}')">+${evs.length-2}개 더</div>`
+      : '';
+
+    html += `<div class="${cls}" onclick="${hasEvs ? `openDayModal('${key}')` : ''}">
+      <div class="cal-day-num">${d}</div>
+      <div class="cal-events">${evHtml}${moreHtml}</div>
+    </div>`;
+  }
+
+  // 다음달 채우기
+  const total = firstDay + lastDate;
+  const remaining = total % 7 === 0 ? 0 : 7 - (total % 7);
+  for (let d = 1; d <= remaining; d++) {
+    html += `<div class="cal-day other-month">
+      <div class="cal-day-num">${d}</div>
+    </div>`;
+  }
+
+  html += `</div></div>`;
+  document.getElementById('calWrap').innerHTML = html;
+}
+
+// ── 이번달 목록 ───────────────────────────────────
+function renderList() {
+  const listWrap = document.getElementById('listWrap');
+  const allEvs = [];
+
+  Object.entries(monthEvents).forEach(([dateKey, evs]) => {
+    evs.forEach(e => allEvs.push({ dateKey, ...e }));
+  });
+
+  allEvs.sort((a, b) => a.dateKey.localeCompare(b.dateKey));
+
+  if (allEvs.length === 0) { listWrap.style.display = 'none'; return; }
+  listWrap.style.display = 'block';
+
+  const MONTHS = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
+  document.getElementById('listTitle').textContent = `${curYear}년 ${curMonth+1}월 지원금 일정`;
+  document.getElementById('listCount').textContent = `${allEvs.length}건`;
+
+  window._listEvs = allEvs;
+  renderListItems(allEvs, listFilter);
+}
+
+function renderListItems(evs, filter) {
+  const filtered = filter === 'all' ? evs : evs.filter(e => e.type === filter);
+  const MONTHS = ['1','2','3','4','5','6','7','8','9','10','11','12'];
+  const TYPE_LABEL = { start: '🟢 신청 시작', end: '🔴 마감', ongoing: '🔵 진행중' };
+
+  document.getElementById('listItems').innerHTML = filtered.map(e => {
+    const d = new Date(e.dateKey);
+    const { cls, label } = calcDday(parseDate(e.item.apply_end));
+    return `<a href="jiwon/${e.item.slug}.html" class="this-month-item">
+      <div class="this-month-item-date">
+        <div class="day">${d.getDate()}</div>
+        <div class="month">${MONTHS[d.getMonth()]}월</div>
+      </div>
+      <div class="this-month-item-info">
+        <div class="this-month-item-name">${e.item.name || ''}</div>
+        <div class="this-month-item-dept">${e.item.dept || ''} · ${TYPE_LABEL[e.type]}</div>
+      </div>
+      <div class="this-month-item-badge">
+        <span class="badge-dday ${cls}">${label}</span>
+      </div>
+    </a>`;
+  }).join('') || '<p style="padding:20px;text-align:center;color:var(--text-muted);">해당하는 일정이 없어요</p>';
+}
+
+function filterList(btn) {
+  document.querySelectorAll('.this-month-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  listFilter = btn.dataset.filter;
+  if (window._listEvs) renderListItems(window._listEvs, listFilter);
+}
+
+// ── 마감 임박 사이드바 ────────────────────────────
+function renderDeadlines() {
+  const upcoming = allItems
+    .map(item => ({ item, end: parseDate(item.apply_end) }))
+    .filter(({ end }) => end && end >= TODAY)
+    .sort((a, b) => a.end - b.end)
+    .slice(0, 7);
+
+  document.getElementById('deadlineList').innerHTML = upcoming.length
+    ? upcoming.map(({ item, end }) => {
+        const { cls, label } = calcDday(end);
+        return `<a href="jiwon/${item.slug}.html" class="cal-deadline-item">
+          <span class="cal-deadline-dday ${cls}">${label}</span>
+          <span class="cal-deadline-name">${(item.name||'').slice(0,18)}</span>
+        </a>`;
+      }).join('')
+    : '<p style="color:var(--text-muted);font-size:13px;">마감 임박 지원금이 없어요</p>';
+}
+
+// ── 이번달 통계 ────────────────────────────────────
+function renderMonthStats() {
+  const allEvs = Object.values(monthEvents).flat();
+  const starts  = allEvs.filter(e => e.type === 'start').length;
+  const ends    = allEvs.filter(e => e.type === 'end').length;
+  const ongoing = allEvs.filter(e => e.type === 'ongoing').length;
+
+  document.getElementById('monthStats').innerHTML = `
+    <div style="display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--border);">
+      <span style="color:var(--text-muted);">신청 시작</span>
+      <strong style="color:var(--success);">${starts}건</strong>
+    </div>
+    <div style="display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--border);">
+      <span style="color:var(--text-muted);">마감</span>
+      <strong style="color:var(--danger);">${ends}건</strong>
+    </div>
+    <div style="display:flex;justify-content:space-between;padding:8px 0;">
+      <span style="color:var(--text-muted);">신청 진행중</span>
+      <strong style="color:var(--info);">${ongoing}건</strong>
+    </div>`;
+}
+
+// ── 날짜 모달 ─────────────────────────────────────
+function openDayModal(dateKey) {
+  const evs = monthEvents[dateKey] || [];
+  if (!evs.length) return;
+
+  const d = new Date(dateKey);
+  const TYPE_LABEL = { start: '신청 시작', end: '마감일', ongoing: '신청 진행중' };
+
+  document.getElementById('modalDate').textContent =
+    `${d.getMonth()+1}월 ${d.getDate()}일 일정 (${evs.length}건)`;
+
+  document.getElementById('modalList').innerHTML = evs.map(e => `
+    <a href="jiwon/${e.item.slug}.html" class="day-modal-item">
+      <div class="day-modal-item-type ${e.type}">${TYPE_LABEL[e.type]}</div>
+      <div class="day-modal-item-name">${e.item.name || ''}</div>
+      <div class="day-modal-item-dept">${e.item.dept || ''}</div>
+    </a>`).join('');
+
+  document.getElementById('dayModal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeDayModal(e) {
+  if (e && e.target !== document.getElementById('dayModal')) return;
+  document.getElementById('dayModal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+// ── 월 이동 ───────────────────────────────────────
+function moveMonth(dir) {
+  curMonth += dir;
+  if (curMonth > 11) { curMonth = 0; curYear++; }
+  if (curMonth < 0)  { curMonth = 11; curYear--; }
+  renderAll();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function goToday() {
+  curYear  = TODAY.getFullYear();
+  curMonth = TODAY.getMonth();
+  renderAll();
+}
+
+// ── 검색 ─────────────────────────────────────────
+document.getElementById('globalSearch').addEventListener('keydown', e => {
+  if (e.key === 'Enter') {
+    const q = e.target.value.trim();
+    if (q) location.href = `list.html?q=${encodeURIComponent(q)}`;
+  }
+});
+
+// ── 초기 로드 ─────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
