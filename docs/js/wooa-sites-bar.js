@@ -1,4 +1,5 @@
 (function () {
+  const INFO_VISIBLE_COUNT = 5;
   const SITES = [
     { icon: '🔗', name: 'WooaHouse', host: 'wooahouse.com',           url: 'https://wooahouse.com/' },
     { icon: '📄', name: 'WooaPDF',   host: 'pdfkit.wooahouse.com',    url: 'https://pdfkit.wooahouse.com/' },
@@ -210,14 +211,26 @@
     </div>
     <div class="our-sites-info-row">
       <span class="our-sites-info-label">${isJA ? '📌 インフォサイト' : isEN ? '📌 Info Sites' : '📌 패밀리 정보 사이트'}</span>
-      ${infoSites.map(s => `<a href="${s.url}" class="sites-info-btn${s.host === currentHost ? ' active' : ''}" target="_blank" rel="noopener">${s.icon} ${s.name}</a>`).join('')}
+      ${infoSites.slice(0, INFO_VISIBLE_COUNT).map(s => `<a href="${s.url}" class="sites-info-btn${s.host === currentHost ? ' active' : ''}" target="_blank" rel="noopener">${s.icon} ${s.name}</a>`).join('')}
+      ${infoSites.length > INFO_VISIBLE_COUNT ? `<button class="ws-info-more-btn">${isJA ? 'もっと見る' : isEN ? 'More' : '더보기'} (${infoSites.length - INFO_VISIBLE_COUNT}) ▾</button>` : ''}
+      ${infoSites.slice(INFO_VISIBLE_COUNT).map(s => `<a href="${s.url}" class="sites-info-btn sites-info-hidden${s.host === currentHost ? ' active' : ''}" target="_blank" rel="noopener">${s.icon} ${s.name}</a>`).join('')}
     </div>`;
 
   bar.querySelector('.ws-open-btn').addEventListener('click', openSearch);
 
+  const infoMoreBtn = bar.querySelector('.ws-info-more-btn');
+  if (infoMoreBtn) {
+    infoMoreBtn.addEventListener('click', () => {
+      const expanded = bar.classList.toggle('info-expanded');
+      infoMoreBtn.innerHTML = expanded
+        ? `${isJA ? '閉じる' : isEN ? 'Less' : '접기'} ▴`
+        : `${isJA ? 'もっと見る' : isEN ? 'More' : '더보기'} (${infoSites.length - INFO_VISIBLE_COUNT}) ▾`;
+    });
+  }
+
   // .ws-open-btn 스타일 (sites-bar 내 버튼)
   const btnStyle = document.createElement('style');
-  btnStyle.textContent = `.ws-open-btn{flex-shrink:0;display:inline-flex;align-items:center;gap:5px;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.3);color:inherit;border-radius:20px;padding:3px 12px;font-size:12px;cursor:pointer;white-space:nowrap;transition:background .15s}.ws-open-btn:hover{background:rgba(255,255,255,.28)}.our-sites-info-row{display:flex;justify-content:center;align-items:center;gap:10px;padding:8px 16px;flex-wrap:wrap;border-top:1px solid rgba(255,255,255,.08)}.our-sites-info-label{color:rgba(255,255,255,.5);font-size:12px;white-space:nowrap;margin-right:4px}.sites-info-btn{display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,.1);border:1.5px solid rgba(255,255,255,.25);color:rgba(255,255,255,.85);border-radius:24px;padding:7px 20px;font-size:15px;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .15s,border-color .15s,transform .1s;flex-shrink:0}.sites-info-btn:hover{background:rgba(255,255,255,.2);border-color:rgba(255,255,255,.5);color:#fff;transform:translateY(-1px)}.sites-info-btn.active{background:rgba(255,255,255,.22);border-color:rgba(255,255,255,.6)}.our-sites-links a{position:relative}.ws-nav-badge{position:absolute;top:-5px;right:-4px;font-size:7px;font-weight:800;padding:1px 4px;border-radius:6px;line-height:1.4;letter-spacing:.02em;pointer-events:none;box-shadow:0 1px 3px rgba(0,0,0,.3)}.ws-badge-new{background:#EF4444;color:#fff;}.ws-badge-update{background:#10B981;color:#fff;}`;
+  btnStyle.textContent = `.ws-open-btn{flex-shrink:0;display:inline-flex;align-items:center;gap:5px;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.3);color:inherit;border-radius:20px;padding:3px 12px;font-size:12px;cursor:pointer;white-space:nowrap;transition:background .15s}.ws-open-btn:hover{background:rgba(255,255,255,.28)}.our-sites-info-row{display:flex;justify-content:center;align-items:center;gap:10px;padding:8px 16px;flex-wrap:wrap;border-top:1px solid rgba(255,255,255,.08)}.our-sites-info-label{color:rgba(255,255,255,.5);font-size:12px;white-space:nowrap;margin-right:4px}.sites-info-btn{display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,.1);border:1.5px solid rgba(255,255,255,.25);color:rgba(255,255,255,.85);border-radius:24px;padding:7px 20px;font-size:15px;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .15s,border-color .15s,transform .1s;flex-shrink:0}.sites-info-btn:hover{background:rgba(255,255,255,.2);border-color:rgba(255,255,255,.5);color:#fff;transform:translateY(-1px)}.sites-info-btn.active{background:rgba(255,255,255,.22);border-color:rgba(255,255,255,.6)}.our-sites-links a{position:relative}.ws-nav-badge{position:absolute;top:-5px;right:-4px;font-size:7px;font-weight:800;padding:1px 4px;border-radius:6px;line-height:1.4;letter-spacing:.02em;pointer-events:none;box-shadow:0 1px 3px rgba(0,0,0,.3)}.ws-badge-new{background:#EF4444;color:#fff;}.ws-badge-update{background:#10B981;color:#fff;}.sites-info-hidden{display:none;}.our-sites-bar.info-expanded .sites-info-hidden{display:inline-flex;}.ws-info-more-btn{display:inline-flex;align-items:center;gap:4px;background:transparent;border:1.5px dashed rgba(255,255,255,.4);color:rgba(255,255,255,.75);border-radius:24px;padding:7px 16px;font-size:13px;font-weight:600;white-space:nowrap;cursor:pointer;transition:background .15s,color .15s;}.ws-info-more-btn:hover{background:rgba(255,255,255,.12);color:#fff;}`;
   document.head.appendChild(btnStyle);
 
   if (existing) {
