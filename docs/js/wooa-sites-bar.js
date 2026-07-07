@@ -31,6 +31,7 @@
     { icon: '📚', name: '전국 도서관', host: 'wooalib.wooahouse.com', url: 'https://wooalib.wooahouse.com/', info: true },
     { icon: '⛺', name: '전국 캠핑장', host: 'wooacamp.wooahouse.com', url: 'https://wooacamp.wooahouse.com/', info: true },
     { icon: '🧸', name: '아이랑 갈만한 곳', host: 'wooakids.wooahouse.com', url: 'https://wooakids.wooahouse.com/', info: true },
+    { icon: '🗑️', name: '대형폐기물 수수료', host: 'wooatrash.wooahouse.com', url: 'https://wooatrash.wooahouse.com/', info: true },
   ];
 
   // ── 검색 모달 ────────────────────────────────────────────────────────────────
