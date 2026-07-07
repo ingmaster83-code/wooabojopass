@@ -582,6 +582,8 @@ def build_category_page(title, description, items, category_type,
   </div>
 </header>
 
+<script src="{base_path}js/wooa-sites-bar.js"></script>
+
 <div class="ad-wrap">
   <div class="ad-slot ad-slot-top"><!-- 광고 --></div>
 </div>
