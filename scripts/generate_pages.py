@@ -566,6 +566,10 @@ def build_category_page(title, description, items, category_type,
   <meta name="twitter:image" content="https://wooabojopass.wooahouse.com/og.png">
   <link rel="canonical" href="https://wooabojopass.wooahouse.com/{('대상' if category_type == 'target' else '분야')}/{category_name}.html">
   <link rel="stylesheet" href="{base_path}css/style.css">
+  <meta name="naver-site-verification" content="91dbbf71972f6384211039124b0cf0505300345a" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZGENFSXWC"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-9ZGENFSXWC');</script>
 </head>
 <body>
 <header class="header">
@@ -583,9 +587,10 @@ def build_category_page(title, description, items, category_type,
 </header>
 
 <script src="{base_path}js/wooa-sites-bar.js"></script>
+<script src="{base_path}js/ad-dev-placeholder.js"></script>
 
 <div class="ad-wrap">
-  <div class="ad-slot ad-slot-top"><!-- 광고 --></div>
+  <div class="ad-slot ad-slot-top"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
 </div>
 
 <div style="background:linear-gradient(135deg,#FFF7ED,#FFEDD5);padding:36px 20px;text-align:center;border-bottom:1px solid #FFE4C4;">
@@ -604,7 +609,7 @@ def build_category_page(title, description, items, category_type,
 </div>
 
 <div style="margin:0 20px 20px;display:flex;justify-content:center;">
-  <div class="ad-slot ad-slot-mid"><!-- 광고 --></div>
+  <div class="ad-slot ad-slot-mid"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
 </div>
 
 <footer class="footer">
