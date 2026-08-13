@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+
+User-agent: Daum
+Allow: /
+
 Sitemap: https://wooabojopass.wooahouse.com/sitemap.xml
 
 #DaumWebMasterTool:054d7a6334ad830f5915e5558c679cd1d2ae7f2b4f4c1d38c518f729b0d9b3da:5OHFs/qHHlfCvAas17iLzw==
