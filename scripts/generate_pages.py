@@ -590,7 +590,7 @@ def build_category_page(title, description, items, category_type,
 <script src="{base_path}js/ad-dev-placeholder.js"></script>
 
 <div class="ad-wrap">
-  <div class="ad-slot ad-slot-top"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
+  <div class="ad-slot ad-slot-top"><ins class="adsbygoogle" style="display:block;width:100%" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
 </div>
 
 <div style="background:linear-gradient(135deg,#FFF7ED,#FFEDD5);padding:36px 20px;text-align:center;border-bottom:1px solid #FFE4C4;">
@@ -609,7 +609,7 @@ def build_category_page(title, description, items, category_type,
 </div>
 
 <div style="margin:0 20px 20px;display:flex;justify-content:center;">
-  <div class="ad-slot ad-slot-mid"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
+  <div class="ad-slot ad-slot-mid"><ins class="adsbygoogle" style="display:block;width:100%" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
 </div>
 
 <footer class="footer">
