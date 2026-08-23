@@ -64,6 +64,10 @@ def get_xml(url, params, retry=3):
     return None
 
 def save_json(path, data):
+    """기존 파일 보존 — 데이터 없으면 덮어쓰지 않음 (API 실패시 데이터 유실 방지)"""
+    if not data:
+        print(f"  [경고] 데이터 없음 — {path.name} 유지")
+        return
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 # ══════════════════════════════════════════════════════════
