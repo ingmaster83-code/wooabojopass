@@ -1175,7 +1175,7 @@ img {
     gap: 20px;
   }
 
-  .detail-sidebar { order: -1; }
+  .detail-sidebar { order: -1; position: static; top: auto; }
   .ad-slot-sidebar { display: none; }
 
   .detail-hero-grid { grid-template-columns: repeat(2, 1fr); }
