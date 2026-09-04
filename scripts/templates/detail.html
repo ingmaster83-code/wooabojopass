@@ -93,7 +93,7 @@
     <!-- 히어로 -->
     <div class="detail-hero">
       <div class="detail-hero-tags">
-        <span class="detail-hero-tag">{{ "중앙부처" if item.source == "central" else "지자체" }}</span>
+        <span class="detail-hero-tag">{{ "중앙부처" if item.source == "central" else ("기업지원사업" if item.source == "biz" else "지자체") }}</span>
         {% for tag in item.tag_list %}<span class="detail-hero-tag">{{ tag }}</span>{% endfor %}
       </div>
       <h1>{{ item.name }}</h1>

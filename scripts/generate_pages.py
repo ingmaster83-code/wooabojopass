@@ -652,8 +652,10 @@ document.getElementById('catSearch').addEventListener('input', e => {{
 
 def render_card(item, base_path=""):
     """지원금 카드 HTML 조각"""
-    source_badge = "중앙부처" if item.get("source") == "central" else "지자체"
-    source_class = "badge-source-central" if item.get("source") == "central" else "badge-source-local"
+    SOURCE_BADGES = {"central": "중앙부처", "local": "지자체", "biz": "기업지원사업"}
+    SOURCE_CLASSES = {"central": "badge-source-central", "local": "badge-source-local", "biz": "badge-source-biz"}
+    source_badge = SOURCE_BADGES.get(item.get("source"), "지자체")
+    source_class = SOURCE_CLASSES.get(item.get("source"), "badge-source-local")
     tags = " ".join(item.get("targets", []) + item.get("fields", []))
     name = item.get("name", "")
     dept = item.get("dept", "")
@@ -748,12 +750,13 @@ def main():
     # ── 데이터 로드
     central = json.loads((DATA_DIR / "central.json").read_text(encoding="utf-8")) if (DATA_DIR / "central.json").exists() else []
     local   = json.loads((DATA_DIR / "local.json").read_text(encoding="utf-8"))   if (DATA_DIR / "local.json").exists()   else []
+    biz     = json.loads((DATA_DIR / "biz.json").read_text(encoding="utf-8"))     if (DATA_DIR / "biz.json").exists()     else []
 
-    print(f"  중앙부처: {len(central)}건 / 지자체: {len(local)}건")
+    print(f"  중앙부처: {len(central)}건 / 지자체: {len(local)}건 / 기업지원사업: {len(biz)}건")
 
     # ── 상세 데이터 병합 + 아이템 빌드
     all_items = []
-    for raw in central + local:
+    for raw in central + local + biz:
         item_id = str(raw.get("id", ""))
         detail_path = DETAIL_DIR / f"{item_id}.json"
         detail = {}
@@ -779,6 +782,8 @@ def main():
     import shutil
     shutil.copy(DATA_DIR / "central.json", docs_data_dir / "central.json")
     shutil.copy(DATA_DIR / "local.json",   docs_data_dir / "local.json")
+    if (DATA_DIR / "biz.json").exists():
+        shutil.copy(DATA_DIR / "biz.json", docs_data_dir / "biz.json")
     print(f"✓ docs/data/ JSON 복사 완료")
 
     # ── 통계 JSON 생성 (이번달 마감 등 사전 계산)
@@ -790,6 +795,7 @@ def main():
         "total":      len(all_items),
         "central":    len([x for x in all_items if x.get("source") == "central"]),
         "local":      len([x for x in all_items if x.get("source") == "local"]),
+        "biz":        len([x for x in all_items if x.get("source") == "biz"]),
         "deadline":   len(this_month_end),
         "active":     len([x for x in all_items if not x.get("is_closed")]),
     }

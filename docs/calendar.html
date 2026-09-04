@@ -498,11 +498,12 @@ let listFilter = 'all';
 // ── 데이터 로드 ───────────────────────────────────
 async function loadData() {
   try {
-    const [c, l] = await Promise.all([
+    const [c, l, b] = await Promise.all([
       fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
       fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/biz.json').then(r => r.ok ? r.json() : []).catch(() => []),
     ]);
-    allItems = [...c, ...l].map(item => ({
+    allItems = [...c, ...l, ...b].map(item => ({
       ...item,
       slug: slugify(item.name || item.id || ''),
     }));

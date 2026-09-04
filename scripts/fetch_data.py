@@ -269,6 +269,86 @@ def fetch_local_detail(serv_id):
 
 
 # ══════════════════════════════════════════════════════════
+# 3. 중소벤처기업부 기업마당(bizinfo) 지원사업 공고
+#    (목록 응답에 상세 항목이 전부 포함돼 있어 별도 상세 조회 불필요.
+#     "당해년도" 진행중인 공고만 제공 — 과거 이력 없음.)
+# ══════════════════════════════════════════════════════════
+
+import re as _re
+
+BIZ_LIST_URL = "https://apis.data.go.kr/1421000/bizinfo/pblancBsnsService"
+
+def strip_html(s):
+    if not s:
+        return ""
+    s = _re.sub(r"<[^>]+>", " ", s)
+    s = s.replace("&nbsp;", " ")
+    return _re.sub(r"\s+", " ", s).strip()
+
+def split_period(period_str):
+    """'2026-09-01 ~ 2026-10-02' -> (시작일, 종료일)"""
+    if not period_str or "~" not in period_str:
+        return "", ""
+    start, _, end = period_str.partition("~")
+    return start.strip(), end.strip()
+
+def fetch_biz_list():
+    """전체 중소기업 지원사업 공고 수집 (페이지 순회, 상세 포함)"""
+    print("\n[기업지원사업] 목록 수집 시작...")
+    all_items = []
+    page = 1
+    per_page = 100
+
+    while True:
+        params = {"serviceKey": API_KEY, "pageNo": page, "numOfRows": per_page}
+        root = get_xml(BIZ_LIST_URL, params)
+        if root is None:
+            print(f"  페이지 {page} 호출 실패, 중단")
+            break
+
+        items = root.findall(".//item")
+        total_el = root.find(".//totalCount")
+        total = int(total_el.text) if total_el is not None and total_el.text else 0
+        print(f"  페이지 {page} — {len(items)}건 (전체 {total}건)")
+
+        for item in items:
+            t = lambda tag: xml_text(item, tag)
+            apply_start, apply_end = split_period(t("reqstBeginEndDe"))
+            summary = strip_html(t("bsnsSumryCn"))
+            all_items.append({
+                "source": "biz",
+                "id": t("pblancId"),
+                "name": t("pblancNm"),
+                "summary": summary,
+                "dept": t("jrsdInsttNm"),          # 소관기관(지자체/부처)
+                "ministry": t("excInsttNm"),        # 수행기관
+                "apply_start": apply_start,
+                "apply_end": apply_end,
+                "apply_type": "",
+                "apply_detail": strip_html(t("reqstMthPapersCn")),
+                "support_type": t("pldirSportRealmLclasCodeNm"),
+                "target_summary": t("trgetNm"),
+                "amount_summary": summary,
+                "support_detail": summary,
+                "categories": t("hashtags") + " " + t("pldirSportRealmLclasCodeNm"),
+                "life_cycle": "",
+                "contact": t("refrncNm"),
+                "url": t("pblancUrl"),
+                "online_apply_url": t("rceptEngnHmpgUrl") or t("pblancUrl"),
+                "conditions": [],
+                "documents": "",
+            })
+
+        if page * per_page >= total or not items:
+            break
+        page += 1
+        time.sleep(0.3)
+
+    print(f"  ✓ 기업지원사업 목록 총 {len(all_items)}건")
+    return all_items
+
+
+# ══════════════════════════════════════════════════════════
 # 메인 실행
 # ══════════════════════════════════════════════════════════
 
@@ -324,10 +404,16 @@ def main():
     save_json(DATA_DIR / "local.json", local_list)
     print(f"\n✓ local.json 저장 완료 ({len(local_list)}건)")
 
+    # ── 3. 기업지원사업 공고 (목록 응답에 상세 포함, 별도 detail 조회 불필요)
+    biz_list = fetch_biz_list()
+    save_json(DATA_DIR / "biz.json", biz_list)
+    print(f"\n✓ biz.json 저장 완료 ({len(biz_list)}건)")
+
     elapsed = (datetime.now() - start).seconds // 60
     print(f"\n=== 완료: 총 {elapsed}분 소요 ===")
     print(f"  중앙부처: {len(central_list)}건")
     print(f"  지자체:   {len(local_list)}건")
+    print(f"  기업지원사업: {len(biz_list)}건")
     print(f"  상세파일: {len(list(DETAIL_DIR.glob('*.json')))}건")
 
 

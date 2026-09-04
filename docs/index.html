@@ -626,12 +626,13 @@ let allItems = [];
 // 데이터 미리 로드
 (async () => {
   try {
-    const [c, l, stats] = await Promise.all([
+    const [c, l, b, stats] = await Promise.all([
       fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
       fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/biz.json').then(r => r.ok ? r.json() : []).catch(() => []),
       fetch('data/stats.json').then(r => r.ok ? r.json() : {}).catch(() => {}),
     ]);
-    allItems = [...c, ...l];
+    allItems = [...c, ...l, ...b];
     document.getElementById('statTotal').textContent   = (stats.total   ?? allItems.length).toLocaleString();
     document.getElementById('statCentral').textContent = (stats.central ?? c.length).toLocaleString();
     document.getElementById('statLocal').textContent   = (stats.local   ?? l.length).toLocaleString();
@@ -852,11 +853,12 @@ function renderHomeCard(item) {
 
 (async () => {
   try {
-    const [c, l] = await Promise.all([
+    const [c, l, b] = await Promise.all([
       fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
       fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/biz.json').then(r => r.ok ? r.json() : []).catch(() => []),
     ]);
-    const all = [...c, ...l];
+    const all = [...c, ...l, ...b];
 
     // 신규 지원금: 마감 안된 것 앞 6개 (파일 순서 = 최신 수집 순서)
     const active = all.filter(item => {

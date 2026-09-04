@@ -228,6 +228,7 @@
         <button class="filter-chip active" data-source="all">전체 <span class="filter-chip-count" id="cntAll">-</span></button>
         <button class="filter-chip" data-source="central">중앙부처 <span class="filter-chip-count" id="cntCentral">-</span></button>
         <button class="filter-chip" data-source="local">지자체 <span class="filter-chip-count" id="cntLocal">-</span></button>
+        <button class="filter-chip" data-source="biz">기업지원사업 <span class="filter-chip-count" id="cntBiz">-</span></button>
       </div>
     </div>
 
@@ -336,16 +337,18 @@ const state = { source: 'all', target: 'all', field: 'all', status: 'all', q: ''
 // ── 데이터 로드 ───────────────────────────────────
 async function loadData() {
   try {
-    const [central, local] = await Promise.all([
+    const [central, local, biz] = await Promise.all([
       fetch('data/central.json').then(r => r.ok ? r.json() : []).catch(() => []),
       fetch('data/local.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('data/biz.json').then(r => r.ok ? r.json() : []).catch(() => []),
     ]);
 
-    ALL_ITEMS = [...central, ...local].map(enrichItem);
+    ALL_ITEMS = [...central, ...local, ...biz].map(enrichItem);
 
     document.getElementById('cntAll').textContent     = ALL_ITEMS.length.toLocaleString();
     document.getElementById('cntCentral').textContent = central.length.toLocaleString();
     document.getElementById('cntLocal').textContent   = local.length.toLocaleString();
+    document.getElementById('cntBiz').textContent     = biz.length.toLocaleString();
 
     document.getElementById('loadingState').style.display = 'none';
     document.getElementById('cardGrid').style.display     = 'grid';
@@ -450,7 +453,12 @@ function renderPage() {
 }
 
 function renderCard(item) {
-  const srcBadge = item.source === 'central' ? '<span class="badge badge-source-central">중앙부처</span>' : '<span class="badge badge-source-local">지자체</span>';
+  const SRC_BADGES = {
+    central: '<span class="badge badge-source-central">중앙부처</span>',
+    local:   '<span class="badge badge-source-local">지자체</span>',
+    biz:     '<span class="badge badge-source-biz">기업지원사업</span>',
+  };
+  const srcBadge = SRC_BADGES[item.source] || SRC_BADGES.local;
   const amount   = String(item.amount_summary || '').slice(0, 28);
   const summary  = String(item.summary || '').slice(0, 70);
   return `<a href="jiwon/${item.slug}.html" class="jiwon-card">
