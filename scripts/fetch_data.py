@@ -349,6 +349,150 @@ def fetch_biz_list():
 
 
 # ══════════════════════════════════════════════════════════
+# 4. 온통청년(youthcenter.go.kr) 청년정책API
+#    - data.go.kr이 아니라 온통청년 자체 회원가입+마이페이지 발급 인증키 필요
+#      (YOUTH_API_KEY 환경변수). 목록 응답에 상세 항목 전부 포함됨.
+# ══════════════════════════════════════════════════════════
+
+YOUTH_API_KEY = os.environ.get("YOUTH_API_KEY", "")
+YOUTH_LIST_URL = "https://www.youthcenter.go.kr/go/ythip/getPlcy"
+
+def fetch_youth_list():
+    if not YOUTH_API_KEY:
+        print("\n[청년정책] YOUTH_API_KEY 없음 — 건너뜀")
+        return []
+    print("\n[청년정책] 목록 수집 시작...")
+    all_items = []
+    page = 1
+    per_page = 100
+
+    while True:
+        params = {"apiKeyNm": YOUTH_API_KEY, "pageNum": page, "pageSize": per_page, "rtnType": "json"}
+        data = get_json(YOUTH_LIST_URL, params)
+        if data is None or data.get("resultCode") != 200:
+            print(f"  페이지 {page} 호출 실패, 중단 — {data}")
+            break
+
+        result = data.get("result", {})
+        items = result.get("youthPolicyList", [])
+        total = result.get("pagging", {}).get("totCount", 0)
+        print(f"  페이지 {page} — {len(items)}건 (전체 {total}건)")
+
+        for it in items:
+            g = lambda k: (it.get(k) or "")
+            apply_start, apply_end = split_period(g("aplyYmd"))
+            age_min, age_max = g("sprtTrgtMinAge"), g("sprtTrgtMaxAge")
+            has_age = g("sprtTrgtAgeLmtYn") == "Y" and (age_min not in ("", "0") or age_max not in ("", "0"))
+            target_detail = g("addAplyQlfcCndCn")
+            exclude = g("ptcpPrpTrgtCn")
+            conditions = []
+            if has_age or target_detail or exclude:
+                conditions.append({
+                    "age_min": age_min if has_age and age_min not in ("", "0") else "",
+                    "age_max": age_max if has_age and age_max not in ("", "0") else "",
+                    "target_detail": target_detail,
+                    "exclude": exclude,
+                })
+
+            all_items.append({
+                "source": "youth",
+                "id": "youth-" + g("plcyNo"),
+                "name": g("plcyNm"),
+                "summary": g("plcyExplnCn"),
+                "dept": g("sprvsnInstCdNm"),
+                "ministry": g("operInstCdNm"),
+                "apply_start": apply_start,
+                "apply_end": apply_end,
+                "apply_type": "",
+                "apply_detail": g("plcyAplyMthdCn"),
+                "support_type": g("lclsfNm"),
+                "target_summary": f"청년 {g('mclsfNm')} {g('plcyKywdNm')}".strip(),
+                "amount_summary": g("plcySprtCn"),
+                "support_detail": g("plcySprtCn"),
+                "categories": f"청년정책 {g('lclsfNm')} {g('mclsfNm')} {g('plcyKywdNm')}".strip(),
+                "life_cycle": "청년",
+                "contact": g("sprvsnInstPicNm"),
+                "url": g("refUrlAddr1") or g("aplyUrlAddr"),
+                "online_apply_url": g("aplyUrlAddr") or g("refUrlAddr1"),
+                "conditions": conditions,
+                "documents": g("sbmsnDcmntCn"),
+            })
+
+        if page * per_page >= total or not items:
+            break
+        page += 1
+        time.sleep(0.2)
+
+    print(f"  ✓ 청년정책 목록 총 {len(all_items)}건")
+    return all_items
+
+
+# ══════════════════════════════════════════════════════════
+# 5. 창업진흥원 K-Startup 통합공고 조회서비스
+#    (30,000여 건 누적 이력 중 현재 모집중(rcrt_prgs_yn=Y)인 공고만 채택)
+# ══════════════════════════════════════════════════════════
+
+KSTARTUP_LIST_URL = "https://apis.data.go.kr/B552735/kisedKstartupService01/getAnnouncementInformation01"
+
+def fetch_kstartup_list():
+    print("\n[K-Startup] 목록 수집 시작...")
+    all_items = []
+    page = 1
+    per_page = 100
+
+    while True:
+        params = {"serviceKey": API_KEY, "page": page, "perPage": per_page, "returnType": "json"}
+        data = get_json(KSTARTUP_LIST_URL, params)
+        if data is None or "data" not in data:
+            print(f"  페이지 {page} 호출 실패, 중단 — {data}")
+            break
+
+        items = data.get("data", [])
+        total = data.get("totalCount", 0)
+        print(f"  페이지 {page} — {len(items)}건 (전체 {total}건, 모집중만 채택)")
+
+        for it in items:
+            g = lambda k: (it.get(k) or "")
+            if g("rcrt_prgs_yn") != "Y":
+                continue
+            apply_start = str(g("pbanc_rcpt_bgng_dt")).strip()
+            apply_end = str(g("pbanc_rcpt_end_dt")).strip()
+            target_detail = g("aply_trgt_ctnt")
+            exclude = g("aply_excl_trgt_ctnt")
+            all_items.append({
+                "source": "kstartup",
+                "id": "kstartup-" + str(g("pbanc_sn")),
+                "name": g("biz_pbanc_nm"),
+                "summary": g("pbanc_ctnt"),
+                "dept": g("pbanc_ntrp_nm"),
+                "ministry": g("sprv_inst"),
+                "apply_start": apply_start,
+                "apply_end": apply_end,
+                "apply_type": "",
+                "apply_detail": g("aply_mthd_onli_rcpt_istc") or g("aply_mthd_eml_rcpt_istc"),
+                "support_type": g("supt_biz_clsfc"),
+                "target_summary": f"창업 {g('aply_trgt')} {g('biz_enyy')}".strip(),
+                "amount_summary": g("pbanc_ctnt"),
+                "support_detail": g("pbanc_ctnt"),
+                "categories": f"창업지원 K-Startup {g('supt_biz_clsfc')} {g('supt_regin')}".strip(),
+                "life_cycle": "청년 창업",
+                "contact": g("pbanc_ntrp_nm"),
+                "url": g("detl_pg_url"),
+                "online_apply_url": g("aply_mthd_onli_rcpt_istc") or g("detl_pg_url"),
+                "conditions": [{"target_detail": target_detail, "exclude": exclude}] if (target_detail or exclude) else [],
+                "documents": "",
+            })
+
+        if page * per_page >= total or not items:
+            break
+        page += 1
+        time.sleep(0.2)
+
+    print(f"  ✓ K-Startup 목록 총 {len(all_items)}건 (모집중 공고만)")
+    return all_items
+
+
+# ══════════════════════════════════════════════════════════
 # 메인 실행
 # ══════════════════════════════════════════════════════════
 
@@ -409,11 +553,23 @@ def main():
     save_json(DATA_DIR / "biz.json", biz_list)
     print(f"\n✓ biz.json 저장 완료 ({len(biz_list)}건)")
 
+    # ── 4. 청년정책 (온통청년, 목록 응답에 상세 포함)
+    youth_list = fetch_youth_list()
+    save_json(DATA_DIR / "youth.json", youth_list)
+    print(f"\n✓ youth.json 저장 완료 ({len(youth_list)}건)")
+
+    # ── 5. K-Startup 창업지원사업 (목록 응답에 상세 포함)
+    kstartup_list = fetch_kstartup_list()
+    save_json(DATA_DIR / "kstartup.json", kstartup_list)
+    print(f"\n✓ kstartup.json 저장 완료 ({len(kstartup_list)}건)")
+
     elapsed = (datetime.now() - start).seconds // 60
     print(f"\n=== 완료: 총 {elapsed}분 소요 ===")
     print(f"  중앙부처: {len(central_list)}건")
     print(f"  지자체:   {len(local_list)}건")
     print(f"  기업지원사업: {len(biz_list)}건")
+    print(f"  청년정책: {len(youth_list)}건")
+    print(f"  K-Startup: {len(kstartup_list)}건")
     print(f"  상세파일: {len(list(DETAIL_DIR.glob('*.json')))}건")
 
 

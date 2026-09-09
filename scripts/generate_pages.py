@@ -652,8 +652,8 @@ document.getElementById('catSearch').addEventListener('input', e => {{
 
 def render_card(item, base_path=""):
     """지원금 카드 HTML 조각"""
-    SOURCE_BADGES = {"central": "중앙부처", "local": "지자체", "biz": "기업지원사업"}
-    SOURCE_CLASSES = {"central": "badge-source-central", "local": "badge-source-local", "biz": "badge-source-biz"}
+    SOURCE_BADGES = {"central": "중앙부처", "local": "지자체", "biz": "기업지원사업", "youth": "청년정책", "kstartup": "창업지원(K-Startup)"}
+    SOURCE_CLASSES = {"central": "badge-source-central", "local": "badge-source-local", "biz": "badge-source-biz", "youth": "badge-source-biz", "kstartup": "badge-source-biz"}
     source_badge = SOURCE_BADGES.get(item.get("source"), "지자체")
     source_class = SOURCE_CLASSES.get(item.get("source"), "badge-source-local")
     tags = " ".join(item.get("targets", []) + item.get("fields", []))
@@ -748,15 +748,17 @@ def main():
     print(f"=== 페이지 생성 시작: {start.strftime('%Y-%m-%d %H:%M:%S')} ===")
 
     # ── 데이터 로드
-    central = json.loads((DATA_DIR / "central.json").read_text(encoding="utf-8")) if (DATA_DIR / "central.json").exists() else []
-    local   = json.loads((DATA_DIR / "local.json").read_text(encoding="utf-8"))   if (DATA_DIR / "local.json").exists()   else []
-    biz     = json.loads((DATA_DIR / "biz.json").read_text(encoding="utf-8"))     if (DATA_DIR / "biz.json").exists()     else []
+    central  = json.loads((DATA_DIR / "central.json").read_text(encoding="utf-8"))  if (DATA_DIR / "central.json").exists()  else []
+    local    = json.loads((DATA_DIR / "local.json").read_text(encoding="utf-8"))    if (DATA_DIR / "local.json").exists()    else []
+    biz      = json.loads((DATA_DIR / "biz.json").read_text(encoding="utf-8"))      if (DATA_DIR / "biz.json").exists()      else []
+    youth    = json.loads((DATA_DIR / "youth.json").read_text(encoding="utf-8"))    if (DATA_DIR / "youth.json").exists()    else []
+    kstartup = json.loads((DATA_DIR / "kstartup.json").read_text(encoding="utf-8")) if (DATA_DIR / "kstartup.json").exists() else []
 
-    print(f"  중앙부처: {len(central)}건 / 지자체: {len(local)}건 / 기업지원사업: {len(biz)}건")
+    print(f"  중앙부처: {len(central)}건 / 지자체: {len(local)}건 / 기업지원사업: {len(biz)}건 / 청년정책: {len(youth)}건 / K-Startup: {len(kstartup)}건")
 
     # ── 상세 데이터 병합 + 아이템 빌드
     all_items = []
-    for raw in central + local + biz:
+    for raw in central + local + biz + youth + kstartup:
         item_id = str(raw.get("id", ""))
         detail_path = DETAIL_DIR / f"{item_id}.json"
         detail = {}
@@ -784,6 +786,10 @@ def main():
     shutil.copy(DATA_DIR / "local.json",   docs_data_dir / "local.json")
     if (DATA_DIR / "biz.json").exists():
         shutil.copy(DATA_DIR / "biz.json", docs_data_dir / "biz.json")
+    if (DATA_DIR / "youth.json").exists():
+        shutil.copy(DATA_DIR / "youth.json", docs_data_dir / "youth.json")
+    if (DATA_DIR / "kstartup.json").exists():
+        shutil.copy(DATA_DIR / "kstartup.json", docs_data_dir / "kstartup.json")
     print(f"✓ docs/data/ JSON 복사 완료")
 
     # ── 통계 JSON 생성 (이번달 마감 등 사전 계산)
@@ -796,6 +802,8 @@ def main():
         "central":    len([x for x in all_items if x.get("source") == "central"]),
         "local":      len([x for x in all_items if x.get("source") == "local"]),
         "biz":        len([x for x in all_items if x.get("source") == "biz"]),
+        "youth":      len([x for x in all_items if x.get("source") == "youth"]),
+        "kstartup":   len([x for x in all_items if x.get("source") == "kstartup"]),
         "deadline":   len(this_month_end),
         "active":     len([x for x in all_items if not x.get("is_closed")]),
     }
