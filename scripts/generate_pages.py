@@ -599,6 +599,8 @@ def build_category_page(title, description, items, category_type,
   <p style="color:var(--text-secondary);margin-top:8px;">총 {len(items)}개 지원금 · 매일 자동 업데이트</p>
 </div>
 
+<div class="detail-layout">
+<div class="detail-main">
 <div class="section">
   <div class="tabs" id="filterTabs">
     {filter_btns}
@@ -606,6 +608,11 @@ def build_category_page(title, description, items, category_type,
   <div class="card-grid" id="cardGrid">
     {cards_html}
   </div>
+</div>
+</div>
+<aside class="detail-sidebar">
+  <div class="ad-slot ad-slot-sidebar"><ins class="adsbygoogle" style="display:block;width:100%" data-ad-client="ca-pub-6464921081676309" data-ad-slot="1419180025" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>
+</aside>
 </div>
 
 <div style="margin:0 20px 20px;display:flex;justify-content:center;">
