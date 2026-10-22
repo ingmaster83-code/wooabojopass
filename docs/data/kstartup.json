@@ -1,6 +1,202 @@
 [
   {
     "source": "kstartup",
+    "id": "kstartup-179604",
+    "name": "[포스텍홀딩스 데모데이] 2026 PR Day : 기술, 현실이 되다",
+    "summary": "포스텍홀딩스에서는 유망 기술 스타트업의 혁신 기술과 사업 비전을 공유하고, 투자 및 사업 협력 기회를 모색하기 위한 「2026 POSTECH HOLDINGS PR DAY Part II」를 개최합니다.\r\n이번 행사에서는 AI·반도체·바이오·친환경 기술 등 다양한 분야의 유망 스타트업 6개사가 참여하여 핵심 기술과 성장 전략을 소개하는 IR 발표와 투자자·창업팀 간 네트워킹을 진행합니다.\r\n스타트업 및 투자 관계자 여러분의 많은 관심과 참여 바랍니다.",
+    "dept": "포항공과대학교 기술지주 주식회사",
+    "ministry": "민간",
+    "apply_start": "20261022",
+    "apply_end": "20261101",
+    "apply_type": "",
+    "apply_detail": "https://event-us.kr/m/137648/63504",
+    "support_type": "행사ㆍ네트워크",
+    "target_summary": "창업 대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": "포스텍홀딩스에서는 유망 기술 스타트업의 혁신 기술과 사업 비전을 공유하고, 투자 및 사업 협력 기회를 모색하기 위한 「2026 POSTECH HOLDINGS PR DAY Part II」를 개최합니다.\r\n이번 행사에서는 AI·반도체·바이오·친환경 기술 등 다양한 분야의 유망 스타트업 6개사가 참여하여 핵심 기술과 성장 전략을 소개하는 IR 발표와 투자자·창업팀 간 네트워킹을 진행합니다.\r\n스타트업 및 투자 관계자 여러분의 많은 관심과 참여 바랍니다.",
+    "support_detail": "포스텍홀딩스에서는 유망 기술 스타트업의 혁신 기술과 사업 비전을 공유하고, 투자 및 사업 협력 기회를 모색하기 위한 「2026 POSTECH HOLDINGS PR DAY Part II」를 개최합니다.\r\n이번 행사에서는 AI·반도체·바이오·친환경 기술 등 다양한 분야의 유망 스타트업 6개사가 참여하여 핵심 기술과 성장 전략을 소개하는 IR 발표와 투자자·창업팀 간 네트워킹을 진행합니다.\r\n스타트업 및 투자 관계자 여러분의 많은 관심과 참여 바랍니다.",
+    "categories": "창업지원 K-Startup 행사ㆍ네트워크 전국",
+    "life_cycle": "청년 창업",
+    "contact": "포항공과대학교 기술지주 주식회사",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179604",
+    "online_apply_url": "https://event-us.kr/m/137648/63504",
+    "conditions": [
+      {
+        "target_detail": "스타트업 투자자, 창업기업 대표 및 임직원, 기술·사업 협력에 관심 있는 기업 관계자 등",
+        "exclude": ""
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179602",
+    "name": "2026 FAST TRACK 농식품 데모데이",
+    "summary": "2026 FAST RACK 농식품 데모데이에 스타트업, 창업 관계자 및 투자자 여러분을 초청합니다.",
+    "dept": "씨엔티테크",
+    "ministry": "민간",
+    "apply_start": "20261022",
+    "apply_end": "20261030",
+    "apply_type": "",
+    "apply_detail": "https://forms.gle/A17LY1yVwFR5U5as9",
+    "support_type": "사업화",
+    "target_summary": "창업 대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": "2026 FAST RACK 농식품 데모데이에 스타트업, 창업 관계자 및 투자자 여러분을 초청합니다.",
+    "support_detail": "2026 FAST RACK 농식품 데모데이에 스타트업, 창업 관계자 및 투자자 여러분을 초청합니다.",
+    "categories": "창업지원 K-Startup 사업화 서울",
+    "life_cycle": "청년 창업",
+    "contact": "씨엔티테크",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179602",
+    "online_apply_url": "https://forms.gle/A17LY1yVwFR5U5as9",
+    "conditions": [
+      {
+        "target_detail": "- 농식품 사업에 관심있는 창업자/예비창업자/투자자\r\n- FAST TRACK 프로그램 우수 스타트업 발굴을 희망하는 투자자",
+        "exclude": ""
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179601",
+    "name": "<2026년 시제품 고도화 바우처 지원 프로그램> 참여 기업 모집 (~11.3.14시)",
+    "summary": "초기 창업 기업의 시제품 제작 비용 부담 완화 및 전문 제조 업체 연계 애로 해소를 위해\r\n<2026년 시제품 고도화 바우처 지원 프로그램> 을 운영하오니 관심 있는 분들의 많은 신청 바랍니다.",
+    "dept": "충북대학교 충북Pro메이커센터",
+    "ministry": "교육기관",
+    "apply_start": "20261022",
+    "apply_end": "20261103",
+    "apply_type": "",
+    "apply_detail": "cbyy12@chungbuk.ac.kr",
+    "support_type": "사업화",
+    "target_summary": "창업 일반기업,1인 창조기업 7년미만",
+    "amount_summary": "초기 창업 기업의 시제품 제작 비용 부담 완화 및 전문 제조 업체 연계 애로 해소를 위해\r\n<2026년 시제품 고도화 바우처 지원 프로그램> 을 운영하오니 관심 있는 분들의 많은 신청 바랍니다.",
+    "support_detail": "초기 창업 기업의 시제품 제작 비용 부담 완화 및 전문 제조 업체 연계 애로 해소를 위해\r\n<2026년 시제품 고도화 바우처 지원 프로그램> 을 운영하오니 관심 있는 분들의 많은 신청 바랍니다.",
+    "categories": "창업지원 K-Startup 사업화 충북",
+    "life_cycle": "청년 창업",
+    "contact": "충북대학교 충북Pro메이커센터",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179601",
+    "online_apply_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179601",
+    "conditions": [
+      {
+        "target_detail": "청주시에 주소지(본점, 지점, 연구소 중 택 1)를 두고 있는 업력 7년 미만 창업 기업 (*접수 마감일 기준)",
+        "exclude": "·유흥주점업 등 재보증제한업종으로 창업하려고 하는 자\r\n·국세 또는 지방세를 체납 중인 자\r\n·개인신용정보상 채무불이행자 또는 신용도판단정보 등 이상이 있는 자\r\n·신용보증기관 신용보증사고 및 대위변제 관계자에 해당되는 자\r\n·기타 참여 제한의 사유가 있다고 인정하는 자"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179598",
+    "name": "동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고",
+    "summary": "동국대학교 창업보육센터에서는 동국 블루칩으로써 성장과 발전을 함께 도모할 (예비)창업기업을 발굴 및 육성하기 위해 신규 입주기업 모집 공고를 진행하오니 입주를 희망하는 기업은 아래 공고를 참고하여 지원해주시기 바랍니다.",
+    "dept": "동국대학교 창업보육센터",
+    "ministry": "교육기관",
+    "apply_start": "20261022",
+    "apply_end": "20261109",
+    "apply_type": "",
+    "apply_detail": "dvic@dongguk.edu",
+    "support_type": "시설ㆍ공간ㆍ보육",
+    "target_summary": "창업 대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,7년미만",
+    "amount_summary": "동국대학교 창업보육센터에서는 동국 블루칩으로써 성장과 발전을 함께 도모할 (예비)창업기업을 발굴 및 육성하기 위해 신규 입주기업 모집 공고를 진행하오니 입주를 희망하는 기업은 아래 공고를 참고하여 지원해주시기 바랍니다.",
+    "support_detail": "동국대학교 창업보육센터에서는 동국 블루칩으로써 성장과 발전을 함께 도모할 (예비)창업기업을 발굴 및 육성하기 위해 신규 입주기업 모집 공고를 진행하오니 입주를 희망하는 기업은 아래 공고를 참고하여 지원해주시기 바랍니다.",
+    "categories": "창업지원 K-Startup 시설ㆍ공간ㆍ보육 서울",
+    "life_cycle": "청년 창업",
+    "contact": "동국대학교 창업보육센터",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179598",
+    "online_apply_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179598",
+    "conditions": [
+      {
+        "target_detail": "- 우수한 기술 또는 아이템을 보유한 플랫폼·AI 분야 예비창업자 또는 창업 7년 이내 초기 창업기업\r\n※ 공고일 기준이며, 예비창업자는 입주 후 3개월 이내 사업자 등록 가능자\r\n\r\n- 입주 확정 시, 본점 소재지를 창업보육센터로 이전 가능한 기업\r\n※ 단, 사업자 시설 활용 및 공동연구 목적으로 기업부설연구소 또는 연구개발전담부서(지사)가 입주하는 경우 본사가 입주한 것으로 간주",
+        "exclude": "- 아래의 지원 제한 사항에 포함되지 않는 기업\r\n※ 동종 업종으로 폐업한 후 3년(부도·파산은 2년)이 경과하지 않은 기업\r\n※ 한국표준산업분류 세세분류코드 기준\r\n\r\n- 창업지원 제외 업종 운영 기업 (일반유흥주점업, 무도유흥주점업, 기타 사행시설 관리 및 운영업)\r\n- 소음, 진동, 폐수, 매연 등 공해유발 업종/ 국세·지방세 체납 중인 기업 또는 금융기관 신용불량 거래자"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179596",
+    "name": "「2026년 강원연구개발특구육성(R&D)사업」 강원 특구 배치 프로그램 1기 참여기업 모집공고",
+    "summary": " 재단법인 강원창조경제혁신센터에서는 강원연구개발특구 특화 산업 분야의 유망 창업 기업을 발굴하고, 센터 직접투자 및 후속 투자 연계를 지원하는 「강원 특구 배치 프로그램 1기」에 참여할 창업 기업을 모집합니다.",
+    "dept": "재단법인 강원창조경제혁신센터",
+    "ministry": "공공기관",
+    "apply_start": "20261021",
+    "apply_end": "20261111",
+    "apply_type": "",
+    "apply_detail": "https://forms.gle/NZP2VANG8peaduLz7",
+    "support_type": "멘토링ㆍ컨설팅ㆍ교육",
+    "target_summary": "창업 일반인,일반기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": " 재단법인 강원창조경제혁신센터에서는 강원연구개발특구 특화 산업 분야의 유망 창업 기업을 발굴하고, 센터 직접투자 및 후속 투자 연계를 지원하는 「강원 특구 배치 프로그램 1기」에 참여할 창업 기업을 모집합니다.",
+    "support_detail": " 재단법인 강원창조경제혁신센터에서는 강원연구개발특구 특화 산업 분야의 유망 창업 기업을 발굴하고, 센터 직접투자 및 후속 투자 연계를 지원하는 「강원 특구 배치 프로그램 1기」에 참여할 창업 기업을 모집합니다.",
+    "categories": "창업지원 K-Startup 멘토링ㆍ컨설팅ㆍ교육 전국",
+    "life_cycle": "청년 창업",
+    "contact": "재단법인 강원창조경제혁신센터",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179596",
+    "online_apply_url": "https://forms.gle/NZP2VANG8peaduLz7",
+    "conditions": [
+      {
+        "target_detail": "강원연구개발특구(춘천·원주·강릉) 소재 또는 특구 내 이전 및 설립 예정인 투자유치 준비·진행 (예비)창업기업",
+        "exclude": "☞ 금융기관 등으로부터 채무불이행으로 규제 중인 자(기업)\r\n☞ 국세 또는 지방세 체납으로 규제 중인 자(기업)\r\n☞ 중소벤처기업부 등 정부지원사업 참여 제한 등 제재 중인 자(기업)\r\n☞ ｢중소기업창업 지원법｣ 시행령 제4조의 업종을 영위하고 있는 자(기업)\r\n☞ 신청일 기준 동 사업에 신청하는 사업자 휴·폐업 중인 자(기업)\r\n☞ 고용노동부가 공개하는 체불 사업주 명단에 포함된 자(기업)\r\n☞ 기타 주관기관이 참여 제한의 사유가 있다고 인정하는 자(기업)"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179593",
+    "name": "<2026년 AI 활용 제조창업 올인원 실전 교육> 프로그램 참여자 모집",
+    "summary": "충북Pro메이커센터에서 창업 과정 전반에서 AI를 활용한 실무 교육 역량을 강화하기 위한 <2026년 AI 활용 제조창업 올인원 실전 교육>을 다음과 같이 진행합니다.\r\n관심 있는 분들의 많은 참여 신청 바랍니다.",
+    "dept": "충북Pro메이커센터",
+    "ministry": "교육기관",
+    "apply_start": "20261021",
+    "apply_end": "20261106",
+    "apply_type": "",
+    "apply_detail": "https://forms.gle/hUWxJdH9Lx5fboif7",
+    "support_type": "창업교육",
+    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": "충북Pro메이커센터에서 창업 과정 전반에서 AI를 활용한 실무 교육 역량을 강화하기 위한 <2026년 AI 활용 제조창업 올인원 실전 교육>을 다음과 같이 진행합니다.\r\n관심 있는 분들의 많은 참여 신청 바랍니다.",
+    "support_detail": "충북Pro메이커센터에서 창업 과정 전반에서 AI를 활용한 실무 교육 역량을 강화하기 위한 <2026년 AI 활용 제조창업 올인원 실전 교육>을 다음과 같이 진행합니다.\r\n관심 있는 분들의 많은 참여 신청 바랍니다.",
+    "categories": "창업지원 K-Startup 창업교육 충북",
+    "life_cycle": "청년 창업",
+    "contact": "충북Pro메이커센터",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179593",
+    "online_apply_url": "https://forms.gle/hUWxJdH9Lx5fboif7",
+    "conditions": [
+      {
+        "target_detail": "- 제조창업의 전반적인 과정에 AI를 활용하고자 하는 (예비)창업자\r\n- AI를 활용한 교육을 희망하는 학생 및 일반인 등",
+        "exclude": ""
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179592",
+    "name": "[강원ICT융합연구원] 강원 미래산업 AX혁신과 지산학연 신사업 발굴 포럼",
+    "summary": "안녕하세요 \r\n강원ICT융합연구원에서 강원의 미래를 함께 이야기하는 자리를 마련하였습니다.\r\n기업 현장의 고민과 대학·연구기관의 전문성, 지방정부의 정책이 만나 실질적인 협력과 새로운 사업으로 이어지기를 바랍니다.\r\n귀한 시간을 내어 참석 해주시고, 여러분의 경험과 지혜로 이 자리를 빛내 주시기 바랍니다.\r\n",
+    "dept": "강원ICT융합연구원",
+    "ministry": "교육기관",
+    "apply_start": "20261021",
+    "apply_end": "20261027",
+    "apply_type": "",
+    "apply_detail": "seung4455@kangwon.ac.kr",
+    "support_type": "행사ㆍ네트워크",
+    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": "안녕하세요 \r\n강원ICT융합연구원에서 강원의 미래를 함께 이야기하는 자리를 마련하였습니다.\r\n기업 현장의 고민과 대학·연구기관의 전문성, 지방정부의 정책이 만나 실질적인 협력과 새로운 사업으로 이어지기를 바랍니다.\r\n귀한 시간을 내어 참석 해주시고, 여러분의 경험과 지혜로 이 자리를 빛내 주시기 바랍니다.\r\n",
+    "support_detail": "안녕하세요 \r\n강원ICT융합연구원에서 강원의 미래를 함께 이야기하는 자리를 마련하였습니다.\r\n기업 현장의 고민과 대학·연구기관의 전문성, 지방정부의 정책이 만나 실질적인 협력과 새로운 사업으로 이어지기를 바랍니다.\r\n귀한 시간을 내어 참석 해주시고, 여러분의 경험과 지혜로 이 자리를 빛내 주시기 바랍니다.\r\n",
+    "categories": "창업지원 K-Startup 행사ㆍ네트워크 강원",
+    "life_cycle": "청년 창업",
+    "contact": "강원ICT융합연구원",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179592",
+    "online_apply_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179592",
+    "conditions": [
+      {
+        "target_detail": "기업 및 기업지원 관계자, 지역산업 및 과학기술 정책 전문가, 관련분야 연구자 및 재학생, 그 외 강원 미래산업 및 포럼 주제에 관심을 두고있는 신청자 모두 ",
+        "exclude": "없음"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
     "id": "kstartup-179591",
     "name": "2026 논산시 사회적경제 창업 아카데미 참여자 모집",
     "summary": "사회적기업 전환을 준비하는 초기 창업기업 및 창업예정자에게 다음과 같이 아카데미를 진행하고자 공고하오니 참여를 희망하는 기업 또는 개인은 안내를 따라 신청하기 바랍니다.\r\n",
@@ -561,6 +757,34 @@
   },
   {
     "source": "kstartup",
+    "id": "kstartup-179561",
+    "name": "서울동부여성발전센터 창업센터 2027년 신규 입주기업 모집",
+    "summary": "서울동부여성발전센터에서 운영하는 여성창업보육센터(건대입구역)와 여성창업플라자(도곡역)에서 여성 창업 지원을 위해 예비ㆍ초기 창업자(7년 이내)인 신규입주기업을 모집합니다.",
+    "dept": "서울동부여성발전센터",
+    "ministry": "공공기관",
+    "apply_start": "20261019",
+    "apply_end": "20261108",
+    "apply_type": "",
+    "apply_detail": "dongbubiz@seoulwomanup.or.kr",
+    "support_type": "시설ㆍ공간ㆍ보육",
+    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만",
+    "amount_summary": "서울동부여성발전센터에서 운영하는 여성창업보육센터(건대입구역)와 여성창업플라자(도곡역)에서 여성 창업 지원을 위해 예비ㆍ초기 창업자(7년 이내)인 신규입주기업을 모집합니다.",
+    "support_detail": "서울동부여성발전센터에서 운영하는 여성창업보육센터(건대입구역)와 여성창업플라자(도곡역)에서 여성 창업 지원을 위해 예비ㆍ초기 창업자(7년 이내)인 신규입주기업을 모집합니다.",
+    "categories": "창업지원 K-Startup 시설ㆍ공간ㆍ보육 서울",
+    "life_cycle": "청년 창업",
+    "contact": "서울동부여성발전센터",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179561",
+    "online_apply_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179561",
+    "conditions": [
+      {
+        "target_detail": "여성 유망업종의 여성 예비창업자 또는 초기창업자로 공고일로부터 7년 이내인 자  \r\n※ 공고일 현재 주민등록등본 상 서울 거주 여성",
+        "exclude": "• 여성창업보육센터(여성창업플라자) 기 입주 경험이 있는 자\r\n• 여성창업보육센터(여성창업플라자) 중도 퇴거자"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
     "id": "kstartup-179560",
     "name": "「2026 기업지원실 운영」 지역 환경기업 육성 프로그램 참여기업 수정 모집공고",
     "summary": " (재)전라남도환경산업진흥원에서는 지역 환경기업의 기술·사업화 역량 강화 및 지속적인 성장을 지원하기 위해 「2026년 지역 환경기업 육성 프로그램」 참여기업을 다음과 같이 모집하오니 많은 관심과 참여 바랍니다.",
@@ -583,6 +807,34 @@
       {
         "target_detail": "    · 관내(전남광주통합특별시) 소재 환경기업\r\n    · 기후테크 분야 기술·제품·서비스 관련 기업\r\n    · 진흥원 기업지원실 입주기업 등",
         "exclude": "공고문 참조"
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
+    "id": "kstartup-179559",
+    "name": "국민대학교 청년도약 인재양성 부트캠프 참가자 모집(AI 실무교육)",
+    "summary": "국민대학교 글로벌창업벤처대학원 창업학과(참여: 경영대학 AI빅데이터융합경영학과)는 「청년도약 인재양성 부트캠프(실전인재형)」 교육생을 아래와 같이 모집합니다. 본 부트캠프는 일자리 밖 청년을 스타트업·벤처 생태계의 AX(AI 전환) 실무 인재로 양성하는 전액 무료 교육 프로그램입니다.\r\n\r\n직무분야: 스타트업·벤처 생태계 실무 기획 및 운영(AX 기반)\r\n참여기업: ㈜메인콘텐츠, ㈜인포뱅크, ㈜씨엔티테크, ㈜와이앤아처, 한국엔젤투자협회 등 1,285개사",
+    "dept": "국민대학교 글로벌창업벤처대학원",
+    "ministry": "교육기관",
+    "apply_start": "20261019",
+    "apply_end": "20261119",
+    "apply_type": "",
+    "apply_detail": "https://axkookmin.com/",
+    "support_type": "멘토링ㆍ컨설팅ㆍ교육",
+    "target_summary": "창업 대학생,일반인 예비창업자,1년미만",
+    "amount_summary": "국민대학교 글로벌창업벤처대학원 창업학과(참여: 경영대학 AI빅데이터융합경영학과)는 「청년도약 인재양성 부트캠프(실전인재형)」 교육생을 아래와 같이 모집합니다. 본 부트캠프는 일자리 밖 청년을 스타트업·벤처 생태계의 AX(AI 전환) 실무 인재로 양성하는 전액 무료 교육 프로그램입니다.\r\n\r\n직무분야: 스타트업·벤처 생태계 실무 기획 및 운영(AX 기반)\r\n참여기업: ㈜메인콘텐츠, ㈜인포뱅크, ㈜씨엔티테크, ㈜와이앤아처, 한국엔젤투자협회 등 1,285개사",
+    "support_detail": "국민대학교 글로벌창업벤처대학원 창업학과(참여: 경영대학 AI빅데이터융합경영학과)는 「청년도약 인재양성 부트캠프(실전인재형)」 교육생을 아래와 같이 모집합니다. 본 부트캠프는 일자리 밖 청년을 스타트업·벤처 생태계의 AX(AI 전환) 실무 인재로 양성하는 전액 무료 교육 프로그램입니다.\r\n\r\n직무분야: 스타트업·벤처 생태계 실무 기획 및 운영(AX 기반)\r\n참여기업: ㈜메인콘텐츠, ㈜인포뱅크, ㈜씨엔티테크, ㈜와이앤아처, 한국엔젤투자협회 등 1,285개사",
+    "categories": "창업지원 K-Startup 멘토링ㆍ컨설팅ㆍ교육 서울",
+    "life_cycle": "청년 창업",
+    "contact": "국민대학교 글로벌창업벤처대학원",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179559",
+    "online_apply_url": "https://axkookmin.com/",
+    "conditions": [
+      {
+        "target_detail": "전공·지역 무관, 만 19세 ~ 34세 이하 미취업 청년(군 복무시간 산정 시 39세까지 가능)\r\n\r\n□ 취업준비생\r\n□ 예비창업자\r\n□ 장기 휴학생(1년 이상)",
+        "exclude": "재학생(1년 이상 장기휴학생은 가능), 재직자 불가능"
       }
     ],
     "documents": ""
@@ -757,6 +1009,34 @@
   },
   {
     "source": "kstartup",
+    "id": "kstartup-179545",
+    "name": "G밸리의료기기개발지원센터 글로벌역량강화 교육프로그램 참가자 모집",
+    "summary": "G밸리의료기기개발지원센터에서는 서울 내 본사 또는 지사를 보유한 의료기기 및 디지털 헬스케어 기업을 대상으로「글로벌 진출 역량강화 교육 프로그램」을 운영합니다.\r\n\r\n이번 교육은 주요 국가별 의료기기 인증제도(FDA, CE, NMPA 등)를 중심으로, 실무 중심의 글로벌 진출 전략과 해외 시장 진입 노하우를 다루며, 해외 수출 및 인증을 준비하는 기업들에게 실질적인 인사이트와 실행 가이드를 제공합니다.\r\n\r\n많은 관심 부탁드립니다.\r\n\r\n감사합니다.",
+    "dept": "한국과학기술연구원",
+    "ministry": "공공기관",
+    "apply_start": "20261020",
+    "apply_end": "20261110",
+    "apply_type": "",
+    "apply_detail": "https://seoulgmsc.kr/sub/sub04_01.php?boardid=notice&mode=view&idx=91",
+    "support_type": "판로ㆍ해외진출",
+    "target_summary": "창업 일반기업,1인 창조기업 1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
+    "amount_summary": "G밸리의료기기개발지원센터에서는 서울 내 본사 또는 지사를 보유한 의료기기 및 디지털 헬스케어 기업을 대상으로「글로벌 진출 역량강화 교육 프로그램」을 운영합니다.\r\n\r\n이번 교육은 주요 국가별 의료기기 인증제도(FDA, CE, NMPA 등)를 중심으로, 실무 중심의 글로벌 진출 전략과 해외 시장 진입 노하우를 다루며, 해외 수출 및 인증을 준비하는 기업들에게 실질적인 인사이트와 실행 가이드를 제공합니다.\r\n\r\n많은 관심 부탁드립니다.\r\n\r\n감사합니다.",
+    "support_detail": "G밸리의료기기개발지원센터에서는 서울 내 본사 또는 지사를 보유한 의료기기 및 디지털 헬스케어 기업을 대상으로「글로벌 진출 역량강화 교육 프로그램」을 운영합니다.\r\n\r\n이번 교육은 주요 국가별 의료기기 인증제도(FDA, CE, NMPA 등)를 중심으로, 실무 중심의 글로벌 진출 전략과 해외 시장 진입 노하우를 다루며, 해외 수출 및 인증을 준비하는 기업들에게 실질적인 인사이트와 실행 가이드를 제공합니다.\r\n\r\n많은 관심 부탁드립니다.\r\n\r\n감사합니다.",
+    "categories": "창업지원 K-Startup 판로ㆍ해외진출 서울",
+    "life_cycle": "청년 창업",
+    "contact": "한국과학기술연구원",
+    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179545",
+    "online_apply_url": "https://seoulgmsc.kr/sub/sub04_01.php?boardid=notice&mode=view&idx=91",
+    "conditions": [
+      {
+        "target_detail": "글로벌진출을 희망하는 서울 소재 의료기기/헬스케어 스타트업 실무자",
+        "exclude": ""
+      }
+    ],
+    "documents": ""
+  },
+  {
+    "source": "kstartup",
     "id": "kstartup-179544",
     "name": "[ICT창업트랙] AI를 활용한 창업팀의 일하는 방식",
     "summary": "AI를 내 비즈니스에 어떻게 적용해야 할지 막막했던 청년 예비·초기 창업자를 위해 ICT창업트랙을 운영하오니 많은 관심 바랍니다.",
@@ -835,34 +1115,6 @@
       {
         "target_detail": "공고 마감일 기준 업력 7년 이내* 혁신기술 및 아이디어를 보유한 중소기업",
         "exclude": "예비창업자 지원불가"
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179540",
-    "name": "[ 모 집 ] GVC AI Platform Startup Enabling Program 및 스마트워크·쇼핑몰 창업지원 및 AI 전환 지원",
-    "summary": "글로벌벤처센터(GVC)는 AI 기반 플랫폼 서비스를 만들고 싶은 예비창업자와 초기 스타트업을 모집합니다.\r\n\r\n아이템 검증부터 MVP 개발, 글로벌 런칭, 투자 연계까지 창업 과정을 함께하는 Startup Builder 사업화 육성 프로그램입니다.",
-    "dept": "글로벌벤처센터",
-    "ministry": "민간",
-    "apply_start": "20261016",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://global.venture.center/launchpad",
-    "support_type": "사업화",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "글로벌벤처센터(GVC)는 AI 기반 플랫폼 서비스를 만들고 싶은 예비창업자와 초기 스타트업을 모집합니다.\r\n\r\n아이템 검증부터 MVP 개발, 글로벌 런칭, 투자 연계까지 창업 과정을 함께하는 Startup Builder 사업화 육성 프로그램입니다.",
-    "support_detail": "글로벌벤처센터(GVC)는 AI 기반 플랫폼 서비스를 만들고 싶은 예비창업자와 초기 스타트업을 모집합니다.\r\n\r\n아이템 검증부터 MVP 개발, 글로벌 런칭, 투자 연계까지 창업 과정을 함께하는 Startup Builder 사업화 육성 프로그램입니다.",
-    "categories": "창업지원 K-Startup 사업화 전국",
-    "life_cycle": "청년 창업",
-    "contact": "글로벌벤처센터",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179540",
-    "online_apply_url": "https://global.venture.center/launchpad",
-    "conditions": [
-      {
-        "target_detail": "예비창업자 또는 창업 기업\r\nAI 기반으로 플랫폼 창업을 준비중이거나 쇼핑몰 이커머스 사업중인 사업가\r\nAI·플랫폼·SaaS·데이터 기반 서비스 아이템 보유자\r\nMVP 개발 및 서비스 출시를 목표로 하는 팀 또는 개인\r\n글로벌 시장 진출을 계획하거나 AI를 활용한 플랫폼 비즈니스를 준비 중인 창업자\r\n프로그램 기간 동안 성실하게 참여 가능한 개인 또는 팀",
-        "exclude": ""
       }
     ],
     "documents": ""
@@ -1513,90 +1765,6 @@
   },
   {
     "source": "kstartup",
-    "id": "kstartup-179504",
-    "name": "제3회 판다밋업 : Inside Japan 제약·바이오·의료기기 가치사슬 기반 일본 진출 전략",
-    "summary": "경기도 4차산업혁명센터는 제약·바이오 가치사슬을 기반으로 일본 시장을 중심으로 한 글로벌 진출 전략을 공유하는「제3회 판(교에서)다(보스를 만나다) 밋업」을 개최합니다.\r\n본 행사는 제약·바이오 분야 기업의 일본 시장에 대한 이해를 높이고, 기업별 특성에 맞는 시장 진출 및 안착 전략을 모색하기 위해 마련되었습니다.\r\n관심 있는 기업 및 관계자 여러분의 많은 참여를 부탁드립니다.",
-    "dept": "경기도 4차산업혁명센터",
-    "ministry": "공공기관",
-    "apply_start": "20261013",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://docs.google.com/forms/d/e/1FAIpQLSfCnU_SQaJiKytbIIfieUihDxs-bdzf5iRNMD3Dg2XMEN7TDw/viewform",
-    "support_type": "글로벌",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "경기도 4차산업혁명센터는 제약·바이오 가치사슬을 기반으로 일본 시장을 중심으로 한 글로벌 진출 전략을 공유하는「제3회 판(교에서)다(보스를 만나다) 밋업」을 개최합니다.\r\n본 행사는 제약·바이오 분야 기업의 일본 시장에 대한 이해를 높이고, 기업별 특성에 맞는 시장 진출 및 안착 전략을 모색하기 위해 마련되었습니다.\r\n관심 있는 기업 및 관계자 여러분의 많은 참여를 부탁드립니다.",
-    "support_detail": "경기도 4차산업혁명센터는 제약·바이오 가치사슬을 기반으로 일본 시장을 중심으로 한 글로벌 진출 전략을 공유하는「제3회 판(교에서)다(보스를 만나다) 밋업」을 개최합니다.\r\n본 행사는 제약·바이오 분야 기업의 일본 시장에 대한 이해를 높이고, 기업별 특성에 맞는 시장 진출 및 안착 전략을 모색하기 위해 마련되었습니다.\r\n관심 있는 기업 및 관계자 여러분의 많은 참여를 부탁드립니다.",
-    "categories": "창업지원 K-Startup 글로벌 전국",
-    "life_cycle": "청년 창업",
-    "contact": "경기도 4차산업혁명센터",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179504",
-    "online_apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfCnU_SQaJiKytbIIfieUihDxs-bdzf5iRNMD3Dg2XMEN7TDw/viewform",
-    "conditions": [
-      {
-        "target_detail": "✅글로벌 제약·바이오 시장 진출을 앞둔 스타트업 등\r\n✅관련 분야 기업, 연구원 및 유관기관 관계자",
-        "exclude": ""
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179502",
-    "name": "2026 신한퓨처스랩 스타트업 성장 포럼 &apos;인사이트랩(Insight Lab)&apos; 참관 기업 모집",
-    "summary": "스타트업 임직원을 위한 강연&네트워킹 행사 계획을 다음과 같이 공고하오니 참여를 희망하는 분들은 안내에 따라 신청 바랍니다.",
-    "dept": "신한퓨처스랩",
-    "ministry": "민간",
-    "apply_start": "20261013",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://app.quotabook.com/recruitment/12d46d6c-96e4-4635-a1f9-cfbed436c518",
-    "support_type": "행사ㆍ네트워크",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "스타트업 임직원을 위한 강연&네트워킹 행사 계획을 다음과 같이 공고하오니 참여를 희망하는 분들은 안내에 따라 신청 바랍니다.",
-    "support_detail": "스타트업 임직원을 위한 강연&네트워킹 행사 계획을 다음과 같이 공고하오니 참여를 희망하는 분들은 안내에 따라 신청 바랍니다.",
-    "categories": "창업지원 K-Startup 행사ㆍ네트워크 서울",
-    "life_cycle": "청년 창업",
-    "contact": "신한퓨처스랩",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179502",
-    "online_apply_url": "https://app.quotabook.com/recruitment/12d46d6c-96e4-4635-a1f9-cfbed436c518",
-    "conditions": [
-      {
-        "target_detail": "스타트업 임직원 누구나",
-        "exclude": ""
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179501",
-    "name": "[중앙사회서비스원] 2026년 제3회 사회서비스 투자교류회",
-    "summary": "안녕하세요. 중앙사회서비스원입니다.\r\n「2026년 제3회 사회서비스 투자 교류회」 가 2026년 11월 17일(화) 창원컨벤션센터 600홀에서 개최됩니다.\r\n\r\n보건복지부와 중앙사회서비스원, 그리고 엠와이소셜컴퍼니가 함께하는 사회서비스 투자 교류회는\r\n사회서비스 기업의 투자 유치 기회를 확대하고, 유관기관과의 교류를 통해 협업·실증을 논의하는 연결의 장입니다.\r\n\r\n올해의 마지막 교류회(누적 15회)는 지역에서의 돌봄 기술 확산을 위해 경상남도에서 개최되며, \r\n경상남도사회서비스원과 함께합니다.\r\n\r\n관련하여 우수한 돌봄 기술과 성장 가능성을 가진 사회서비스 기업과,\r\n행사 참석을 통한 교류 및 사업 연계를 희망하는 유관기관 관계자분들을 모집하오니\r\n많은 관심과 신청 부탁드립니다.",
-    "dept": "중앙사회서비스원",
-    "ministry": "민간",
-    "apply_start": "20261013",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://ema.kr/388",
-    "support_type": "사업화",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 10년미만",
-    "amount_summary": "안녕하세요. 중앙사회서비스원입니다.\r\n「2026년 제3회 사회서비스 투자 교류회」 가 2026년 11월 17일(화) 창원컨벤션센터 600홀에서 개최됩니다.\r\n\r\n보건복지부와 중앙사회서비스원, 그리고 엠와이소셜컴퍼니가 함께하는 사회서비스 투자 교류회는\r\n사회서비스 기업의 투자 유치 기회를 확대하고, 유관기관과의 교류를 통해 협업·실증을 논의하는 연결의 장입니다.\r\n\r\n올해의 마지막 교류회(누적 15회)는 지역에서의 돌봄 기술 확산을 위해 경상남도에서 개최되며, \r\n경상남도사회서비스원과 함께합니다.\r\n\r\n관련하여 우수한 돌봄 기술과 성장 가능성을 가진 사회서비스 기업과,\r\n행사 참석을 통한 교류 및 사업 연계를 희망하는 유관기관 관계자분들을 모집하오니\r\n많은 관심과 신청 부탁드립니다.",
-    "support_detail": "안녕하세요. 중앙사회서비스원입니다.\r\n「2026년 제3회 사회서비스 투자 교류회」 가 2026년 11월 17일(화) 창원컨벤션센터 600홀에서 개최됩니다.\r\n\r\n보건복지부와 중앙사회서비스원, 그리고 엠와이소셜컴퍼니가 함께하는 사회서비스 투자 교류회는\r\n사회서비스 기업의 투자 유치 기회를 확대하고, 유관기관과의 교류를 통해 협업·실증을 논의하는 연결의 장입니다.\r\n\r\n올해의 마지막 교류회(누적 15회)는 지역에서의 돌봄 기술 확산을 위해 경상남도에서 개최되며, \r\n경상남도사회서비스원과 함께합니다.\r\n\r\n관련하여 우수한 돌봄 기술과 성장 가능성을 가진 사회서비스 기업과,\r\n행사 참석을 통한 교류 및 사업 연계를 희망하는 유관기관 관계자분들을 모집하오니\r\n많은 관심과 신청 부탁드립니다.",
-    "categories": "창업지원 K-Startup 사업화 전국",
-    "life_cycle": "청년 창업",
-    "contact": "중앙사회서비스원",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179501",
-    "online_apply_url": "https://ema.kr/388",
-    "conditions": [
-      {
-        "target_detail": "- 신청 대상 : 사회서비스 분야 기업\r\n*사회서비스 분야 : 복지, 보건·의료, 교육, 고용, 주거, 문화, 환경",
-        "exclude": "예비창업자"
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
     "id": "kstartup-179500",
     "name": "2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」 모집 공고",
     "summary": "전남정보문화산업진흥원에서는 전남광주통합특별시 내 지역자원을 활용하여 타 시ㆍ도 및 전남광주통합특별시 청년 창업가 양성과 지역 정착을 지원하기 위해 전남광주 제3기 「지역자원 연계 청년창업 지원사업」참여자를 모집하오니 많은 참여 바랍니다.",
@@ -1715,7 +1883,7 @@
     "dept": "한국산업단지공단",
     "ministry": "공공기관",
     "apply_start": "20261012",
-    "apply_end": "20261023",
+    "apply_end": "20261026",
     "apply_type": "",
     "apply_detail": "https://forms.gle/S3XmNTQFVXTQnLCE6",
     "support_type": "사업화",
@@ -1787,34 +1955,6 @@
       {
         "target_detail": "중소벤처기업부 창업중심대학 지원(공고일 기준) 및 졸업기업(2022년~2025년)",
         "exclude": "수혜기업 중 과거 자금의 목적 외 사용, 협약해지(중단, 포기)등 발생기업"
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179489",
-    "name": "마포비즈니스센터 4차 신규입주기업 모집",
-    "summary": "마포비즈니스센터 입주기업 모집을 아래와 같이 진행하오니 입주를 희망하시는 (예비)창업자는 안내에 따라 신청하기 바랍니다.",
-    "dept": "마포비즈니스센터",
-    "ministry": "지자체",
-    "apply_start": "20261013",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "center_mapo@hongik.ac.kr",
-    "support_type": "시설ㆍ공간ㆍ보육",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만",
-    "amount_summary": "마포비즈니스센터 입주기업 모집을 아래와 같이 진행하오니 입주를 희망하시는 (예비)창업자는 안내에 따라 신청하기 바랍니다.",
-    "support_detail": "마포비즈니스센터 입주기업 모집을 아래와 같이 진행하오니 입주를 희망하시는 (예비)창업자는 안내에 따라 신청하기 바랍니다.",
-    "categories": "창업지원 K-Startup 시설ㆍ공간ㆍ보육 서울",
-    "life_cycle": "청년 창업",
-    "contact": "마포비즈니스센터",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179489",
-    "online_apply_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179489",
-    "conditions": [
-      {
-        "target_detail": "예비창업자 또는 창업 후 7년 이내인 기업 / 개업연월일 기준\r\n※ 예비창업자의 경우 3개월 이내 창업 필수(사업자등록증 제출)\r\n중소기업창업 지원법」 제2조에 따른 ‘창업자(창업기업)",
-        "exclude": "타 창업보육센터에서 퇴거 조치 당한 기업은 신청 불가"
       }
     ],
     "documents": ""
@@ -2297,34 +2437,6 @@
   },
   {
     "source": "kstartup",
-    "id": "kstartup-179460",
-    "name": "[강동구 청년해냄센터] 2026 모의창업스쿨 2차 교육 참가자 모집 공고",
-    "summary": "강동구 청년해냄센터 모의창업스쿨 2차 교육 계획을 다음과 같이 공고하오니 참여 희망자는 안내에 따라 신청하시기 바랍니다.",
-    "dept": "강동구 청년해냄센터",
-    "ministry": "공공기관",
-    "apply_start": "20261008",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "http://www.gdhaenaem.com/?c=168&s=&gp=1&gbn=viewok&ix=11900",
-    "support_type": "시설ㆍ공간ㆍ보육",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "강동구 청년해냄센터 모의창업스쿨 2차 교육 계획을 다음과 같이 공고하오니 참여 희망자는 안내에 따라 신청하시기 바랍니다.",
-    "support_detail": "강동구 청년해냄센터 모의창업스쿨 2차 교육 계획을 다음과 같이 공고하오니 참여 희망자는 안내에 따라 신청하시기 바랍니다.",
-    "categories": "창업지원 K-Startup 시설ㆍ공간ㆍ보육 전국",
-    "life_cycle": "청년 창업",
-    "contact": "강동구 청년해냄센터",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179460",
-    "online_apply_url": "http://www.gdhaenaem.com/?c=168&s=&gp=1&gbn=viewok&ix=11900",
-    "conditions": [
-      {
-        "target_detail": "예비창업자, 창업에 관심 있는 일반인",
-        "exclude": ""
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
     "id": "kstartup-179459",
     "name": "Applications Now Open: 2026 OASIS-6 Global Startup Challenge 「2026 외국인 창업대전(OASIS-6)」 참가자 모집",
     "summary": "법무부와 글로벌창업이민센터(한국능률협회컨설팅)는 외국인 창업자 및 예비창업자의 우수한 기술창업 아이템을 발굴하기 위해 2026 외국인 창업대전(OASIS-6)  참가자를 모집하오니 많은 관심과 참여 바랍니다.",
@@ -2542,34 +2654,6 @@
     "conditions": [
       {
         "target_detail": "영등포구민 또는 영등포구 소재 사회적경제기업, 자영업자, 소상공인, (예비)창업자, 상생기업 등",
-        "exclude": ""
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179443",
-    "name": "[온라인·무료] 코딩·사업자 없이 여는 내 강의·전자책 판매 사이트",
-    "summary": "GPT·Claude 같은 AI와 대화하며 화면을 만드는 &apos;바이브코딩&apos;으로, 코딩 몰라도 내 강의·전자책 판매 사이트를 직접 만듭니다.\r\n강의·상담·전자책 등 내 경험을 상품으로 만들고, 사업자 등록 없이도 바로 결제를 받을 수 있도록 연결합니다.\r\n1대다 실시간 비대면(구글 미트) 3시간 과정으로, 막히는 부분은 채팅으로 바로 질문하며 함께 완성합니다.\r\n교육이 끝나면 내 사이트, 첫 상품 상세페이지, 홍보 콘텐츠, 30일 운영 체크리스트가 남습니다.\r\n수강료 무료, 수료 시 200만 원 상당 사이트 제작 쿠폰을 드리며, 노트북과 ChatGPT 또는 Claude 계정만 준비하시면 됩니다.",
-    "dept": "스쿨모아 주식회사 ",
-    "ministry": "민간",
-    "apply_start": "20261007",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://academy.runmoa.com/classes/9576",
-    "support_type": "창업교육",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "GPT·Claude 같은 AI와 대화하며 화면을 만드는 &apos;바이브코딩&apos;으로, 코딩 몰라도 내 강의·전자책 판매 사이트를 직접 만듭니다.\r\n강의·상담·전자책 등 내 경험을 상품으로 만들고, 사업자 등록 없이도 바로 결제를 받을 수 있도록 연결합니다.\r\n1대다 실시간 비대면(구글 미트) 3시간 과정으로, 막히는 부분은 채팅으로 바로 질문하며 함께 완성합니다.\r\n교육이 끝나면 내 사이트, 첫 상품 상세페이지, 홍보 콘텐츠, 30일 운영 체크리스트가 남습니다.\r\n수강료 무료, 수료 시 200만 원 상당 사이트 제작 쿠폰을 드리며, 노트북과 ChatGPT 또는 Claude 계정만 준비하시면 됩니다.",
-    "support_detail": "GPT·Claude 같은 AI와 대화하며 화면을 만드는 &apos;바이브코딩&apos;으로, 코딩 몰라도 내 강의·전자책 판매 사이트를 직접 만듭니다.\r\n강의·상담·전자책 등 내 경험을 상품으로 만들고, 사업자 등록 없이도 바로 결제를 받을 수 있도록 연결합니다.\r\n1대다 실시간 비대면(구글 미트) 3시간 과정으로, 막히는 부분은 채팅으로 바로 질문하며 함께 완성합니다.\r\n교육이 끝나면 내 사이트, 첫 상품 상세페이지, 홍보 콘텐츠, 30일 운영 체크리스트가 남습니다.\r\n수강료 무료, 수료 시 200만 원 상당 사이트 제작 쿠폰을 드리며, 노트북과 ChatGPT 또는 Claude 계정만 준비하시면 됩니다.",
-    "categories": "창업지원 K-Startup 창업교육 전국",
-    "life_cycle": "청년 창업",
-    "contact": "스쿨모아 주식회사 ",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179443",
-    "online_apply_url": "https://academy.runmoa.com/classes/9576",
-    "conditions": [
-      {
-        "target_detail": "- 내 경험·지식(강의, 상담, 전자책 등)을 온라인으로 판매하고 싶은 개인\r\n- 사업자 등록 전, 먼저 판매를 시작해 보고 싶은 예비 창업자\r\n- 인스타그램·블로그 등 SNS는 운영 중이나 결제받을 공간이 없는 분\r\n- 홈페이지 제작 비용이 부담되는 1인 사업자·프리랜서\r\n- 코딩 경험이 없어도 AI로 직접 사이트를 만들어 보고 싶은 분\r\n※ 노트북 지참 및 ChatGPT 또는 Claude 계정 준비가 가능한 분",
         "exclude": ""
       }
     ],
@@ -2941,34 +3025,6 @@
   },
   {
     "source": "kstartup",
-    "id": "kstartup-179418",
-    "name": "2026년 강북창업지원센터 10월 창업 교육 및 그룹상담 프로그램 참가자 모집",
-    "summary": "강북청년창업마루 - 강북창업지원센터에서\r\n10월 창업 교육 및 그룹상담 프로그램을 진행합니다.\r\n\r\n관심있는 예비·초기 창업자 분들의 많은 관심과 참여 바랍니다.",
-    "dept": "강북청년창업마루",
-    "ministry": "교육기관",
-    "apply_start": "20261002",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": "https://forms.gle/eHoyrNXj3NiRZvia8",
-    "support_type": "창업교육",
-    "target_summary": "창업 청소년,대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "강북청년창업마루 - 강북창업지원센터에서\r\n10월 창업 교육 및 그룹상담 프로그램을 진행합니다.\r\n\r\n관심있는 예비·초기 창업자 분들의 많은 관심과 참여 바랍니다.",
-    "support_detail": "강북청년창업마루 - 강북창업지원센터에서\r\n10월 창업 교육 및 그룹상담 프로그램을 진행합니다.\r\n\r\n관심있는 예비·초기 창업자 분들의 많은 관심과 참여 바랍니다.",
-    "categories": "창업지원 K-Startup 창업교육 서울",
-    "life_cycle": "청년 창업",
-    "contact": "강북청년창업마루",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179418",
-    "online_apply_url": "https://forms.gle/eHoyrNXj3NiRZvia8",
-    "conditions": [
-      {
-        "target_detail": "창업 초기에 알았더라면 좋았을 것들(선배 창업가가 전하는 초기창업 실전 노하우 : 자금조달, 마케팅, 사업운영에 관심있는 예비·초기 창업자",
-        "exclude": "없음"
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
     "id": "kstartup-179417",
     "name": "2026년 중소기업 수출 부대비용 지원사업",
     "summary": "중소기업의 해외수출 과정에서 발생한 부대비용을 지원(상한 10만원)하오니, 해당 기업의 많은 참여 바랍니다.",
@@ -3326,34 +3382,6 @@
     "conditions": [
       {
         "target_detail": "지식재산교육이 필요한 개인 신청자\r\n(5인 미만 기업의 경우 개인 자격으로만 신청이 가능합니다)",
-        "exclude": ""
-      }
-    ],
-    "documents": ""
-  },
-  {
-    "source": "kstartup",
-    "id": "kstartup-179375",
-    "name": "쇼미더임팩트 시즌6 참가자 모집 [IMPACT IR 경연대회]",
-    "summary": "충남 사회연대경제기업들의 임팩트 투자 기반을 조성하고 투자 유치를 희망하는 \r\n기업들의 IR(Investor Relation) 역량 강화를 지원하기 위해 한국서부발전(주)과 함께\r\n하는 2026 프로젝트상생 『쇼미더임팩트 시즌6』 참가자를 모집하고자 합니다.",
-    "dept": "충남사회적경제지원센터장",
-    "ministry": "공공기관",
-    "apply_start": "20260929",
-    "apply_end": "20261022",
-    "apply_type": "",
-    "apply_detail": " https://forms.gle/bxsFHahUNSzasP6T7 ",
-    "support_type": "멘토링ㆍ컨설팅ㆍ교육",
-    "target_summary": "창업 대학생,일반인,대학,연구기관,일반기업,1인 창조기업 예비창업자,1년미만,2년미만,3년미만,5년미만,7년미만,10년미만",
-    "amount_summary": "충남 사회연대경제기업들의 임팩트 투자 기반을 조성하고 투자 유치를 희망하는 \r\n기업들의 IR(Investor Relation) 역량 강화를 지원하기 위해 한국서부발전(주)과 함께\r\n하는 2026 프로젝트상생 『쇼미더임팩트 시즌6』 참가자를 모집하고자 합니다.",
-    "support_detail": "충남 사회연대경제기업들의 임팩트 투자 기반을 조성하고 투자 유치를 희망하는 \r\n기업들의 IR(Investor Relation) 역량 강화를 지원하기 위해 한국서부발전(주)과 함께\r\n하는 2026 프로젝트상생 『쇼미더임팩트 시즌6』 참가자를 모집하고자 합니다.",
-    "categories": "창업지원 K-Startup 멘토링ㆍ컨설팅ㆍ교육 충남",
-    "life_cycle": "청년 창업",
-    "contact": "충남사회적경제지원센터장",
-    "url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179375",
-    "online_apply_url": " https://forms.gle/bxsFHahUNSzasP6T7 ",
-    "conditions": [
-      {
-        "target_detail": "1. 공통조건 : 임팩트 투자 유치에 관심이 있는 충남 소재의 기업, 스타트업, 창업 예정자\r\n2. 자격조건\r\nA. 충남 사회적경제기업 또는 소셜벤처\r\nB. 충남 사회적경제기업으로 진입을 희망하는 기업\r\nC. 충남 사회적경제기업으로 창업하고자 하는 팀",
         "exclude": ""
       }
     ],
