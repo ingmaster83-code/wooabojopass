@@ -373,8 +373,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "자원봉사활동 중 예기치 못한 사고로 인해 상해 발생 시 치료비를 지원함으로써 봉사활동 중 발생하는 각종 사고에 대한 경제적？심리적 불안 해소",
-    "categories": "노년, 청소년, 청년, 중장년",
-    "life_cycle": "노년, 청소년, 청년, 중장년",
+    "categories": "노년, 청소년, 중장년, 청년",
+    "life_cycle": "노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -589,8 +589,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층의 위, 대장, 유방암 검진시 발생되는 비급여 비용지원으로 암 조기발견및 치료율을 높여 암으로 인한 사망률 감소",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -949,8 +949,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족이 건강하고 문화적인 생활을 영위할 수 있도록 함으로써 한부모 가족의 생활안정 및 복지증진에 이바지함을 목적으로 함",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -2029,8 +2029,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "민간시장으로의 진입이 어려운 취약계층에게 공공 일자리를 제공하여 서민생활 안정화 및 지역 경제 활성화",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -3217,8 +3217,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려인 보호를 위한 비용 지원(행려환자 진료비)",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "노년, 청년, 중장년",
+    "life_cycle": "노년, 청년, 중장년",
     "url": ""
   },
   {
@@ -3559,8 +3559,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노인, 장애인, 한부모 등 저소득세대의 건강보험료 지원",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -4189,8 +4189,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의무적 장애재판정 대상자에게 진단비 및 검사비 지급기준을 완화하여  경제적 부담을 경감",
-    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -4513,8 +4513,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "휠체어 이용 장애인들의 가정생활, 학업 및 사회경제활동을 \n가능하게 하는 휠체어를 수리하여 장애인들의 활동을 지원",
-    "categories": "청소년, 중장년, 청년, 노년, 아동",
-    "life_cycle": "청소년, 중장년, 청년, 노년, 아동",
+    "categories": "청소년, 청년, 중장년, 노년, 아동",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동",
     "url": ""
   },
   {
@@ -4585,8 +4585,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "연 2회 명절에 저소득가구 위문품 구입 지급으로 따른 훈훈한 명절분위기 조성 및 나눔문화 확산에 기여",
-    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "categories": "청소년, 청년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -4603,8 +4603,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 선정기준\n  선정기준, 지원기간, 지원 수준등 구체적인 사항은 시장이 정함\n  공동모금회 지원과 연계하여 중복되지 않도록 지급\n- 지원내용\n   사회복지시설\n   기초생활보장법에 따른 차상위 계층 등",
-    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
     "url": ""
   },
   {
@@ -4657,8 +4657,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "친지, 취직, 기타 목적으로 주거지가 아닌 타지방을 여행하던 중 숙식할 능력이 없는 자에게 지원",
-    "categories": "노년, 영유아, 아동, 청소년, 청년, 중장년",
-    "life_cycle": "노년, 영유아, 아동, 청소년, 청년, 중장년",
+    "categories": "노년, 영유아, 아동, 청소년, 중장년, 청년",
+    "life_cycle": "노년, 영유아, 아동, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -4675,8 +4675,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "다문화가족의 안정적인 정착과 가족생활을 지원하기 위함",
-    "categories": "청년, 중장년, 청소년, 영유아, 아동, 노년",
-    "life_cycle": "청년, 중장년, 청소년, 영유아, 아동, 노년",
+    "categories": "중장년, 청년, 청소년, 영유아, 아동, 노년",
+    "life_cycle": "중장년, 청년, 청소년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -5485,8 +5485,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "갑작스런 위기상황이 발생하여 어려움에 처해있는 대상자에게 위기감을 해소하고자 지원",
-    "categories": "노년, 아동, 영유아, 중장년, 청년, 청소년",
-    "life_cycle": "노년, 아동, 영유아, 중장년, 청년, 청소년",
+    "categories": "노년, 아동, 영유아, 청년, 중장년, 청소년",
+    "life_cycle": "노년, 아동, 영유아, 청년, 중장년, 청소년",
     "url": ""
   },
   {
@@ -5521,8 +5521,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "최중증 독거 및 저소득, 성년 및 아동, 독거 발달장애인의 자립생활 지원 및 삶의 질 향상 도모",
-    "categories": "노년, 아동, 중장년, 청년, 청소년",
-    "life_cycle": "노년, 아동, 중장년, 청년, 청소년",
+    "categories": "노년, 아동, 청년, 중장년, 청소년",
+    "life_cycle": "노년, 아동, 청년, 중장년, 청소년",
     "url": ""
   },
   {
@@ -5665,8 +5665,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "이동에 제약이 있는 저소득 재가장애인을 대상으로 찾아가는 이동복지서비스를 제공하여 생활환경개선 및 일상생활 편의제공",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -5809,8 +5809,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생활이 어려운 저소득층 및 사회복지시설  위문",
-    "categories": "영유아, 아동, 노년, 청소년, 중장년, 청년",
-    "life_cycle": "영유아, 아동, 노년, 청소년, 중장년, 청년",
+    "categories": "영유아, 아동, 노년, 청소년, 청년, 중장년",
+    "life_cycle": "영유아, 아동, 노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -7627,8 +7627,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국민건강보험료와 「노인장기요양보험법」에 따른 장기요양보험료(이하 “보험료 등”이라 한다)를 납부하는 데 어려움을 겪는 저소득계층에게 보험료를 지원함으로써 경제적 부담을 경감하고 시민의 건강증진과 복지향상을 도모함",
-    "categories": "청년, 중장년, 청소년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 중장년, 청소년, 노년, 아동, 영유아",
+    "categories": "중장년, 청년, 청소년, 노년, 아동, 영유아",
+    "life_cycle": "중장년, 청년, 청소년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -10885,8 +10885,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "나라를 위해 헌신하였으나 상대적으로 소외되었던 국가유공자를 예우하고 명예를 선양하기 위해 서울시 보훈예우수당을 지원함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -11011,8 +11011,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 이동기기(전동휠체어,전동스쿠터,수동휠체어)를 적기에 세척하고 무료 점검하여 청결하게 유지관리 함으로써 장애인 가구의 경제적 부담 경감 및 보장구 이용편의를 제공하고자 함",
-    "categories": "청소년, 청년, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 노년, 중장년",
+    "categories": "청소년, 청년, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -11245,8 +11245,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가유공자에 대한 예우와 지원",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -11965,8 +11965,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득한부모가족에 명절격려금을 지급하여 경제적 부담감 경감",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 중장년, 청년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 중장년, 청년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -12019,8 +12019,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "혼자서 일상생활하기 어려운 중증장애인의 자립생활 지원",
-    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -12091,8 +12091,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "자연재해발생시 이재민에 대한 구호를 실시함으로써 이재민의 보호와 생활안정에 기여함",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -12145,8 +12145,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인가구에 출산비용을 지원함으로써 경제적 부담을 경감하고 출산 친화적 문화조성을 통한 삶의 질 개선에 기여하는 것을 목적으로 함.",
-    "categories": "청소년, 임신 · 출산, 청년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 임신 · 출산, 청년, 중장년, 노년, 영유아, 아동",
+    "categories": "청소년, 임신 · 출산, 청년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청소년, 임신 · 출산, 청년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -12973,8 +12973,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "사망한 참전유공자의 배우자 중 국가유공자로 승계되지 않은 자에게 명예수당 지급",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -13459,8 +13459,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 운전면허취득을 지원하여 이동편의증진",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -13819,8 +13819,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "▪ 다문화가정의 모국 방문 기회를 제공하여 가족 간 관계 증진, 다문화자녀의 긍정적인 자아정체성 형성, 모의 나라에 대한 이해 증진을 기여\n▪ 다문화가정 지원 정책 중 수요가 많고 만족도가 높은 모국방문 지원사업 추진으로 다문화가족의 복지 체감도 향상 지원",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -14323,8 +14323,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려자의 안전 귀가를 위한 귀향여비 지급",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 중장년, 청년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 중장년, 청년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -14359,8 +14359,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "무연고 사망자 장제처리 및 행려자 귀향여비 지원",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -16915,8 +16915,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민의 국민건강보험료를 지원하여 구민의 건강생활 증진 및 국민건강보험료 미납 사유로 인한 의료사각지대를 최소화하고자 함.",
-    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -17311,8 +17311,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "성인장애인에게 1:1로 사회서비스를 제공하여 문제행동을 조기에 발견, 개입하여 해결하고자 함.",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -17329,8 +17329,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활수급가구에 대하여 수도분기관을 연결지원하여 수급자 가구에 깨끗하고 안정적인 상수도 공급",
-    "categories": "청년, 중장년, 청소년, 영유아, 아동, 노년",
-    "life_cycle": "청년, 중장년, 청소년, 영유아, 아동, 노년",
+    "categories": "중장년, 청년, 청소년, 영유아, 아동, 노년",
+    "life_cycle": "중장년, 청년, 청소년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -17635,8 +17635,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가유공자의 사기 앙양 및 복리 증진",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -17761,8 +17761,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈행사를 통한 호국안보의식 함양 및 보훈문화 저변 확산",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -17887,8 +17887,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "특수장비촬영비(CT, MRI, MRA)를 연1회 70만원까지 무상지원하여 의료복지향상에 기여코자 함",
-    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -18823,8 +18823,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국비 장애인활동지원사업을 시행하고 있으나 이용시간부족으로 불편을 겪고 있는 장애인을 대상으로 서비스 시간을 추가 지원함으로써 장애인의 자립 및 사회참여 기회를 확대하고자 함.",
-    "categories": "청소년, 청년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 아동, 영유아",
+    "categories": "청소년, 중장년, 청년, 아동, 영유아",
+    "life_cycle": "청소년, 중장년, 청년, 아동, 영유아",
     "url": ""
   },
   {
@@ -19129,8 +19129,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국민기초생활 보장지원을 통한 수급자의 안정적 생활 지원",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -19309,8 +19309,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "독립유공자 유족의 희생과 공헌에 대한 예우 및 지원",
-    "categories": "청소년, 중장년, 청년, 영유아, 아동, 노년",
-    "life_cycle": "청소년, 중장년, 청년, 영유아, 아동, 노년",
+    "categories": "청소년, 청년, 중장년, 영유아, 아동, 노년",
+    "life_cycle": "청소년, 청년, 중장년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -19489,8 +19489,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "군민의 건강증진과 사회복지 향상",
-    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -20479,8 +20479,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "도서지역 특성상 다양한 복지서비스 제공 한계로 찾아가는 이동복지관운영을 통해 도서지역 주민에 대한 보건․복지서비스 제공 강화\n- 사업량: 5개 도서지역(추자도, 우도, 가파도, 마라도, 비양도)\n- 사업내용: 도서지역 복지, 의료상담, 전기·가스안전 점검, 보조기기 수리, 주거환경개선, 성인지 교육 및 캠페인 등 찾아가는 복지서비스 제공",
-    "categories": "청년, 청소년, 아동, 노년, 중장년",
-    "life_cycle": "청년, 청소년, 아동, 노년, 중장년",
+    "categories": "청년, 청소년, 아동, 중장년, 노년",
+    "life_cycle": "청년, 청소년, 아동, 중장년, 노년",
     "url": ""
   },
   {
@@ -20767,8 +20767,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "○ 국가와 민족을 위해 희생·공헌하신 분들의 숭고한 나라사랑 정신을 선양하고 \n    국가보훈대상자를 예우하는 기반 조성",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -21829,8 +21829,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈대상자에게 명절을 기해 위문품을 전달함으로써 위문 실시",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -21973,8 +21973,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 세대주의 취,창업 지원을 통하여 자활 기회마련",
-    "categories": "노년, 중장년, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 청년, 청소년",
+    "categories": "중장년, 노년, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -22027,8 +22027,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "차상위계층(한부모 등) 중 건강보험료가 보건복지부가 정한 최저보험료 (2025년 최저보험료: 22,340원/ 매년 변경됨 )이하인 세대에  건강보험료를 지원하여 건강한 생활유지와 복지향상을 도모함을 목적으로  함.",
-    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -22963,8 +22963,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가에 공헌하고 헌신한 국가유공자 유족에 대한 응분의 예우와 지원으로 국민의 애국애족정신의 함양",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -22981,8 +22981,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "취약계층 일자리제공으로 지역경제 활성화\n공공부문사업시행에 따른 인력지원으로 행정서비스 제공",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -24457,8 +24457,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려자 및 노숙자 귀가여비 및 사망장제비 지원으로 건전한 사회복귀와 복지증진에 이바지",
-    "categories": "중장년, 청년, 청소년, 영유아, 아동, 노년",
-    "life_cycle": "중장년, 청년, 청소년, 영유아, 아동, 노년",
+    "categories": "청년, 중장년, 청소년, 영유아, 아동, 노년",
+    "life_cycle": "청년, 중장년, 청소년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -24565,8 +24565,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "수급자가 아닌 일반 저소득 노인 및 장애인 세대의 소액보험료를 지원하여 경제적 부담완화 및 건강증진 도모",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -24709,8 +24709,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "민족 고유의 명절을 맞이하여 외롭게 살아가는 어려운 이웃과 사회복지시설 입소자 등 소외계층을 위문 · 격려하여 훈훈하고 인정이  넘치는 명절 분위기를 조성하고자 함.",
-    "categories": "청소년, 중장년, 청년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 중장년, 청년, 노년, 영유아, 아동",
+    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -24835,8 +24835,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려인등의 인간다운 생활을 할 권리를 보호하고 귀향에 따른 여비를 보전하여 건전한 사회복귀와 복지증진에 이바지하고자 함.",
-    "categories": "노년, 아동, 영유아, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 아동, 영유아, 청년, 중장년, 청소년",
+    "categories": "노년, 아동, 영유아, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 아동, 영유아, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -25411,8 +25411,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "묘지 증가에 따른 국토의 훼손을 방지하고\n화장 문화를 확산시키기 위하여 화장장려금 지원",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -27265,8 +27265,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "괴산군민과 외국인 근로자, 다문화가족들과 함께 할 수 있는 사회통합 환경 조성",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -27283,8 +27283,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "주거지가 아닌 타지방을 여행하던중  숙식할 능력이 없는 위기에 처한 행려자 구호",
-    "categories": "노년, 청소년, 중장년, 청년",
-    "life_cycle": "노년, 청소년, 중장년, 청년",
+    "categories": "노년, 청소년, 청년, 중장년",
+    "life_cycle": "노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -28309,8 +28309,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "교통약자인 장애인의 이동권 보장 및 사회참여 기회 확대",
-    "categories": "청년, 청소년, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 중장년, 노년",
+    "categories": "청년, 청소년, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 노년, 중장년",
     "url": ""
   },
   {
@@ -28687,8 +28687,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인무료급식소 운영- 지역 저소득 장애인의 양질의 점심제공으로 건강증진과 장애인단체의 사회적 기능 활성화\n결식우려 저소득장애인발굴- 거동불편 장애인의 건강증진 및 사회참여 기회확대 도모",
-    "categories": "노년, 중장년, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -29155,8 +29155,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "합병증(심뇌혈관질환, 신장질환, 백내장 등) 발생 빈도가 높은 고혈압, 당뇨병 환자에게 사전 합병증 검사를 실시하여 심뇌혈관 질환으로 인한 의료비와 사회경제적 부담 및 중증질환 발생과 사망률을 낮추고자 함",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -29245,8 +29245,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "열악한 주거환경에서 생활하는 취약계층 가구의 주거환경개선 및 안전 확보를 통해 서민생활안정과 주민 삶의 질 향상.",
-    "categories": "영유아, 아동, 노년, 청소년, 청년, 중장년",
-    "life_cycle": "영유아, 아동, 노년, 청소년, 청년, 중장년",
+    "categories": "영유아, 아동, 노년, 청소년, 중장년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -29353,8 +29353,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모가정에 생활안정비를 지원함으로써 자녀 양육비 경감 도모",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -29515,8 +29515,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층 및 취업취약계층을 중심으로 한시적인 단순노무, 행정보조 일자리를 제공하여 소득보전 및 민간일자리 이행 촉진",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -29551,8 +29551,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애극복 및 사회적응을위한 재활교육비 지원",
-    "categories": "청소년, 청년, 영유아, 아동, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 영유아, 아동, 노년, 중장년",
+    "categories": "청소년, 청년, 영유아, 아동, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 영유아, 아동, 중장년, 노년",
     "url": ""
   },
   {
@@ -30829,8 +30829,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "이재민 구호",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -30901,8 +30901,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국민기초수급자가 아닌 저소득층(한부모가족세대, 장애인세대, 장기요양등급인정자세대)의 국민건강보험료를 지원하여 건강생활도모.",
-    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -30937,8 +30937,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "명절 및 보훈기념일 등을 맞이하여 국가보훈대상자를 위문 격려",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -32089,8 +32089,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 생활안정에 기여함",
-    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -32125,8 +32125,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "다문화가정을 대상으로 친정 부모를 만날 수 있는 기회를 제공하여 이국에서의 향수를 달래고 행복한 가정생활을 영위하도록 지원",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -33529,8 +33529,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "독립유공자 및 유족의 예우 및 지원 강화 도모",
-    "categories": "노년, 청년, 중장년",
-    "life_cycle": "노년, 청년, 중장년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -33709,8 +33709,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족의 생활안정과 복지증진 이바지",
-    "categories": "중장년, 청년, 청소년, 노년, 아동, 영유아",
-    "life_cycle": "중장년, 청년, 청소년, 노년, 아동, 영유아",
+    "categories": "청년, 중장년, 청소년, 노년, 아동, 영유아",
+    "life_cycle": "청년, 중장년, 청소년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -33745,8 +33745,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의정부시 국가보훈대상자 예우 및 지원 강화 도모",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -33763,8 +33763,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "복지 사각지대에 있는 저소득 독고 장애인 가구에게 맞춤형 무료 밑반찬 제공사업을 추진하여\r\n장애인의 복지증진에 기여",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -39109,8 +39109,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 사회참여 증진 등을 위하여 국비지원 부족시간을 시비 추가 지원",
-    "categories": "청년, 청소년, 노년, 중장년, 아동",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 아동",
+    "categories": "청년, 청소년, 중장년, 노년, 아동",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 아동",
     "url": ""
   },
   {
@@ -39361,8 +39361,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구직 장애인과 구인 기업과의 만남의 장을 통하여 장애인의 다양한 직업 선택 기회 제공으로 자립의지 제고 및 장애인식개선 도모",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -39649,8 +39649,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "심뇌혈관질환 고위험군인 고혈압·당뇨병 환자의 지속치료율과 자가관리능력향상으로 심근경색증 및 뇌졸중의 발생, 사망, 장애를 감소시켜 시민들의 건강수명을 연장하기 위함",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -39811,8 +39811,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "태아의 건강상태 확인으로 태아의 질병의 조기발견",
-    "categories": "중장년, 청년, 청소년, 임신 · 출산",
-    "life_cycle": "중장년, 청년, 청소년, 임신 · 출산",
+    "categories": "청년, 중장년, 청소년, 임신 · 출산",
+    "life_cycle": "청년, 중장년, 청소년, 임신 · 출산",
     "url": ""
   },
   {
@@ -40351,8 +40351,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층노인과 사회적 약자인 장애인들에게 지역실정에 맞는\n노인의(틀니)지원사업을 통하여 구강질환을 예방하고 경제적\n가계부담을 경감하여 구강건강증진",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -40693,8 +40693,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "「장애인복지법」제6조(중증장애인의 보호) 및 제30조(경제적 부담의 경감)에 따라 김제시의 저소득 중증 시각장애인가구에 대한 유료방송 이용요금을 지원함으로써 저소득 중증 시각장애인가구의 시청권 보장과 생활안정 도모를 목적으로 한다.",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -40963,8 +40963,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활보장수급자 및 차상위계층에게 자격증 취득비 지원을 통해 자립역량 강화",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -41647,8 +41647,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가보훈대상자의 명예선양",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -41845,8 +41845,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "○ 중증장애인들이 일상생활을 영위하는데 필요한 서비스를 적절하게 제공\n    함으로써 기본적인 생활보장 및 사회참여를 제고하고 가족기능 회복에 기여",
-    "categories": "아동, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "아동, 중장년, 노년, 청년, 청소년",
+    "categories": "아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -41989,8 +41989,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애로 인하여 식생활이 어려운 거동불편장애인에게 밑반찬을 지원으로 \n영양 및 건강관리를 돕고, 지역사회서비스 연계로 더불어 함께하는 공동체사회형성",
-    "categories": "청년, 청소년, 노년, 중장년",
-    "life_cycle": "청년, 청소년, 노년, 중장년",
+    "categories": "청년, 청소년, 중장년, 노년",
+    "life_cycle": "청년, 청소년, 중장년, 노년",
     "url": ""
   },
   {
@@ -42439,8 +42439,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "수화교육을 통하여 비장애인과의 의사소통의 불편함을 해결함으로 농아인의 원활한 사회참여 및 사회적응을 유도하고 특강 등 다체로운 프로그램 운영으로 자신감, 성취감을 향상시키고 가족화합을 이룸.",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -42565,8 +42565,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "6월 호국보훈의 달을 맞아 보훈가족의 자긍심 고취 및 사기진작을 위한 대일보훈대상 시상금 지급",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -42673,8 +42673,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모가족에게 경제적·심리적 안정을 주고 건강한 사회구성원으로 자립할 수 있도록 지원",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -42763,8 +42763,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "명절 후원금품 지원을 통한 따뜻한 명절 보내기",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -42889,8 +42889,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인 보장구 (전동스쿠터, 전동휠체어) 수리비를 지원하여 생활안정을 도모하고 장애인의 원활한 이동 편의 제공을 통해 이동권을 보장하고 사회참여 활동을 유도",
-    "categories": "청년, 중장년, 청소년, 노년, 영유아, 아동",
-    "life_cycle": "청년, 중장년, 청소년, 노년, 영유아, 아동",
+    "categories": "중장년, 청년, 청소년, 노년, 영유아, 아동",
+    "life_cycle": "중장년, 청년, 청소년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -43411,8 +43411,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가보훈대상자 사망자 장례비 지원",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -44077,8 +44077,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 매장 위주의 장사제도를 합리적으로 개선하고 화장 문화로의 전환 도모\n- 묘지 증가에 따른 국토 훼손 방지로 국민의 보건 위생상의 위해 방지 및 국토의 효율적 이용\n- 화장장려금 지원으로 대주민 의식변화 제고 및 공공복리 증진에 이바지",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -44113,8 +44113,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 부부장애인의 생활안정을 도모하기 위함.",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -44257,8 +44257,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "소규모 여성모임 지원을 통해 삶의 질을 향상하고 전문적이고 체계적인 교육으로 자기역량강화 및 자아성취감을 고취시켜 여성사회참여 기회 확대",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -44473,8 +44473,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "목포복지재단 운영 보조금 지원하여 복지사업의 활성화 및 복지사각지대 해소를 위한 근간 마련",
-    "categories": "노년, 중장년, 아동",
-    "life_cycle": "노년, 중장년, 아동",
+    "categories": "중장년, 노년, 아동",
+    "life_cycle": "중장년, 노년, 아동",
     "url": ""
   },
   {
@@ -44545,8 +44545,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈대상자 위문을 통한 국가유공자 명예선양",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -44671,8 +44671,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "어려운 이웃이 따뜻한 명절을 보낼 수 있도록 위문",
-    "categories": "청년, 중장년, 청소년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 중장년, 청소년, 노년, 아동, 영유아",
+    "categories": "중장년, 청년, 청소년, 노년, 아동, 영유아",
+    "life_cycle": "중장년, 청년, 청소년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -44923,8 +44923,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층에게 질병치료에 어려움이 없도록 건강보험료를 지원하여 생활안정 도모",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -45211,8 +45211,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생업수단없이 거리에서 배회하거나, 숙식할 능력이 없는 자에게 일시보호와 병원진료 지원 등 복지서비스 연계 등을 제공하여 거리노숙인 발생 예방 및 관리 강화",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -45301,8 +45301,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "100세 이상 부모등을 부양하고 있는 가정에 부양지원금을 지급함으로써 경로 효친의 건전한 가족제도의 정착과 지역사회의 효 문화 확산",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -45409,8 +45409,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노령, 장애 등으로 인하여 생활에 어려움을 격고 있는 저소득 주민에 대하여 국민건강보험료를 지원함으로써 군민의 건강증진과 사회복지 향상",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -45607,8 +45607,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 부부 장애인의 생활 안정을 도모하기 위함.",
-    "categories": "노년, 중장년, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 청소년, 청년",
+    "categories": "중장년, 노년, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -45805,8 +45805,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장묘문화 개선을 통한 국토의 효율적 이용에 기여",
-    "categories": "청년, 청소년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 아동, 영유아, 중장년, 노년",
+    "categories": "청년, 청소년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -48361,8 +48361,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 치매 조기발견으로 병원 입원기간(요양 등) 단축 및 중증치매로 이행 지연\n- 보호자 및 대상자의 사회적, 경제적 부담 경감",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -48523,8 +48523,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 재가 경증장애인에게 장애로 인하여 추가적으로 소요되는 비용지원으로 생활안정 및 복지증진 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -48667,8 +48667,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "거동 불편한 재가 중증장애인의 이동보장권을 확보하여 사각지대에 놓인 대상자의 의료 및 복지 혜택 증진",
-    "categories": "아동, 영유아, 노년, 청소년, 중장년, 청년",
-    "life_cycle": "아동, 영유아, 노년, 청소년, 중장년, 청년",
+    "categories": "아동, 영유아, 노년, 청소년, 청년, 중장년",
+    "life_cycle": "아동, 영유아, 노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -49297,8 +49297,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가에 헌신한 국가유공자에 대한 예우 지원",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -49837,8 +49837,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 지원법에 의한 부녀가정 세대중 단칸방 부녀가정세대에게 두칸방으로 지원하여 주거 환경 및 생활환경 개선",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -50071,8 +50071,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "지역내 공공 및 민간자원한계를 보완하기 위한 자체시책사업\n통합사례관리사업 가구의 열악한 주거환경을 개선하여 복지욕구를 해소",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -50395,8 +50395,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "홀로 거주하는 저소득 청장년층 장애인 가구에 대한 욕구조사 결과에 따른\n반찬지원을 추진하여 장애인의 일상생활 유지에 도움을 주고자 함",
-    "categories": "중장년, 청년, 청소년, 노년, 영유아, 아동",
-    "life_cycle": "중장년, 청년, 청소년, 노년, 영유아, 아동",
+    "categories": "청년, 중장년, 청소년, 노년, 영유아, 아동",
+    "life_cycle": "청년, 중장년, 청소년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -50809,8 +50809,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 명절자립격려금 및 하계휴가비 지원을 통해 한부모가족의 사회적 소속감 및 가족친화력 제고",
-    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -50917,8 +50917,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "6.25전쟁 및 월남전에 참전한 유공자에 대하여 지원을 함으로써 참전의 명예를 기리고 시민의 애국애족 정신 함양에 이바지함을 목적으로 한다",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -51097,8 +51097,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가보훈대상자의 복리 증진",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -51133,8 +51133,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행여자 여비를 지급하여 부랑인 귀향을 도움",
-    "categories": "영유아, 아동, 노년, 청소년, 청년, 중장년",
-    "life_cycle": "영유아, 아동, 노년, 청소년, 청년, 중장년",
+    "categories": "영유아, 아동, 노년, 청소년, 중장년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -52285,8 +52285,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 장애인활동지원 국고보조사업 지원 시간 부족으로 어려움이 있는 장애인을 위해 활동지원 시간을 구비로 추가하여 돌봄 지원체계 구축",
-    "categories": "청소년, 청년, 중장년, 아동",
-    "life_cycle": "청소년, 청년, 중장년, 아동",
+    "categories": "청소년, 청년, 아동, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 중장년",
     "url": ""
   },
   {
@@ -53167,8 +53167,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인이동권보장",
-    "categories": "노년, 중장년, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 청년, 청소년",
+    "categories": "노년, 청년, 중장년, 청소년",
+    "life_cycle": "노년, 청년, 중장년, 청소년",
     "url": ""
   },
   {
@@ -53257,8 +53257,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "타인의 도움없이 활동이 어려운 거동불편 장애인의 이동권 확보 및 사회참여 기회 확대, 편의증진 지원",
-    "categories": "노년, 아동, 청소년, 중장년, 청년",
-    "life_cycle": "노년, 아동, 청소년, 중장년, 청년",
+    "categories": "노년, 아동, 청소년, 청년, 중장년",
+    "life_cycle": "노년, 아동, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -53437,8 +53437,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인복지 정보 전달 및 시책 홍보",
-    "categories": "아동, 노년, 청소년, 중장년, 청년",
-    "life_cycle": "아동, 노년, 청소년, 중장년, 청년",
+    "categories": "아동, 노년, 청소년, 청년, 중장년",
+    "life_cycle": "아동, 노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -53473,8 +53473,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 중증장애인 생활기반 안정화 도모",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -53527,8 +53527,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "거리노숙인을 대상으로 필요 복지서비스(잠자리, 의료 등)를 제공함으로써 각종 사고예방과 최소한의 인간다운 삶을 제공하는데 중심적 역할을 수행하고자 함",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -53815,8 +53815,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "비 장애인에 비해 임신과 출산 시 비용이 추가 소요되는 장애인가정에게 출산비용을 지원함으로써, 경제적 부담을 경감하고 출산 친화적인 문화 조성을 통한 삶의 질 개선에 기여",
-    "categories": "노년, 중장년, 청년, 임신 · 출산, 청소년",
-    "life_cycle": "노년, 중장년, 청년, 임신 · 출산, 청소년",
+    "categories": "중장년, 노년, 청년, 임신 · 출산, 청소년",
+    "life_cycle": "중장년, 노년, 청년, 임신 · 출산, 청소년",
     "url": ""
   },
   {
@@ -53995,8 +53995,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국민건강보험 지역가입자로서 월 최저보험료 이하 저소득층 만 65세이상 노인가구 및 장애인가구에 대한 건강보험료 지원",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -54103,8 +54103,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가에 공헌하고 헌신한 참전유공자 및 국가보훈대상자에게 매월 보훈수당을 지급하여 자긍심을 고취하고 명예를 선양하고자 함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -54157,8 +54157,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초수급자 중 중증장애인의 복지 증진",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "중장년, 청년, 노년",
+    "life_cycle": "중장년, 청년, 노년",
     "url": ""
   },
   {
@@ -54211,8 +54211,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "영구임대아파트단지내의 공동전기요금을 지원함으로써 영구임대아파트 주민들의 복지증진에 기여\r\n저소득 취약계층의 최저생계 보장을 통한 삶의 질 향상",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -55165,8 +55165,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "신체적·정신적 장애 등의 사유로 혼자서 일상생활과 사회생활을 영위하기 어려운 최중증장애인에게 활동지원급여 구 추가사업을 통해 자립생활을 지원하여 생활의 안정을 제공하고 장애인의 삶의 질을 높이고자 함",
-    "categories": "아동, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -55453,8 +55453,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "각종 재해시 신속한 응급 물자 제공",
-    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -55669,8 +55669,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모가족의 최저생활 수준 충족을 위해 법정급여 외 명절(설, 추석)위문금 지급",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -57415,8 +57415,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "주거비 부담 완화를 통한 출생 및 양육 도움",
-    "categories": "청년, 중장년, 임신 · 출산",
-    "life_cycle": "청년, 중장년, 임신 · 출산",
+    "categories": "중장년, 청년, 임신 · 출산",
+    "life_cycle": "중장년, 청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -58117,8 +58117,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "사회복지시설·기관, 사회복지분야 우수 자원봉사자 등에게 사회복지관련 시책 등 각종 정보를 제공함으로써 자원봉사 활성화에 기여하고자 함",
-    "categories": "청년, 청소년, 영유아, 아동, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 영유아, 아동, 중장년, 노년",
+    "categories": "청년, 청소년, 영유아, 아동, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 영유아, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -60007,8 +60007,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "어업과 가사 및 육아를 병행하는 여성어업인들을 대상으로 문화 등을 접할 수 있는 기회를 제공하여 영어의욕 고취 및 삶의 질 향상 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -60115,8 +60115,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "새일센터 미설치 지역(계룡,금산,청양,예산,태안) 경력단절여성 등에게 취업지원 서비스 지원",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "중장년, 청년, 노년",
+    "life_cycle": "중장년, 청년, 노년",
     "url": ""
   },
   {
@@ -61519,8 +61519,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노숙인에게 노숙인 시설을 이용하게 하거나, 치료를 요하는 경우 보건의료기관에 진료를 받도록\r\n하여 노숙인을 안전하게 구호",
-    "categories": "청년, 청소년, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 중장년, 노년",
+    "categories": "청년, 청소년, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 노년, 중장년",
     "url": ""
   },
   {
@@ -61537,8 +61537,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "나라의 존립과 유지를 위해 공헌하고 희생한 국가유공자와 그 유족에 대한 예우와 지원으로 \n자긍심 고취 및 애국정신 함양",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -64417,8 +64417,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 여성의 경제적 부담 경감 및 건강 증진",
-    "categories": "중장년, 청년",
-    "life_cycle": "중장년, 청년",
+    "categories": "청년, 중장년",
+    "life_cycle": "청년, 중장년",
     "url": ""
   },
   {
@@ -64579,8 +64579,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "자녀 양육가정에 경제적 부담을 경감하고 산모와 영유아의 건강증진을 도모하고자 산모·신생아 건강관리 지원금 지원",
-    "categories": "임신 · 출산, 중장년, 청년",
-    "life_cycle": "임신 · 출산, 중장년, 청년",
+    "categories": "임신 · 출산, 청년, 중장년",
+    "life_cycle": "임신 · 출산, 청년, 중장년",
     "url": ""
   },
   {
@@ -65479,8 +65479,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "경력단절여성의 일자리 지원사업",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "노년, 청년, 중장년",
+    "life_cycle": "노년, 청년, 중장년",
     "url": ""
   },
   {
@@ -65515,8 +65515,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "「효행 장려 및 지원에 관한 법률」제11조에 따라 3세대 이상이 함께 사는 가정에 효도수당을 지급함으로써 경로효친의 건전한 가족제도 정착과 지역사회의 효 문화 확산",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -65713,8 +65713,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "임산부 및 가임기여성 건강보호를 통한 국민보건 향상",
-    "categories": "청년, 중장년, 임신 · 출산",
-    "life_cycle": "청년, 중장년, 임신 · 출산",
+    "categories": "중장년, 청년, 임신 · 출산",
+    "life_cycle": "중장년, 청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -65821,8 +65821,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "부안군에 거주하는 장애인의 기본적인 이동권과 사회활동 참여 증진에 기여",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -72373,8 +72373,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인복지관 이용자 중 저소득(기초생활수급자, 차상위계층) 장애인에 대한 급식지원 실시로 삶의 질 향상에 기여",
-    "categories": "중장년, 노년, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -72751,8 +72751,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구례군 임신, 출산 및 양육 장려",
-    "categories": "청소년, 청년, 중장년",
-    "life_cycle": "청소년, 청년, 중장년",
+    "categories": "청소년, 중장년, 청년",
+    "life_cycle": "청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -73723,8 +73723,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "상시돌봄이 필요한 최중증장애인에 대한 야간(10시 ~ 익일 06시) 순회방문서비스 지원으로 24시간 상시돌봄 체계 구축 및 장애인의 삶의 질 향상에 기여",
-    "categories": "아동, 중장년, 청년, 청소년",
-    "life_cycle": "아동, 중장년, 청년, 청소년",
+    "categories": "아동, 청년, 중장년, 청소년",
+    "life_cycle": "아동, 청년, 중장년, 청소년",
     "url": ""
   },
   {
@@ -73975,8 +73975,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인연금 자산기준에는 적합하나 장애 진단비용 등의 부담으로 장애인연금을 신청하지 못하는 중증장애인에게 진단 및 검사비용을 지원합니다.\n보건복지부 저소득 장애인 진단비 및 검사비 지원사업 대상자는 제외됩니다.",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -75289,8 +75289,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "묘지 증가에 따른 국토의 훼손을 방지하고, 화장문화를 확산시키기 위해 화장에 소요되는 비용 일부를 지원",
-    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -75397,8 +75397,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보장구를 이용하는 장애인에게 신속한 서비스를 제공하여 장애인복지 서비스의 질을 높이고 장애인 삶의 질 향상 도모",
-    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
     "url": ""
   },
   {
@@ -75433,8 +75433,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인이 복지카드 신청 후 수령 시 읍·면사무소를 재방문하는 번거로움을 해소하고 복지카드 등기 배송 시 등기배송료(3,820원)를 지원하여 장애인 복지증진에 기여",
-    "categories": "아동, 영유아, 노년, 청소년, 중장년, 청년",
-    "life_cycle": "아동, 영유아, 노년, 청소년, 중장년, 청년",
+    "categories": "아동, 영유아, 노년, 청소년, 청년, 중장년",
+    "life_cycle": "아동, 영유아, 노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -75451,8 +75451,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인이 고속도로통행료 할인카드 발급 시 부담하던 수수료(4,000원)를 군 자체예산으로 편성 지원하여 장애인 복지증진에 기여",
-    "categories": "노년, 영유아, 아동, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 영유아, 아동, 청년, 중장년, 청소년",
+    "categories": "노년, 영유아, 아동, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 영유아, 아동, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -75541,8 +75541,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "효 문화 발전 및 효 장려를 위해 4대가구 동거가족에게 효행수당을 지급",
-    "categories": "중장년, 청년, 청소년, 노년, 아동, 영유아",
-    "life_cycle": "중장년, 청년, 청소년, 노년, 아동, 영유아",
+    "categories": "청년, 중장년, 청소년, 노년, 아동, 영유아",
+    "life_cycle": "청년, 중장년, 청소년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -75595,8 +75595,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 청각장애인의 재활치료 지원으로 의료비 부담 경감 및 사회, 경제 활동 활성화 도모.",
-    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -75811,8 +75811,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민의 생활안정 지원",
-    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -75955,8 +75955,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "올바른 화장문화 정착을 위한 장묘문화 개선 대책",
-    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "categories": "청소년, 청년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -76009,8 +76009,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생계가 곤란한 취약계층에게 취업의 기회를 제공하여 생활안정 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -76405,8 +76405,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활보장수급자에게 수도 신규급수공사비용중 정액공사비를 지원하여 맑은 물 음용과 저소득층의 생계안정을 도모코자 함",
-    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -76513,8 +76513,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 소외계층의 생활현장을 직접 방문하여 불편사항을 해결해 줌으로써 삶의 질 향상을 도모하고, \n필요한 서비스를 연계·지원하여 맞춤형 복지서비스 제공으로 수요자 중심의 복지행정 실현",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -76585,8 +76585,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "결혼이민자들의 안정적인 정착 지원 및 경제적 자립 도모 위한 어린이집 급식도우미 채용",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -76693,8 +76693,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "학교생활 부적응 또는 경제적 어려움으로 학교 진학을 포기한  저소득층 본인 또는 자녀에게 지속적인 학업기회를 제공하고 소정의 목표 달성자에게 사회진출금 지원으로 자립기반 조성",
-    "categories": "청소년, 청년, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 중장년, 노년",
+    "categories": "청소년, 청년, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -77233,8 +77233,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활보장 수급자  명절 위문",
-    "categories": "청소년, 중장년, 청년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 중장년, 청년, 노년, 영유아, 아동",
+    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -77485,8 +77485,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "○  부랑인들에게 귀향 여비 및 숙박비 지원으로 가정으로 돌아가 안정적인 생활도모",
-    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -78025,8 +78025,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모가족 및 국민기초수급자 한부모가족 1가구당 연1회 연료비 지원",
-    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -80077,8 +80077,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "횡성군 관내 의료기관과 연계하여 고혈압·당뇨환자의 지속 치료율 및 자가 관리능력 향상\n - 전산시스템을 통한 고혈압·당뇨병 환자 등록관리\n - 지속치료 유도를 위해 고혈압·당뇨병 진료비 지원\n - 자가 관리능력 강화를 위한 질환 및 영양 교육 제공",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -80329,8 +80329,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층지원 김장담그기 사업추진으로 월동기 저소득주민의 생계안정 및 월동대책 마련",
-    "categories": "노년, 영유아, 아동, 청소년, 중장년, 청년",
-    "life_cycle": "노년, 영유아, 아동, 청소년, 중장년, 청년",
+    "categories": "노년, 영유아, 아동, 청소년, 청년, 중장년",
+    "life_cycle": "노년, 영유아, 아동, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -80419,8 +80419,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저출산을 극복하고 출산가정의 경제적 부담 경감",
-    "categories": "청년, 중장년, 임신 · 출산",
-    "life_cycle": "청년, 중장년, 임신 · 출산",
+    "categories": "중장년, 청년, 임신 · 출산",
+    "life_cycle": "중장년, 청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -80887,8 +80887,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "1. 위문금: 국가유공자의 공훈을 선양하고 예우하기 위해 성동구 거주 국가보훈대상자를 위문하고자 함\n2. 사망위로금: 국가보훈대상자 사망 시 고인의 공훈을 선양하고 유족을 위로하고자 함\n3. 보훈예우수당: 국가를 위해 헌신한 국가보훈대상자의 공훈을 선양하고 예우 및 생활안정에 기여하고자 함\n4. 참전유공자 배우자 복지수당: 사망한 참전유공자의 배우자에게 복지수당을 지급함으로써 보훈대상자에 대한 예우 및 지원을 강화하고자 함.",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -81607,8 +81607,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 장애인의 경제적 부담 경감으로 생활안정 도모",
-    "categories": "청소년, 청년, 아동, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -81715,8 +81715,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈 대상자의 자긍심을 고취시키고 생활 안정에 기여",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -81859,8 +81859,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "민족 고유의 명절을 맞이하여 기초생활보장수급자 세대에게  명절위문금을 전달하여 훈훈한 명절을 보낼 수 있도록 지원하고자 함",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -82345,8 +82345,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "고창거주 신혼부부 경제부담 경감 및 지역 경제 활성화에 기여\n고창군 저출산 극복을 위한 인구정책 및 고창군의 발전과 군민의 삶의 질 향상 도모",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -83011,8 +83011,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "일정 기준 이하의 국민건강보험료를 납부하는 세대에 대한 보험료 지원을 통한 경제적 부담 경감",
-    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -83029,8 +83029,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "여성장애인의 임신·출산·육아 및 가사활동 지원과 관련한 종합적인 서비스를 제공하여 여성장애인들의 일상생활을 지원하고 사회참여 확대",
-    "categories": "임신 · 출산, 노년, 청년, 중장년",
-    "life_cycle": "임신 · 출산, 노년, 청년, 중장년",
+    "categories": "노년, 임신 · 출산, 청년, 중장년",
+    "life_cycle": "노년, 임신 · 출산, 청년, 중장년",
     "url": ""
   },
   {
@@ -83119,8 +83119,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "결혼이민자에게 모국방문 기회 제공 및 가족 구성원 상호간의 이해 증진",
-    "categories": "아동, 영유아, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청년, 청소년",
+    "categories": "아동, 영유아, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -85135,8 +85135,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위해 희생 공헌한 관내 보훈대상자들에게 명절 위로금을 지급하여 나라사랑 정신을 선양하고 격려하고자 함",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -85549,8 +85549,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "실질적으로 생활이 곤란하지만 부양의무자 기준 등 기초생활보장 선정기준에 부적합하여 지원을 받지 못하는 저소득층에게 한시적으로 생계비 지원",
-    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -86071,8 +86071,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민 생활안정 및 주거안정 도모",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
