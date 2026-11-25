@@ -1,6 +1,240 @@
 [
   {
     "source": "local",
+    "id": "WLF00006818",
+    "name": "울산 자영업자 아이와 함께 행복업",
+    "summary": "소상공인의 출산‧육아로 인한 인력 공백을 최소화하여 사업체의 경영 유지 및 일‧가정 양립 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "소상공인의 출산‧육아로 인한 인력 공백을 최소화하여 사업체의 경영 유지 및 일‧가정 양립 지원",
+    "categories": "청년",
+    "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005880",
+    "name": "더드림 신혼부부 주거비 지원사업",
+    "summary": "결혼을 장려하고 출산,양육하기 좋은 환경 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "결혼을 장려하고 출산,양육하기 좋은 환경 조성",
+    "categories": "임신 · 출산",
+    "life_cycle": "임신 · 출산",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005694",
+    "name": "전입축하선물지급",
+    "summary": "인구감소 등 사회문제에 적극대처하고 인구증가를 위한 시책 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "인구감소 등 사회문제에 적극대처하고 인구증가를 위한 시책 지원",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005632",
+    "name": "야간·휴일 시간제보육 어린이집 운영",
+    "summary": "○ 병원 이용, 취업준비, 맞벌이 등에 따른 개별 보육수요에 대응하기 위해 야간 또는 휴일에 시간단위 보육서비스를 제공하여 양육부담 경감",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "○ 병원 이용, 취업준비, 맞벌이 등에 따른 개별 보육수요에 대응하기 위해 야간 또는 휴일에 시간단위 보육서비스를 제공하여 양육부담 경감",
+    "categories": "영유아",
+    "life_cycle": "영유아",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005200",
+    "name": "노인 성인용보행기 지원",
+    "summary": "보행이 어려운 노인들의 불편해소와 편의증진을 위하여 성인용 보행기 지원을 실시하여 노인들의 건강한 삶을 지원하도록 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "보행이 어려운 노인들의 불편해소와 편의증진을 위하여 성인용 보행기 지원을 실시하여 노인들의 건강한 삶을 지원하도록 함.",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005069",
+    "name": "치매 감별검사 본인부담금 지원",
+    "summary": "취약계층 어르신들의 치매 감별검사 본인부담금을 지원하여 치매를 조기에 발견하고 중증화를 예방하고자 하는 사업입니다.\n\n국가에서도 3차 감별검사 비용을 지원하지만 지원상한액이 정해져 있어 (종합병원:8만원/ 상급종합병원:11만원) 본인부담금이 5~33만원까지 발생하고 있습니다.\n국비 지원외에도 추가적으로 발생하는 본인부담금을 성남시에서 지원해줌으로써 치매 검진율을 높이고자하는 사업입니다.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "취약계층 어르신들의 치매 감별검사 본인부담금을 지원하여 치매를 조기에 발견하고 중증화를 예방하고자 하는 사업입니다.\n\n국가에서도 3차 감별검사 비용을 지원하지만 지원상한액이 정해져 있어 (종합병원:8만원/ 상급종합병원:11만원) 본인부담금이 5~33만원까지 발생하고 있습니다.\n국비 지원외에도 추가적으로 발생하는 본인부담금을 성남시에서 지원해줌으로써 치매 검진율을 높이고자하는 사업입니다.",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004791",
+    "name": "청년인턴 지원사업",
+    "summary": "AI교육과정, 공연기획, e스포츠산업교육과정 등을 운영하여 우수 수료생들을 취업연계하여 청년 일자리 창출에 기여하고자 함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "AI교육과정, 공연기획, e스포츠산업교육과정 등을 운영하여 우수 수료생들을 취업연계하여 청년 일자리 창출에 기여하고자 함",
+    "categories": "청년",
+    "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00002815",
+    "name": "보육료 차액지원",
+    "summary": "정부미지원시설인 민간·가정어린이집을 이용하고 있는 3~5세 아동에 대한 보육료 차액 지원을 통해 보호자의 육아 부담 해소와 건전한 양육 분위기를 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "정부미지원시설인 민간·가정어린이집을 이용하고 있는 3~5세 아동에 대한 보육료 차액 지원을 통해 보호자의 육아 부담 해소와 건전한 양육 분위기를 조성",
+    "categories": "영유아",
+    "life_cycle": "영유아",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00001578",
+    "name": "가스안전기기(타이머콕) 보급사업",
+    "summary": "가스사고에 취약한 65세이상 노인가구 등에 가스안전기기(타이머콕) 보급하여 가스안전 확보 및 서민층 생활안정에 기여하기 위함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "가스사고에 취약한 65세이상 노인가구 등에 가스안전기기(타이머콕) 보급하여 가스안전 확보 및 서민층 생활안정에 기여하기 위함",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00000227",
+    "name": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원",
+    "summary": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원를 통한 생계지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원를 통한 생계지원",
+    "categories": "아동, 청소년",
+    "life_cycle": "아동, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003571",
+    "name": "노인 목욕 및 이미용비 지원사업",
+    "summary": "목포시 노인 목욕 및 이·미용비 지원 조례에 따라 어르신들의 사기진작과 보건복지 및 건강증진에 기여하고자 2007년 8월부터 전국 최초로 자체예산으로 노인 목욕 및 이·미용 지원사업을 추진",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "목포시 노인 목욕 및 이·미용비 지원 조례에 따라 어르신들의 사기진작과 보건복지 및 건강증진에 기여하고자 2007년 8월부터 전국 최초로 자체예산으로 노인 목욕 및 이·미용 지원사업을 추진",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00000927",
+    "name": "국민건강보험료 지원",
+    "summary": "일정 기준 이하의 국민건강보험료를 납부하는 세대에 대한 보험료 지원을 통한 경제적 부담 경감",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "일정 기준 이하의 국민건강보험료를 납부하는 세대에 대한 보험료 지원을 통한 경제적 부담 경감",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003091",
+    "name": "화장장려금지원",
+    "summary": "관내에 화장장 시설이 없어 타지역의 화장장을 이용하는 시민들에게 화장 장려금을 지원하여 장묘문화 개선사업에 적극 동참토록 하기 위함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "관내에 화장장 시설이 없어 타지역의 화장장을 이용하는 시민들에게 화장 장려금을 지원하여 장묘문화 개선사업에 적극 동참토록 하기 위함",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
     "id": "WLF00006555",
     "name": "민간가정어린이집 차액보육료 지원",
     "summary": "정부 미지원 어린이집(민간, 가정)에 재원 중인 3~5세 영유아의 실질적인 무상보육을 위해 누리과정 차액보육료 지원",
@@ -283,8 +517,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "결혼이민자에게 모국방문 기회 제공 및 가족 구성원 상호간의 이해 증진",
-    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -697,8 +931,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "실질적으로 생활이 곤란하지만 부양의무자 기준 등 기초생활보장 선정기준에 부적합하여 지원을 받지 못하는 저소득층에게 한시적으로 생계비 지원",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -1291,8 +1525,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "자원봉사활동 중 예기치 못한 사고로 인해 상해 발생 시 치료비를 지원함으로써 봉사활동 중 발생하는 각종 사고에 대한 경제적？심리적 불안 해소",
-    "categories": "노년, 청소년, 청년, 중장년",
-    "life_cycle": "노년, 청소년, 청년, 중장년",
+    "categories": "노년, 청소년, 중장년, 청년",
+    "life_cycle": "노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -1311,24 +1545,6 @@
     "amount_summary": "자원봉사 할인 가맹점 표지판 제작",
     "categories": "",
     "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00003571",
-    "name": "노인 목욕 및 이미용비 지원사업",
-    "summary": "목포시 노인 목욕 및 이·미용비 지원 조례에 따라 어르신들의 사기진작과 보건복지 및 건강증진에 기여하고자 2007년 8월부터 전국 최초로 자체예산으로 노인 목욕 및 이·미용 지원사업을 추진",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "목포시 노인 목욕 및 이·미용비 지원 조례에 따라 어르신들의 사기진작과 보건복지 및 건강증진에 기여하고자 2007년 8월부터 전국 최초로 자체예산으로 노인 목욕 및 이·미용 지원사업을 추진",
-    "categories": "노년",
-    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -1867,8 +2083,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족이 건강하고 문화적인 생활을 영위할 수 있도록 함으로써 한부모 가족의 생활안정 및 복지증진에 이바지함을 목적으로 함",
-    "categories": "청소년, 청년, 영유아, 아동, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 영유아, 아동, 중장년, 노년",
+    "categories": "청소년, 청년, 영유아, 아동, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 영유아, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -1957,8 +2173,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행여자의 귀향여비 지급 및 숙박비 지급",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "노년, 청년, 중장년",
+    "life_cycle": "노년, 청년, 중장년",
     "url": ""
   },
   {
@@ -2299,8 +2515,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "삼척시 추모공원(공설묘지, 공설장사시설)의 설치된 당해 지역사회 주민의 복지증진과 삶의 질 향상에 이바지하여 불편/위화감을 최소화하는 역할을 수행코자 함",
-    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -2497,8 +2713,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "탈성매매 여성들에게 직업전환 생계비용 지원으로 사회 전반의 지식 습득 기회 제공과 자립할 수 있는 여건 조성",
-    "categories": "청년, 청소년, 중장년, 노년, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 아동",
     "url": ""
   },
   {
@@ -2803,8 +3019,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민의 생활안정을 위해 전세 및 영구임대아파트 입주보증금을 지원하여 자활·자립을 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -4423,8 +4639,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가와 민족을 위해 희생하거나 공헌한 보훈단체, 보훈 회원 가족에 대한 복지지원과 보훈문화 조성",
-    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -5107,8 +5323,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의무적 장애재판정 대상자에게 진단비 및 검사비 지급기준을 완화하여  경제적 부담을 경감",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -5413,8 +5629,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애로 인해 이동에 불편을 겪고 있는 지역장애인들의 이동권 보장과\r\n사회참여 확대 등 장애인복지증진 도모",
-    "categories": "청년, 청소년, 아동, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 아동, 중장년, 노년",
+    "categories": "청년, 청소년, 아동, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -5431,8 +5647,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "휠체어 이용 장애인들의 가정생활, 학업 및 사회경제활동을 \n가능하게 하는 휠체어를 수리하여 장애인들의 활동을 지원",
-    "categories": "청소년, 청년, 중장년, 노년, 아동",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동",
+    "categories": "청소년, 중장년, 청년, 노년, 아동",
+    "life_cycle": "청소년, 중장년, 청년, 노년, 아동",
     "url": ""
   },
   {
@@ -5575,8 +5791,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "친지, 취직, 기타 목적으로 주거지가 아닌 타지방을 여행하던 중 숙식할 능력이 없는 자에게 지원",
-    "categories": "노년, 영유아, 아동, 청소년, 청년, 중장년",
-    "life_cycle": "노년, 영유아, 아동, 청소년, 청년, 중장년",
+    "categories": "노년, 영유아, 아동, 청소년, 중장년, 청년",
+    "life_cycle": "노년, 영유아, 아동, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -5593,8 +5809,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "다문화가족의 안정적인 정착과 가족생활을 지원하기 위함",
-    "categories": "청년, 중장년, 청소년, 아동, 영유아, 노년",
-    "life_cycle": "청년, 중장년, 청소년, 아동, 영유아, 노년",
+    "categories": "중장년, 청년, 청소년, 아동, 영유아, 노년",
+    "life_cycle": "중장년, 청년, 청소년, 아동, 영유아, 노년",
     "url": ""
   },
   {
@@ -5737,8 +5953,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "참전유공자 사망시 사망위로금 지원으로 참전유공자 및 유가족의의 명예선양 및  애국정신 함양",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -6403,8 +6619,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "갑작스런 위기상황이 발생하여 어려움에 처해있는 대상자에게 위기감을 해소하고자 지원",
-    "categories": "노년, 아동, 영유아, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 아동, 영유아, 청년, 중장년, 청소년",
+    "categories": "노년, 아동, 영유아, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 아동, 영유아, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -6583,8 +6799,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "이동에 제약이 있는 저소득 재가장애인을 대상으로 찾아가는 이동복지서비스를 제공하여 생활환경개선 및 일상생활 편의제공",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -7645,8 +7861,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "민주화를 위해 희생한 4·19혁명국가유공자와 그 유족에게 생활지원금을 지원하여 4·19혁명 정신을 기리고자 함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -7681,8 +7897,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가유공자 및 유족 예우",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -8167,8 +8383,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "사회적 약자인 행려자 등 보호",
-    "categories": "노년, 중장년, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 청소년, 청년",
+    "categories": "중장년, 노년, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -8239,8 +8455,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층 밀집 지역으로 결식우려자의 안정적 중식제공을 위한 무료급식소 운영 및  나운주공4차 거주장애인의 \n사회활동을 위한 쉼터 운영비 지원",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -8311,8 +8527,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "1종 의료급여수급권자의 건강한 생활유지 및 복지증진 도모",
-    "categories": "노년, 아동, 영유아, 청소년, 중장년, 청년",
-    "life_cycle": "노년, 아동, 영유아, 청소년, 중장년, 청년",
+    "categories": "노년, 아동, 영유아, 청소년, 청년, 중장년",
+    "life_cycle": "노년, 아동, 영유아, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -8365,8 +8581,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "이동보조기기(전동스쿠터,전동휠체어) 수리 서비스 지원으로 경제적 부담 경감",
-    "categories": "청년, 청소년, 아동, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 아동, 중장년, 노년",
+    "categories": "청년, 청소년, 아동, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -8635,8 +8851,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "가정폭력, 성폭력으로 인해 긴급 피난이 필요한 여성의 급식비, 피복비 지원",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -8653,8 +8869,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "부서별 지역 실정에 맞는 사업을 발굴, 추진하여 저소득 실업자에게\n  구직기간 동안 한시적으로 공공부문에 일자리를 제공하여 생계보조를\n  통한 사회 안전망 역할 및 근로 기회 부여",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -8941,8 +9157,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 중증장애인이 월세 부담에서 벗어나 전세주택에 입주할 수 있도록  최장 6년간 무상으로 전세보증금을 지원하여 주거환경 개선 및 지역사회 자립기반 마련에 도움을 주고자 함",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -11287,24 +11503,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005245",
-    "name": "장흥군 출산장려금 지원",
-    "summary": "출산·양육에 필요한 경제적 부담을 경감함으로써 출산장려 분위기를 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "출산·양육에 필요한 경제적 부담을 경감함으로써 출산장려 분위기를 조성",
-    "categories": "영유아, 임신 · 출산",
-    "life_cycle": "영유아, 임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005298",
     "name": "세종 청년 미래적금",
     "summary": "관내 근로 청년의 저축을 장려하고, 자산 형성 기회를 제공해 장기근속 유도 및 지역사회로의 안정적 정착 지원",
@@ -11319,6 +11517,24 @@
     "amount_summary": "관내 근로 청년의 저축을 장려하고, 자산 형성 기회를 제공해 장기근속 유도 및 지역사회로의 안정적 정착 지원",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005245",
+    "name": "장흥군 출산장려금 지원",
+    "summary": "출산·양육에 필요한 경제적 부담을 경감함으로써 출산장려 분위기를 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "출산·양육에 필요한 경제적 부담을 경감함으로써 출산장려 분위기를 조성",
+    "categories": "영유아, 임신 · 출산",
+    "life_cycle": "영유아, 임신 · 출산",
     "url": ""
   },
   {
@@ -11551,8 +11767,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "집결지 내 성매매 피해여성들에게 생계·주거·직업훈련비를 지원함으로써 성매매 여성의 사회복귀를 돕고자 함",
-    "categories": "중장년, 노년, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 청소년, 청년",
+    "categories": "노년, 중장년, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -11893,8 +12109,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "취약계층 대상포진 무료 예방접종으로 질병발생에 따른 사회적 경제적 비용절감 및 군민보건향상에 기여",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -12343,8 +12559,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "출산, 양육에 소요되는 경제적 부담을 경감하고 출산장려 분위기를 조성하기 위함",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -12595,8 +12811,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의료 복지혜택이 취약한 농어촌에 공중목욕장을 운영하여 노인건강증진 프로그램을 운영함으로써 노인들의 건강증진",
-    "categories": "영유아, 아동, 노년, 청소년, 청년, 중장년",
-    "life_cycle": "영유아, 아동, 노년, 청소년, 청년, 중장년",
+    "categories": "영유아, 아동, 노년, 청소년, 중장년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -12631,8 +12847,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인 이동권 보장",
-    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -12703,8 +12919,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생일을 맞은 소외되고 어려운 이웃에게 축하 떡을 전달하여 사랑과 관심을 기울이고 훈훈한 가족애 공유",
-    "categories": "청년, 청소년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 아동, 영유아, 중장년, 노년",
+    "categories": "청년, 청소년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -12775,8 +12991,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "(최)중증장애인들의 안전하고 행복한 일상생활 지원을 위한 장애인활동 지원시간 추가 확대사업을 보완 및 개선하여 장애인들의 삶의 질 향상과 복지사각지대 해소에 기여하고자 함.",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -12793,8 +13009,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인에게 차량운행, 기타 이동서비스 제공을 통한 일상생활의 편리제공 및 사회활동 기회 확대",
-    "categories": "청소년, 청년, 영유아, 아동, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 영유아, 아동, 노년, 중장년",
+    "categories": "청소년, 청년, 영유아, 아동, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 영유아, 아동, 중장년, 노년",
     "url": ""
   },
   {
@@ -12865,8 +13081,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의로운 행동으로 타인의 위해(危害)를 구하다가 신체상부상 등을 입은 사람과 그 유족 또는 가족에 대하여 그 희생과 피해의 정도 등에 알맞은 예우와 지원을 함으로써 의로운 구민의 숭고한 뜻을 기리고 사회정의를 실현하는데 이바지하는 것을 목적으로 한다.",
-    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -12991,8 +13207,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인가정의 출산을 장려하여 저출산 문제를 해소",
-    "categories": "영유아, 아동, 노년, 중장년, 청소년, 임신 · 출산, 청년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 임신 · 출산, 청년",
+    "categories": "영유아, 아동, 중장년, 노년, 청소년, 임신 · 출산, 청년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 임신 · 출산, 청년",
     "url": ""
   },
   {
@@ -13837,8 +14053,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "성폭력 가정폭력 예방교육으로 안전한 지역사회 조성",
-    "categories": "아동, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "아동, 중장년, 노년, 청년, 청소년",
+    "categories": "아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -14197,8 +14413,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "도시가스 시설이 어려운 주택에 경제성과 안전성에서 우수한 도시가스를 공급하기 위하여 공급관 시설비 일부를 지원",
-    "categories": "중장년, 청년, 노년",
-    "life_cycle": "중장년, 청년, 노년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -15007,8 +15223,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "추석 설 명절을 맞이하여 우리구 저소득 한부모가족을 격려함으로써 소외되기쉬운\n이들이 따뜻하고 훈훈한 명절을 보낼 수 있도록 하고자 함",
-    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -15277,8 +15493,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "무연고 사망자 장제처리 및 행려자 귀향여비 지원",
-    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -15367,8 +15583,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "무연고 사망자 시신처리 및 공영장례 지원",
-    "categories": "아동, 영유아, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "아동, 영유아, 노년, 중장년, 청년, 청소년",
+    "categories": "아동, 영유아, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "아동, 영유아, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -16735,8 +16951,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 보훈회원의 생계지원을 위한 일자리 창출 및 제공을 통하여 나라를 위해 헌신하신 분들의 보충적 소득을 지원함으로써 보훈가족에 대한 예우 및 복지향상에 기여코자 함.",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -17671,8 +17887,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노령,장애 등으로 인하여 생활에 어려움을 겪고 있는 저소득 주민에 대하여 국민건강보험료와 노인장기요양보험료를 지원함으로써 저소득주민의 사회복지 향상을 목적으로 함.",
-    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -17833,8 +18049,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민의 국민건강보험료를 지원하여 구민의 건강생활 증진 및 국민건강보험료 미납 사유로 인한 의료사각지대를 최소화하고자 함.",
-    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -17851,8 +18067,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "동구주민으로서 질병, 실직, 노령, 장애, 이혼 등으로 생활에 어려움을 겪고 있는 저소득층에 대하여 기본적인 생계유지를 위해 맞춤형으로 지원함.",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -18157,8 +18373,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "군포시민을 대상으로 체성분검사, 체력측정 검사 및 운동상담을 통하여 건강행태 변화를 통해 시민 건강증진",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -18337,8 +18553,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노숙인 임시주거 지원",
-    "categories": "노년, 청년, 중장년",
-    "life_cycle": "노년, 청년, 중장년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -18841,8 +19057,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생활이 어려운 기초생활수급자생계, 의료, 주거급여 수급자)에게 수도요금을 감면하여 최저생활을 보장하는 것을 목적으로 함.",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -19045,24 +19261,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005654",
-    "name": "어르신 버스이용요금 무료화",
-    "summary": "어르신에 대한 교통비 지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "어르신에 대한 교통비 지원",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005682",
     "name": "장수축하물품 지원",
     "summary": "100세가 된 장수노인의 복지증진을 위해 장수축하물품을 지원합니다.",
@@ -19075,6 +19273,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "100세가 된 장수노인의 복지증진을 위해 장수축하물품을 지원합니다.",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005654",
+    "name": "어르신 버스이용요금 무료화",
+    "summary": "어르신에 대한 교통비 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "어르신에 대한 교통비 지원",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -19597,8 +19813,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "대상포진 등의 감염병은 치료에 많은 비용이 소모되고, 치료 후에도 후유증 발생 가능성이 많은 질환으로, 접종 지원을 통해 정선군 성인의 예방 접종률을 향상시키고, 감염병 발생을 줄이고자 함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -19741,8 +19957,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국비 장애인활동지원사업을 시행하고 있으나 이용시간부족으로 불편을 겪고 있는 장애인을 대상으로 서비스 시간을 추가 지원함으로써 장애인의 자립 및 사회참여 기회를 확대하고자 함.",
-    "categories": "청소년, 중장년, 청년, 아동, 영유아",
-    "life_cycle": "청소년, 중장년, 청년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -20173,8 +20389,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "○ 65세 이하 재가 장애인의 규칙적인 식생활을 통한 건강유지 및 증진에 기여\n   ○ 소외된 장애인들에게 밑반찬을 배달하므로 써 사회구성원으로써 동질성 회복\n   ○ 더불어 함께하는 복지공동체 장애인행복 도시구현",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -20389,8 +20605,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 갑작스런 화재발생 가구에 대한 위문품을 지원함으로써  재활기반 마련\n- 의사상자에 대한 특별위로금 지원",
-    "categories": "청소년, 청년, 중장년, 영유아, 아동, 노년",
-    "life_cycle": "청소년, 청년, 중장년, 영유아, 아동, 노년",
+    "categories": "청소년, 중장년, 청년, 영유아, 아동, 노년",
+    "life_cycle": "청소년, 중장년, 청년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -20479,8 +20695,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "여성결혼이민자의 가계부담 경감",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -21577,8 +21793,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활수급자, 자활기업 등 신청에 따라 저금리의 융자금을 지원하여 자활사업 안정화에 기여.",
-    "categories": "중장년, 청년",
-    "life_cycle": "중장년, 청년",
+    "categories": "청년, 중장년",
+    "life_cycle": "청년, 중장년",
     "url": ""
   },
   {
@@ -21613,8 +21829,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "○ 국가와 민족을 위해 희생·공헌하신 분들의 숭고한 나라사랑 정신을 선양하고 \n    국가보훈대상자를 예우하는 기반 조성",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -22519,24 +22735,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004421",
-    "name": "결혼이민자 국적취득비 지원",
-    "summary": "국제결혼 증가에 따른 결혼이민자의 국적취득 경비 일부를 지원함으로써, 다문화가족의 안정적 한국사회 정착 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "국제결혼 증가에 따른 결혼이민자의 국적취득 경비 일부를 지원함으로써, 다문화가족의 안정적 한국사회 정착 도모",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002351",
     "name": "행려자 구호(덕진구)",
     "summary": "1) 행려자에게 귀향여비를 지급하여 거주지에 정착할 수 있게 함.\n2) 무연고 행려자에게 시설입소를 통한 안정적인 거주지 제공함.",
@@ -22551,6 +22749,24 @@
     "amount_summary": "1) 행려자에게 귀향여비를 지급하여 거주지에 정착할 수 있게 함.\n2) 무연고 행려자에게 시설입소를 통한 안정적인 거주지 제공함.",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004421",
+    "name": "결혼이민자 국적취득비 지원",
+    "summary": "국제결혼 증가에 따른 결혼이민자의 국적취득 경비 일부를 지원함으로써, 다문화가족의 안정적 한국사회 정착 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "국제결혼 증가에 따른 결혼이민자의 국적취득 경비 일부를 지원함으로써, 다문화가족의 안정적 한국사회 정착 도모",
+    "categories": "청년, 중장년",
+    "life_cycle": "청년, 중장년",
     "url": ""
   },
   {
@@ -22603,8 +22819,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인들의 운전면허 취득비용을 지원하여 장애인들의 자립생활 및 사회참여 기회 확대",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -22693,8 +22909,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈대상자에게 명절을 기해 위문품을 전달함으로써 위문 실시",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -22801,8 +23017,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 보장에서 중지되는 세대에 대하여 자립정착금 지원으로 생활안정 및 자립기반 마련",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -22819,8 +23035,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모가족의 겨울맞이 경제적 부담을 덜어주기 위하여 월동준비금 지원",
-    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -22837,8 +23053,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 세대주의 취,창업 지원을 통하여 자활 기회마련",
-    "categories": "중장년, 노년, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 청년, 청소년",
+    "categories": "노년, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -22855,8 +23071,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보호시설 퇴소 후 자립이 어려운 대상자에게 자립정착금 지원으로 자립기반 마련",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -22891,8 +23107,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "차상위계층(한부모 등) 중 건강보험료가 보건복지부가 정한 최저보험료 (2025년 최저보험료: 22,340원/ 매년 변경됨 )이하인 세대에  건강보험료를 지원하여 건강한 생활유지와 복지향상을 도모함을 목적으로  함.",
-    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -23077,24 +23293,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005683",
-    "name": "노인 목욕비 및 이미용비(효도카드) 지원",
-    "summary": "노인의 보건복지 및 건강증진",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "노인의 보건복지 및 건강증진",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005681",
     "name": "평창군 출산산후조리비 지원",
     "summary": "인구 고령화와 인구 감소라는 이중적 위기감 속에서 출산장려 정책을 통해  안정적인 양육 환경을 조성하고 가정의 경제적 부담 완화하고자 함.",
@@ -23109,6 +23307,24 @@
     "amount_summary": "인구 고령화와 인구 감소라는 이중적 위기감 속에서 출산장려 정책을 통해  안정적인 양육 환경을 조성하고 가정의 경제적 부담 완화하고자 함.",
     "categories": "청년, 임신 · 출산",
     "life_cycle": "청년, 임신 · 출산",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005683",
+    "name": "노인 목욕비 및 이미용비(효도카드) 지원",
+    "summary": "노인의 보건복지 및 건강증진",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "노인의 보건복지 및 건강증진",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -23971,8 +24187,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "1) 행려자에게 귀향여비를 지급하여 거주지에 정착할 수 있게 함. \n2) 무연고 행려자에게 시설입소를 통한 안정적인 거주지 제공함.",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -25303,8 +25519,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려자 및 노숙자 귀가여비 및 사망장제비 지원으로 건전한 사회복귀와 복지증진에 이바지",
-    "categories": "중장년, 청년, 청소년, 아동, 영유아, 노년",
-    "life_cycle": "중장년, 청년, 청소년, 아동, 영유아, 노년",
+    "categories": "청년, 중장년, 청소년, 아동, 영유아, 노년",
+    "life_cycle": "청년, 중장년, 청소년, 아동, 영유아, 노년",
     "url": ""
   },
   {
@@ -25483,8 +25699,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "군민의 애국,애족정신 함양에 이바지하며 보훈복지 시책으로 적극적인 추진을 통하여 예우시책 확산에 기여",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -25555,8 +25771,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "민족 고유의 명절을 맞이하여 외롭게 살아가는 어려운 이웃과 사회복지시설 입소자 등 소외계층을 위문 · 격려하여 훈훈하고 인정이  넘치는 명절 분위기를 조성하고자 함.",
-    "categories": "청소년, 중장년, 청년, 노년, 영유아, 아동",
-    "life_cycle": "청소년, 중장년, 청년, 노년, 영유아, 아동",
+    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -25681,8 +25897,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려인등의 인간다운 생활을 할 권리를 보호하고 귀향에 따른 여비를 보전하여 건전한 사회복귀와 복지증진에 이바지하고자 함.",
-    "categories": "노년, 아동, 영유아, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 아동, 영유아, 청년, 중장년, 청소년",
+    "categories": "노년, 아동, 영유아, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 아동, 영유아, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -26113,8 +26329,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "영세 소상공인에 대해 자영업자 고용보험료의 20%를 최대 5년간 지원함으로써 고용보험 사회안전망 편입 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -26671,8 +26887,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "무연고국민기초생활보장수급자장례비지원",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -26689,8 +26905,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행여자임시보호비지원",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -26707,8 +26923,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생활수급자에게(생계.의료) 쓰레기봉투를 무상지원하여 쾌적한 주거환경 유지",
-    "categories": "청소년, 청년, 영유아, 아동, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 영유아, 아동, 중장년, 노년",
+    "categories": "청소년, 청년, 영유아, 아동, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 영유아, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -26725,8 +26941,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초수급자(생계.의료)에게 명절 위문금 지원으로 생활안정 지원",
-    "categories": "영유아, 아동, 노년, 중장년, 청소년, 청년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청소년, 청년",
+    "categories": "영유아, 아동, 중장년, 노년, 청소년, 청년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -26929,24 +27145,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005914",
-    "name": "노인활동보조기 지원사업",
-    "summary": "노인활동보조기 지원으로 저소득 거동불편노인 일상생활 활동지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "노인활동보조기 지원으로 저소득 거동불편노인 일상생활 활동지원",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005913",
     "name": "효행장려금 지급",
     "summary": "아름다운 전통문화 유산인 효를 장려하고 지원하기 위해 효행장려금 지원을 통해 지역사회에 효문화 확산에 기여",
@@ -26959,6 +27157,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "아름다운 전통문화 유산인 효를 장려하고 지원하기 위해 효행장려금 지원을 통해 지역사회에 효문화 확산에 기여",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005914",
+    "name": "노인활동보조기 지원사업",
+    "summary": "노인활동보조기 지원으로 저소득 거동불편노인 일상생활 활동지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "노인활동보조기 지원으로 저소득 거동불편노인 일상생활 활동지원",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -27679,8 +27895,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인활동지원 구비추가지원을 통하여 기존 장애인활동지원 제도에 대한 보충적 역할의 강화와 24시간 돌봄체계 토대 구축 및 확대하여 장애인의 자립생활 및 사회참여 기회의 증진과 장애인가족의 부담을 경감하고자 함",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -27859,8 +28075,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 날을 맞아 장애인들을 위로하고 함께하는 화합의 장을 마련하여  더불어 살아가는 사회분위기 조성",
-    "categories": "영유아, 아동, 노년, 청소년, 청년, 중장년",
-    "life_cycle": "영유아, 아동, 노년, 청소년, 청년, 중장년",
+    "categories": "영유아, 아동, 노년, 청소년, 중장년, 청년",
+    "life_cycle": "영유아, 아동, 노년, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -27877,8 +28093,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "-취업기회가 적은 장애인에게 직장생활을 할 수 있는 기회를   확대·제공하고, 사업체의 장애인 고용 기피 현상을 \n 해소하기 위해 50인미만 영세업체에 고용장려금 지원 \n- 장애인에게 안정적인 일자리 보장으로 자립기반 마련 및 비장애인과 함께 일하는 사업환경 조성",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -28129,8 +28345,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "주거지가 아닌 타지방을 여행하던중  숙식할 능력이 없는 위기에 처한 행려자 구호",
-    "categories": "노년, 청소년, 중장년, 청년",
-    "life_cycle": "노년, 청소년, 중장년, 청년",
+    "categories": "노년, 청소년, 청년, 중장년",
+    "life_cycle": "노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -29155,8 +29371,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "교통약자인 장애인의 이동권 보장 및 사회참여 기회 확대",
-    "categories": "청년, 청소년, 노년, 중장년",
-    "life_cycle": "청년, 청소년, 노년, 중장년",
+    "categories": "청년, 청소년, 중장년, 노년",
+    "life_cycle": "청년, 청소년, 중장년, 노년",
     "url": ""
   },
   {
@@ -29191,8 +29407,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인거주시설 퇴소장애인의 지역사회 안정적 정착",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -29407,8 +29623,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위해 희생하거나 공헌한 국가유공자에게 위문금을 지급하여 보훈대상자의 사기를 진작시키고자 함",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -30001,8 +30217,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "합병증(심뇌혈관질환, 신장질환, 백내장 등) 발생 빈도가 높은 고혈압, 당뇨병 환자에게 사전 합병증 검사를 실시하여 심뇌혈관 질환으로 인한 의료비와 사회경제적 부담 및 중증질환 발생과 사망률을 낮추고자 함",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -30397,8 +30613,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애극복 및 사회적응을위한 재활교육비 지원",
-    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -31477,8 +31693,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가에 공헌하고 헌신한 참전유공자에게 명예수당을 지원하여 참전유공자 명예 선양 및 나라사랑 정신 함양",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -31783,8 +31999,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "명절 및 보훈기념일 등을 맞이하여 국가보훈대상자를 위문 격려",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -32203,24 +32419,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004926",
-    "name": "참전유공자 명예수당 지원",
-    "summary": "참전유공자예우 및 단체설립에 관한법률 제4조 같은법 시행령 제4조의 규정에 의하여 참전유공자가 국가에 헌신 공헌한테 대하여 예우와 지원을 함으로써 참전유공자의 명예를 기리고 군민의 애국정신 함양에 이바지함을 목적으로 한다.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "참전유공자예우 및 단체설립에 관한법률 제4조 같은법 시행령 제4조의 규정에 의하여 참전유공자가 국가에 헌신 공헌한테 대하여 예우와 지원을 함으로써 참전유공자의 명예를 기리고 군민의 애국정신 함양에 이바지함을 목적으로 한다.",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004914",
     "name": "노숙인 등 보호 및 지원",
     "summary": "노숙인등의 복지 및 자립지원",
@@ -32233,6 +32431,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노숙인등의 복지 및 자립지원",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004926",
+    "name": "참전유공자 명예수당 지원",
+    "summary": "참전유공자예우 및 단체설립에 관한법률 제4조 같은법 시행령 제4조의 규정에 의하여 참전유공자가 국가에 헌신 공헌한테 대하여 예우와 지원을 함으로써 참전유공자의 명예를 기리고 군민의 애국정신 함양에 이바지함을 목적으로 한다.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "참전유공자예우 및 단체설립에 관한법률 제4조 같은법 시행령 제4조의 규정에 의하여 참전유공자가 국가에 헌신 공헌한테 대하여 예우와 지원을 함으로써 참전유공자의 명예를 기리고 군민의 애국정신 함양에 이바지함을 목적으로 한다.",
     "categories": "",
     "life_cycle": "",
     "url": ""
@@ -32467,8 +32683,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가와 민족을 위해 헌신한 국가유공자의 명예를 선양하고 호국정신을 기리기 위하여 \n국가유공자 보훈명예수당 및 사망위로금 지원 사업 추진",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -32593,8 +32809,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "일상생활 및 사회활동이 어려운 장애인에게 활동보조서비스를 제공하여 장애인의 자립생활과 사회참여 증진",
-    "categories": "아동, 중장년, 청년, 청소년",
-    "life_cycle": "아동, 중장년, 청년, 청소년",
+    "categories": "중장년, 아동, 청년, 청소년",
+    "life_cycle": "중장년, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -32629,8 +32845,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인 가정의 출산비용 지원을 통한 경제적 부담을 경감하고 출산 친화적인 문화 조성을 통한 삶의 질 개선",
-    "categories": "노년, 중장년, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 청소년, 청년",
+    "categories": "중장년, 노년, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -32647,8 +32863,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "소외계층인 저소득장애인을 대상으로 보장구 수리에 따른 경제적 부담 완화",
-    "categories": "청소년, 청년, 아동, 영유아, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 아동, 영유아, 노년, 중장년",
+    "categories": "청소년, 청년, 아동, 영유아, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 아동, 영유아, 중장년, 노년",
     "url": ""
   },
   {
@@ -32755,8 +32971,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인복지관에서 운영하는 재가장애인에 대한 식사배달사업비를 지원함으로써 장애인의 건강증진도모",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -32935,8 +33151,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 생활안정에 기여함",
-    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -33421,8 +33637,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "곡성군에 거주하는 장애인이 이동을 위하여 사용하는 휠체어 등을 편리하고 안전하게 이용할 수 있도록 수리비용을 지원함으로써 장애인의 이동권을 보장하고 사회활동 증진에 기여",
-    "categories": "아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "아동, 노년, 중장년, 청년, 청소년",
+    "categories": "아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -34393,8 +34609,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "나라를 위해 희생 공헌하신 국가보훈대상자 예우 및 지원",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -34501,8 +34717,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층 대상으로 건강·장기요양보험료를 지원하여 경제적 부담경감 및 건강증진 도모",
-    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -34537,8 +34753,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가을 위해 헌신.공헌한 국가유공자의 명예를 선양하고 예우하기 위함",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -34609,8 +34825,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "복지 사각지대에 있는 저소득 독고 장애인 가구에게 맞춤형 무료 밑반찬 제공사업을 추진하여\r\n장애인의 복지증진에 기여",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -37027,24 +37243,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005620",
-    "name": "경로당 급식도우미 활동비 추가 지원",
-    "summary": "노인일자리 '경로당 급식도우미' 참여자의 활동비를 추가지원하여 참여 어르신 들에게 강도 높은 업무에 대하여 적절한 보상을 하고, 경로당 급식을 안정적으로 지원하고자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "노인일자리 '경로당 급식도우미' 참여자의 활동비를 추가지원하여 참여 어르신 들에게 강도 높은 업무에 대하여 적절한 보상을 하고, 경로당 급식을 안정적으로 지원하고자 함.",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005604",
     "name": "초등학교 입학지원금 지원사업",
     "summary": "관내 거주 초등학생에 대한 입학지원금 지원으로 학부모의 교육비 부담을 경감하고, 보편적 교육복지 확대로 인한 교육의 공공성 강화를 통해 따뜻한 교육도시 영도를 실현",
@@ -37059,6 +37257,24 @@
     "amount_summary": "관내 거주 초등학생에 대한 입학지원금 지원으로 학부모의 교육비 부담을 경감하고, 보편적 교육복지 확대로 인한 교육의 공공성 강화를 통해 따뜻한 교육도시 영도를 실현",
     "categories": "청소년, 아동",
     "life_cycle": "청소년, 아동",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005620",
+    "name": "경로당 급식도우미 활동비 추가 지원",
+    "summary": "노인일자리 '경로당 급식도우미' 참여자의 활동비를 추가지원하여 참여 어르신 들에게 강도 높은 업무에 대하여 적절한 보상을 하고, 경로당 급식을 안정적으로 지원하고자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "노인일자리 '경로당 급식도우미' 참여자의 활동비를 추가지원하여 참여 어르신 들에게 강도 높은 업무에 대하여 적절한 보상을 하고, 경로당 급식을 안정적으로 지원하고자 함.",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -37279,24 +37495,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005405",
-    "name": "청소년 자립두배통장",
-    "summary": "가정 밖 청소년들이 안정적으로 미래를 준비하고 자립 정착할 수 있도록 최소한의 자산 형성에 기여",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "가정 밖 청소년들이 안정적으로 미래를 준비하고 자립 정착할 수 있도록 최소한의 자산 형성에 기여",
-    "categories": "청소년, 청년",
-    "life_cycle": "청소년, 청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005404",
     "name": "장애아동수당 미수급자 지원",
     "summary": "장애 아동을 둔 가정은 비 장애아동 가정에 비해 장애에 따른 교육‧의료비에 대한 추가 지출이 있어, 이에 따른 경제적 부담이 높음\n양육의 어려움이 큰 장애아동 가구의 경제적 부담 경감",
@@ -37311,6 +37509,24 @@
     "amount_summary": "장애 아동을 둔 가정은 비 장애아동 가정에 비해 장애에 따른 교육‧의료비에 대한 추가 지출이 있어, 이에 따른 경제적 부담이 높음\n양육의 어려움이 큰 장애아동 가구의 경제적 부담 경감",
     "categories": "영유아, 아동, 청소년",
     "life_cycle": "영유아, 아동, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005405",
+    "name": "청소년 자립두배통장",
+    "summary": "가정 밖 청소년들이 안정적으로 미래를 준비하고 자립 정착할 수 있도록 최소한의 자산 형성에 기여",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "가정 밖 청소년들이 안정적으로 미래를 준비하고 자립 정착할 수 있도록 최소한의 자산 형성에 기여",
+    "categories": "청소년, 청년",
+    "life_cycle": "청소년, 청년",
     "url": ""
   },
   {
@@ -38287,24 +38503,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005028",
-    "name": "안심장비 지원사업",
-    "summary": "주거 안전 취약계층에게 안심장비를 지원함으로써 안전한 주거환경 조성하고 물리적․심리적 불안감 해소합니다.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "주거 안전 취약계층에게 안심장비를 지원함으로써 안전한 주거환경 조성하고 물리적․심리적 불안감 해소합니다.",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004963",
     "name": "대학생 생활안정비 지원사업",
     "summary": "김제시 청년의 삶의 수준 향상과 주거비, 생계비 부담 완화를 위함",
@@ -38319,6 +38517,24 @@
     "amount_summary": "김제시 청년의 삶의 수준 향상과 주거비, 생계비 부담 완화를 위함",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005028",
+    "name": "안심장비 지원사업",
+    "summary": "주거 안전 취약계층에게 안심장비를 지원함으로써 안전한 주거환경 조성하고 물리적․심리적 불안감 해소합니다.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "주거 안전 취약계층에게 안심장비를 지원함으로써 안전한 주거환경 조성하고 물리적․심리적 불안감 해소합니다.",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -39937,8 +40153,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 사회참여 증진 등을 위하여 국비지원 부족시간을 시비 추가 지원",
-    "categories": "청년, 청소년, 중장년, 노년, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 아동",
     "url": ""
   },
   {
@@ -40189,8 +40405,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구직 장애인과 구인 기업과의 만남의 장을 통하여 장애인의 다양한 직업 선택 기회 제공으로 자립의지 제고 및 장애인식개선 도모",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -40477,8 +40693,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "심뇌혈관질환 고위험군인 고혈압·당뇨병 환자의 지속치료율과 자가관리능력향상으로 심근경색증 및 뇌졸중의 발생, 사망, 장애를 감소시켜 시민들의 건강수명을 연장하기 위함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -40735,24 +40951,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004515",
-    "name": "임산부 280  건강관리비지원사업",
-    "summary": "저출산 고령화시대에 적극적으로 대응하기 위하여 임신에서 출산까지 소요되는 건강관리비용 지원을 통해 경제적 부담 경감 및 산모와 아기가 건강하고 행복한 가족친화도시 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저출산 고령화시대에 적극적으로 대응하기 위하여 임신에서 출산까지 소요되는 건강관리비용 지원을 통해 경제적 부담 경감 및 산모와 아기가 건강하고 행복한 가족친화도시 조성",
-    "categories": "청년, 임신 · 출산",
-    "life_cycle": "청년, 임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002693",
     "name": "A형 간염 밀접접촉자 예방접종 지원사업",
     "summary": "A형간염발생시 밀접접촉자에 대한 예방접종지원으로 감염병 확산 사전 예방",
@@ -40767,6 +40965,24 @@
     "amount_summary": "A형간염발생시 밀접접촉자에 대한 예방접종지원으로 감염병 확산 사전 예방",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004515",
+    "name": "임산부 280  건강관리비지원사업",
+    "summary": "저출산 고령화시대에 적극적으로 대응하기 위하여 임신에서 출산까지 소요되는 건강관리비용 지원을 통해 경제적 부담 경감 및 산모와 아기가 건강하고 행복한 가족친화도시 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저출산 고령화시대에 적극적으로 대응하기 위하여 임신에서 출산까지 소요되는 건강관리비용 지원을 통해 경제적 부담 경감 및 산모와 아기가 건강하고 행복한 가족친화도시 조성",
+    "categories": "청년, 임신 · 출산",
+    "life_cycle": "청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -41413,8 +41629,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위해 헌신한 국가유공자 유족 및 미망인에 대한 명예를 기리고 그에 상응하는 예우를 다하고자  시행",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -41701,8 +41917,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위해 희생한 사람의 숭고한 정신을 선양하고 그들의 영예로운 삶과 복지향상 도모",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "중장년, 청년, 노년",
+    "life_cycle": "중장년, 청년, 노년",
     "url": ""
   },
   {
@@ -42421,8 +42637,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "1. 행려사망자 장제비 지원 (무연고 사망자 및 저소득층 공영장례 지원): 관내 무연고자 및 저소득층 사망자의 존엄한 장례 절차 지원 및 공공복지 증진\n\n2. 행려자 귀향구호 사업: 여비가 없는 관내 행려자·노숙인의 안전한 연고지 귀향을 위한 최소 교통편 제공",
-    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -42475,8 +42691,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가보훈대상자의 명예선양",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -42817,8 +43033,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애로 인하여 식생활이 어려운 거동불편장애인에게 밑반찬을 지원으로 \n영양 및 건강관리를 돕고, 지역사회서비스 연계로 더불어 함께하는 공동체사회형성",
-    "categories": "청년, 청소년, 노년, 중장년",
-    "life_cycle": "청년, 청소년, 노년, 중장년",
+    "categories": "청년, 청소년, 중장년, 노년",
+    "life_cycle": "청년, 청소년, 중장년, 노년",
     "url": ""
   },
   {
@@ -43087,8 +43303,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "취약 계층의 생활 불편 사항을 처리함으로써 주민 삶의 질 향상을 도모하기 위한 사업입니다.",
-    "categories": "아동, 영유아, 노년, 청소년, 중장년, 청년",
-    "life_cycle": "아동, 영유아, 노년, 청소년, 중장년, 청년",
+    "categories": "아동, 영유아, 노년, 청소년, 청년, 중장년",
+    "life_cycle": "아동, 영유아, 노년, 청소년, 청년, 중장년",
     "url": ""
   },
   {
@@ -43735,8 +43951,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "공공근로사업(보조)",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "노년, 청년, 중장년",
+    "life_cycle": "노년, 청년, 중장년",
     "url": ""
   },
   {
@@ -43897,8 +44113,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "* 재해이재민 발생 시 이재민의 생활 안정을 위한 긴급구호물품 구입 지원",
-    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -44203,8 +44419,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 한부모 가족에게 복지서비스를 지원하여 생활안정 도모",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -44761,8 +44977,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "건강보험료 최저보험료 이하의 금액을 납부하는 세대중 노인,장애인,한부모 세대 건강보험료 지원으로 지속적인 의료보험헤택을 받을수 있도록 지원",
-    "categories": "아동, 영유아, 노년, 청년, 중장년, 청소년",
-    "life_cycle": "아동, 영유아, 노년, 청년, 중장년, 청소년",
+    "categories": "아동, 영유아, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -44797,8 +45013,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "무연고 사망자 공영장례 지원\n- 지원종류: 안치료, 운구비, 장례용품, 빈소마련 등\n- 지원금액: 일반인 1구당 200만원\n- 지원방식: 관내 장례식장을 통한 공영장례 지원",
-    "categories": "청소년, 중장년, 청년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 중장년, 청년, 노년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -44851,8 +45067,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위하여 희생하거나 공헌한 국가유공자, 그 유족 또는 가족을 합당하게 예우(禮遇)하고 지원함으로써 이들의 생활안정과 복지향상을 도모하고 국민의 애국정신을 기르는 데에 이바지함을 목적으로 한다",
-    "categories": "청년, 청소년, 아동, 영유아, 노년, 중장년",
-    "life_cycle": "청년, 청소년, 아동, 영유아, 노년, 중장년",
+    "categories": "청년, 청소년, 아동, 영유아, 중장년, 노년",
+    "life_cycle": "청년, 청소년, 아동, 영유아, 중장년, 노년",
     "url": ""
   },
   {
@@ -44941,8 +45157,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 부부장애인의 생활안정을 도모하기 위함.",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -44959,8 +45175,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인 특별운송사업으로 장애인 이동권 보장",
-    "categories": "영유아, 아동, 노년, 청년, 중장년, 청소년",
-    "life_cycle": "영유아, 아동, 노년, 청년, 중장년, 청소년",
+    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -45085,8 +45301,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "소규모 여성모임 지원을 통해 삶의 질을 향상하고 전문적이고 체계적인 교육으로 자기역량강화 및 자아성취감을 고취시켜 여성사회참여 기회 확대",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -45139,8 +45355,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "부랑인(행려자) 구호",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -45265,8 +45481,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "일정한 주거나 생업 수단없이 거리에서 배회하거나 생활하는 부랑인 귀가조치, 숙박비지급\n무연고 환자에 대한 치료비 지원",
-    "categories": "청소년, 중장년, 청년, 영유아, 아동, 노년",
-    "life_cycle": "청소년, 중장년, 청년, 영유아, 아동, 노년",
+    "categories": "청소년, 청년, 중장년, 영유아, 아동, 노년",
+    "life_cycle": "청소년, 청년, 중장년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -45283,8 +45499,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "복지급여 신청가구의 방문상담시 원활한 조사수행",
-    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -45301,8 +45517,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "목포복지재단 운영 보조금 지원하여 복지사업의 활성화 및 복지사각지대 해소를 위한 근간 마련",
-    "categories": "노년, 중장년, 아동",
-    "life_cycle": "노년, 중장년, 아동",
+    "categories": "중장년, 노년, 아동",
+    "life_cycle": "중장년, 노년, 아동",
     "url": ""
   },
   {
@@ -45373,8 +45589,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈대상자 위문을 통한 국가유공자 명예선양",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -45481,8 +45697,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인가정의 출산 시 산모 및 신생아의 건강관리와 생활안정에 도움을 주기 위함",
-    "categories": "노년, 중장년, 임신 · 출산, 청년",
-    "life_cycle": "노년, 중장년, 임신 · 출산, 청년",
+    "categories": "중장년, 노년, 임신 · 출산, 청년",
+    "life_cycle": "중장년, 노년, 임신 · 출산, 청년",
     "url": ""
   },
   {
@@ -45877,8 +46093,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "신체적 불편과 장애인에 대한 편견으로 대중목욕탕 이용에 어려움을   겪고 있는 장애인을 위한 전용목욕탕 운영",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -45967,8 +46183,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "수요자 중심의 신속한 이재민 구호 활동 전개",
-    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -46039,8 +46255,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생업수단없이 거리에서 배회하거나, 숙식할 능력이 없는 자에게 일시보호와 병원진료 지원 등 복지서비스 연계 등을 제공하여 거리노숙인 발생 예방 및 관리 강화",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -46435,8 +46651,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 부부 장애인의 생활 안정을 도모하기 위함.",
-    "categories": "노년, 중장년, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 청소년, 청년",
+    "categories": "중장년, 노년, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -46615,8 +46831,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장묘문화 개선을 통한 국토의 효율적 이용에 기여",
-    "categories": "청년, 청소년, 아동, 영유아, 중장년, 노년",
-    "life_cycle": "청년, 청소년, 아동, 영유아, 중장년, 노년",
+    "categories": "청년, 청소년, 아동, 영유아, 노년, 중장년",
+    "life_cycle": "청년, 청소년, 아동, 영유아, 노년, 중장년",
     "url": ""
   },
   {
@@ -48169,24 +48385,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005142",
-    "name": "대상포진 예방접종지원",
-    "summary": "60세이상 진안 군민에게 대상포진 1회 무료 예방접종을 실시함으로써, 진안군민의 건강증진 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "60세이상 진안 군민에게 대상포진 1회 무료 예방접종을 실시함으로써, 진안군민의 건강증진 도모",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005136",
     "name": "초·중·고등학교 입학축하금 지원사업",
     "summary": "보편적⸱실질적 지원을 통한 학부모 교육경비 부담 경감 및 체감형  교육 복지 실현",
@@ -48201,6 +48399,24 @@
     "amount_summary": "보편적⸱실질적 지원을 통한 학부모 교육경비 부담 경감 및 체감형  교육 복지 실현",
     "categories": "아동, 청소년",
     "life_cycle": "아동, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005142",
+    "name": "대상포진 예방접종지원",
+    "summary": "60세이상 진안 군민에게 대상포진 1회 무료 예방접종을 실시함으로써, 진안군민의 건강증진 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "60세이상 진안 군민에게 대상포진 1회 무료 예방접종을 실시함으로써, 진안군민의 건강증진 도모",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -49207,8 +49423,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "행려자 귀향여비 제공",
-    "categories": "청소년, 청년, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 중장년, 노년",
+    "categories": "청소년, 청년, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -49387,8 +49603,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "결혼이민자의 국적취득 수수료를 지원하여 결혼이민자의 부담을 경감하고, 국적 취득률 향상을 도모.",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -50161,8 +50377,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "시설퇴소 장애인의 자립생활을 위한 초기정착금 지원",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -50827,8 +51043,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "기초생계, 의료급여 수급자의 영구임대아파트 입주보증금을 지원함으로써 저소득주민의 주거 안정을 도모함",
-    "categories": "청년, 노년, 중장년",
-    "life_cycle": "청년, 노년, 중장년",
+    "categories": "청년, 중장년, 노년",
+    "life_cycle": "청년, 중장년, 노년",
     "url": ""
   },
   {
@@ -51151,8 +51367,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "보훈대상자 적전지 순례 및 행사 참석자 보상금",
-    "categories": "청년, 중장년, 청소년, 영유아, 아동, 노년",
-    "life_cycle": "청년, 중장년, 청소년, 영유아, 아동, 노년",
+    "categories": "중장년, 청년, 청소년, 영유아, 아동, 노년",
+    "life_cycle": "중장년, 청년, 청소년, 영유아, 아동, 노년",
     "url": ""
   },
   {
@@ -51583,8 +51799,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "노숙인(행려자) 귀향여비 , 숙박비, 의료비 지원",
-    "categories": "노년, 영유아, 아동, 청소년, 청년, 중장년",
-    "life_cycle": "노년, 영유아, 아동, 청소년, 청년, 중장년",
+    "categories": "노년, 영유아, 아동, 청소년, 중장년, 청년",
+    "life_cycle": "노년, 영유아, 아동, 청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -51619,8 +51835,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "한부모가족 명절자립격려금 및 하계휴가비 지원을 통해 한부모가족의 사회적 소속감 및 가족친화력 제고",
-    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -51979,8 +52195,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "신체적 정신적 이유로 원활한 일상생활과 사회활동이 어려운 중증장애인에게 활동지원서비스를 제공함으로써 장애인의 자립생활과 사회참여를 증진시키고, 장애인 가족의 부담을 줄임으로써 장애인의 삶의 질을 높이고자 함",
-    "categories": "청소년, 청년, 아동, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 아동, 중장년, 노년",
+    "categories": "청소년, 청년, 아동, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 아동, 노년, 중장년",
     "url": ""
   },
   {
@@ -52033,8 +52249,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "사회복지 수혜 사각지역에 있는 행려자의 기본적인 삶의 질 향상을 목적으로 함",
-    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -52489,24 +52705,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005926",
-    "name": "햇살하우징 사업",
-    "summary": "에너지효율화 주택개조를 통한 저소득층의 난방비 및 전기료 등 주거비 절감 및 주거환경 개선",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "에너지효율화 주택개조를 통한 저소득층의 난방비 및 전기료 등 주거비 절감 및 주거환경 개선",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005929",
     "name": "전세사기피해자 주거안정 지원",
     "summary": "전세보증금 미반환, 경공매, 사기 기망행위로 인한 부당한 계약 등의 전세피해 및 「전세사기피해자 지원 및 주거안정에 관한 특별법」에 따라 피해 주택 임차인의 피해 회복을 지원",
@@ -52521,6 +52719,24 @@
     "amount_summary": "전세보증금 미반환, 경공매, 사기 기망행위로 인한 부당한 계약 등의 전세피해 및 「전세사기피해자 지원 및 주거안정에 관한 특별법」에 따라 피해 주택 임차인의 피해 회복을 지원",
     "categories": "노년, 청년, 중장년",
     "life_cycle": "노년, 청년, 중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005926",
+    "name": "햇살하우징 사업",
+    "summary": "에너지효율화 주택개조를 통한 저소득층의 난방비 및 전기료 등 주거비 절감 및 주거환경 개선",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "에너지효율화 주택개조를 통한 저소득층의 난방비 및 전기료 등 주거비 절감 및 주거환경 개선",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -52939,24 +53155,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004885",
-    "name": "한의약 치매예방사업",
-    "summary": "치매에 대한 사전예방적, 한의약적 접근과 적기 치료 개입을 통해 치매위험요인이 높은 경도인지장애 어르신들의 중증 치매로의 이환 예방",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "치매에 대한 사전예방적, 한의약적 접근과 적기 치료 개입을 통해 치매위험요인이 높은 경도인지장애 어르신들의 중증 치매로의 이환 예방",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004972",
     "name": "추석절 경로당 위문",
     "summary": "경로당 운영 활성화 및 노인복지 증진에 기여하고자 하는 사업으로 전통 명절인 추석에 경로당 별 위문품을 지급하여 경로의식 고취 및 감사의 마음을 전하는 명절 분위기를 조성하고자 함.",
@@ -52969,6 +53167,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "경로당 운영 활성화 및 노인복지 증진에 기여하고자 하는 사업으로 전통 명절인 추석에 경로당 별 위문품을 지급하여 경로의식 고취 및 감사의 마음을 전하는 명절 분위기를 조성하고자 함.",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004885",
+    "name": "한의약 치매예방사업",
+    "summary": "치매에 대한 사전예방적, 한의약적 접근과 적기 치료 개입을 통해 치매위험요인이 높은 경도인지장애 어르신들의 중증 치매로의 이환 예방",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "치매에 대한 사전예방적, 한의약적 접근과 적기 치료 개입을 통해 치매위험요인이 높은 경도인지장애 어르신들의 중증 치매로의 이환 예방",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -53959,8 +54175,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인이동권보장",
-    "categories": "노년, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 청년, 중장년, 청소년",
+    "categories": "노년, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -54319,8 +54535,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "거리노숙인을 대상으로 필요 복지서비스(잠자리, 의료 등)를 제공함으로써 각종 사고예방과 최소한의 인간다운 삶을 제공하는데 중심적 역할을 수행하고자 함",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -54643,8 +54859,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "가사활동을 하기 어려운 장애인 및 독거노인의 빨래 등을 지원하여 가사에 대한 심리적 부담 경감 및 청결한 생활 유지",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -55273,8 +55489,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "독립유공자의 얼을 기리기 위해 순국선열 유족과 애국지사(유족) 위문",
-    "categories": "청소년, 청년, 중장년, 노년",
-    "life_cycle": "청소년, 청년, 중장년, 노년",
+    "categories": "청소년, 청년, 노년, 중장년",
+    "life_cycle": "청소년, 청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -56245,8 +56461,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "각종 재해시 신속한 응급 물자 제공",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -58297,8 +58513,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "목돈마련이 어려운 주거급여수급자의 월세보증금을 지원하여 주거 취약계층의 실질적 주거비 부담을 완화하고자 함",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "청년, 노년, 중장년",
+    "life_cycle": "청년, 노년, 중장년",
     "url": ""
   },
   {
@@ -59251,8 +59467,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층 가정에 설, 추석 명절 상품권 지원하여 소외없는 명절 분위기 조성 / 1세대 2만원",
-    "categories": "영유아, 아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "영유아, 아동, 노년, 중장년, 청년, 청소년",
+    "categories": "영유아, 아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "영유아, 아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -59359,8 +59575,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "등록 장애인의 휠체어 수리 비용을 지원하여 지속적이고 안정적으로 휠체어를 사용할 수 있는 환경을 조성함으로써 장애인의 기본적인 이동권과 사회활동 참여 증진.",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -60637,8 +60853,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구강질환으로 치아가 결손되어 음식물 섭취가 자유롭지 못한 저소득 취약계층을 대상으로 의치보철을 지원하여 구강기능 회복에 기여하고자 함",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -60841,24 +61057,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004069",
-    "name": "저소득 노인가구 건강보험료",
-    "summary": "저소득 노인 가구에 건강보험료 지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저소득 노인 가구에 건강보험료 지원",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004001",
     "name": "저소득 재가노인 식사배달",
     "summary": "가정 형편이 어렵거나 기타 부득이한 사유로 점심을 거르시는 거동불편 어르신에게 식사 배달 사업을 통해 노인 급식 수준 향상",
@@ -60871,6 +61069,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "가정 형편이 어렵거나 기타 부득이한 사유로 점심을 거르시는 거동불편 어르신에게 식사 배달 사업을 통해 노인 급식 수준 향상",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004069",
+    "name": "저소득 노인가구 건강보험료",
+    "summary": "저소득 노인 가구에 건강보험료 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저소득 노인 가구에 건강보험료 지원",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -60907,8 +61123,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "새일센터 미설치 지역(계룡,금산,청양,예산,태안) 경력단절여성 등에게 취업지원 서비스 지원",
-    "categories": "청년, 중장년, 노년",
-    "life_cycle": "청년, 중장년, 노년",
+    "categories": "중장년, 청년, 노년",
+    "life_cycle": "중장년, 청년, 노년",
     "url": ""
   },
   {
@@ -61933,8 +62149,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "〇 국민기초생활수급권자가 아닌 세대로 국민건강보험료 및 노인장기요양보험료(이하 보험료)의 부과금액이 최저보험료 미만인 세대\n  - 주민등록상 65세 이상 노인으로 구성된 세대\n  - 「장애인복지법」에 따라 등록된 장애인이 있는 세대\n  - 「한부모가족지원법」에 따른 모· 부자 가족 또는 조손가족",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -62263,6 +62479,24 @@
   },
   {
     "source": "local",
+    "id": "WLF00001764",
+    "name": "의사상자 예우지원",
+    "summary": "의로운 행위를 한 사람의 숭고한 뜻을 기리고 귀감으로 삼아 사회정의를 실현하기 위하여 의로운 시민과 그 가족 또는 유족 등에 대한 예우 및 지원을 목적으로 한다.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "의로운 행위를 한 사람의 숭고한 뜻을 기리고 귀감으로 삼아 사회정의를 실현하기 위하여 의로운 시민과 그 가족 또는 유족 등에 대한 예우 및 지원을 목적으로 한다.",
+    "categories": "노년, 중장년, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 아동, 청소년, 청년",
+    "url": ""
+  },
+  {
+    "source": "local",
     "id": "WLF00001490",
     "name": "부랑인 및 행려자 지원",
     "summary": "노숙인에게 노숙인 시설을 이용하게 하거나, 치료를 요하는 경우 보건의료기관에 진료를 받도록\r\n하여 노숙인을 안전하게 구호",
@@ -62277,24 +62511,6 @@
     "amount_summary": "노숙인에게 노숙인 시설을 이용하게 하거나, 치료를 요하는 경우 보건의료기관에 진료를 받도록\r\n하여 노숙인을 안전하게 구호",
     "categories": "청년, 청소년, 중장년, 노년",
     "life_cycle": "청년, 청소년, 중장년, 노년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00001764",
-    "name": "의사상자 예우지원",
-    "summary": "의로운 행위를 한 사람의 숭고한 뜻을 기리고 귀감으로 삼아 사회정의를 실현하기 위하여 의로운 시민과 그 가족 또는 유족 등에 대한 예우 및 지원을 목적으로 한다.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "의로운 행위를 한 사람의 숭고한 뜻을 기리고 귀감으로 삼아 사회정의를 실현하기 위하여 의로운 시민과 그 가족 또는 유족 등에 대한 예우 및 지원을 목적으로 한다.",
-    "categories": "중장년, 노년, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -63865,24 +64081,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005796",
-    "name": "다자녀 가정 진료비 감면 사업",
-    "summary": "다자녀 가정의 건강 유지 및 관리에 따른 경제적 부담을 경감하고 실질적 도움을 줄 수 있는 보건의료체계 확립",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "다자녀 가정의 건강 유지 및 관리에 따른 경제적 부담을 경감하고 실질적 도움을 줄 수 있는 보건의료체계 확립",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005807",
     "name": "부안미디어센터 다자녀 가정 사용료 감면",
     "summary": "다자녀 가정 사용료 감면",
@@ -63895,6 +64093,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "다자녀 가정 사용료 감면",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005796",
+    "name": "다자녀 가정 진료비 감면 사업",
+    "summary": "다자녀 가정의 건강 유지 및 관리에 따른 경제적 부담을 경감하고 실질적 도움을 줄 수 있는 보건의료체계 확립",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "다자녀 가정의 건강 유지 및 관리에 따른 경제적 부담을 경감하고 실질적 도움을 줄 수 있는 보건의료체계 확립",
     "categories": "",
     "life_cycle": "",
     "url": ""
@@ -63955,24 +64171,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005636",
-    "name": "순창군 경력단절여성 시간제일자리 지원사업",
-    "summary": "○ 참여기업 측면\n - 경력단절여성을 시간제로 고용한 참여기업에게는 인건비 일부를 지원하여 경영부담 완화\n\n○ 참여근로자 측면\n - 양육, 가사 등으로 종일제 근무가 어려운 경력단절여성에게는 시간제 일자리를 제공함으로써 여성의 경력 단절 예방 및 여성의 일-생활 균형 문화 확산에 기여",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "○ 참여기업 측면\n - 경력단절여성을 시간제로 고용한 참여기업에게는 인건비 일부를 지원하여 경영부담 완화\n\n○ 참여근로자 측면\n - 양육, 가사 등으로 종일제 근무가 어려운 경력단절여성에게는 시간제 일자리를 제공함으로써 여성의 경력 단절 예방 및 여성의 일-생활 균형 문화 확산에 기여",
-    "categories": "중장년, 청년",
-    "life_cycle": "중장년, 청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005612",
     "name": "도봉구 미취업 청년 어학 및 자격증 시험 응시료 지원사업",
     "summary": "관내 미취업 청년(19~45세)의 어학 및 자격증 시험 응시료를 지원하여 구직 과정에서 수반되는 경제적 부담을 완화하고 취업 경쟁력 향상에 기여하고자 함",
@@ -63987,6 +64185,24 @@
     "amount_summary": "관내 미취업 청년(19~45세)의 어학 및 자격증 시험 응시료를 지원하여 구직 과정에서 수반되는 경제적 부담을 완화하고 취업 경쟁력 향상에 기여하고자 함",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005636",
+    "name": "순창군 경력단절여성 시간제일자리 지원사업",
+    "summary": "○ 참여기업 측면\n - 경력단절여성을 시간제로 고용한 참여기업에게는 인건비 일부를 지원하여 경영부담 완화\n\n○ 참여근로자 측면\n - 양육, 가사 등으로 종일제 근무가 어려운 경력단절여성에게는 시간제 일자리를 제공함으로써 여성의 경력 단절 예방 및 여성의 일-생활 균형 문화 확산에 기여",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "○ 참여기업 측면\n - 경력단절여성을 시간제로 고용한 참여기업에게는 인건비 일부를 지원하여 경영부담 완화\n\n○ 참여근로자 측면\n - 양육, 가사 등으로 종일제 근무가 어려운 경력단절여성에게는 시간제 일자리를 제공함으로써 여성의 경력 단절 예방 및 여성의 일-생활 균형 문화 확산에 기여",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -64351,24 +64567,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005173",
-    "name": "순창군 청년근로자 종자통장 지원사업",
-    "summary": "도시권에 비해 근로소득이 낮아 경제적으로 애로를 겪고 있는 지역내 청년근로자들에게 자산형성 지원을 통해 지역내 근로활동에 대한 자긍심 부여 등 안정적인 경제 기반을 마련할 수 있는 환경 조성 및 지역 정착을 유도하고자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "도시권에 비해 근로소득이 낮아 경제적으로 애로를 겪고 있는 지역내 청년근로자들에게 자산형성 지원을 통해 지역내 근로활동에 대한 자긍심 부여 등 안정적인 경제 기반을 마련할 수 있는 환경 조성 및 지역 정착을 유도하고자 함.",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005168",
     "name": "보편적 산후조리비용지원",
     "summary": "출산가정의 경제적 부담을 덜어주고 산모와 아기의 안정적 회복과 성장을 도와 아이 낳고 키우기 좋은 출산친화 도시 조성을 위함",
@@ -64383,6 +64581,24 @@
     "amount_summary": "출산가정의 경제적 부담을 덜어주고 산모와 아기의 안정적 회복과 성장을 도와 아이 낳고 키우기 좋은 출산친화 도시 조성을 위함",
     "categories": "임신 · 출산",
     "life_cycle": "임신 · 출산",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005173",
+    "name": "순창군 청년근로자 종자통장 지원사업",
+    "summary": "도시권에 비해 근로소득이 낮아 경제적으로 애로를 겪고 있는 지역내 청년근로자들에게 자산형성 지원을 통해 지역내 근로활동에 대한 자긍심 부여 등 안정적인 경제 기반을 마련할 수 있는 환경 조성 및 지역 정착을 유도하고자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "도시권에 비해 근로소득이 낮아 경제적으로 애로를 겪고 있는 지역내 청년근로자들에게 자산형성 지원을 통해 지역내 근로활동에 대한 자긍심 부여 등 안정적인 경제 기반을 마련할 수 있는 환경 조성 및 지역 정착을 유도하고자 함.",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -64477,24 +64693,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005105",
-    "name": "전북청년 지역정착 지원사업",
-    "summary": "저소득층 청년의 취업 초기 고용안정을 통해 청년들의 지역정착 유도",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저소득층 청년의 취업 초기 고용안정을 통해 청년들의 지역정착 유도",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005107",
     "name": "전북형 청년활력수당",
     "summary": "구직 청년의  생활안정 및 사회진입 촉진 등",
@@ -64507,6 +64705,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구직 청년의  생활안정 및 사회진입 촉진 등",
+    "categories": "청년",
+    "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005105",
+    "name": "전북청년 지역정착 지원사업",
+    "summary": "저소득층 청년의 취업 초기 고용안정을 통해 청년들의 지역정착 유도",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저소득층 청년의 취업 초기 고용안정을 통해 청년들의 지역정착 유도",
     "categories": "청년",
     "life_cycle": "청년",
     "url": ""
@@ -64747,24 +64963,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004757",
-    "name": "부안군여성청소년생리용품지원사업",
-    "summary": "청소년복지지원법 제5조제3항에 따라 여성청소년의 건강증진과 복지향상 기여",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "청소년복지지원법 제5조제3항에 따라 여성청소년의 건강증진과 복지향상 기여",
-    "categories": "청소년",
-    "life_cycle": "청소년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004762",
     "name": "청년 주거비용 지원사업",
     "summary": "청년 주거비 부담 경감 및 안정적 지역정착 지원",
@@ -64779,6 +64977,24 @@
     "amount_summary": "청년 주거비 부담 경감 및 안정적 지역정착 지원",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004757",
+    "name": "부안군여성청소년생리용품지원사업",
+    "summary": "청소년복지지원법 제5조제3항에 따라 여성청소년의 건강증진과 복지향상 기여",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "청소년복지지원법 제5조제3항에 따라 여성청소년의 건강증진과 복지향상 기여",
+    "categories": "청소년",
+    "life_cycle": "청소년",
     "url": ""
   },
   {
@@ -65173,26 +65389,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 여성의 경제적 부담 경감 및 건강 증진",
-    "categories": "중장년, 청년",
-    "life_cycle": "중장년, 청년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00004152",
-    "name": "전북형 기초생활보장사업",
-    "summary": "국민기초생활보장 수급자에서 탈락한 저소득층의 최저생활보장으로 복지사각지대 해소",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "국민기초생활보장 수급자에서 탈락한 저소득층의 최저생활보장으로 복지사각지대 해소",
-    "categories": "",
-    "life_cycle": "",
+    "categories": "청년, 중장년",
+    "life_cycle": "청년, 중장년",
     "url": ""
   },
   {
@@ -65211,6 +65409,24 @@
     "amount_summary": "저소득층 구강건강증진을 위한 의치 제작 시술 및 사후관리 등 효율적인 시술비용 지원체계 마련으로 구강건강의료 사각지대의 대상자들의 구강건강수명 연장 및 구강건강 격차감소 도모.",
     "categories": "노년",
     "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004152",
+    "name": "전북형 기초생활보장사업",
+    "summary": "국민기초생활보장 수급자에서 탈락한 저소득층의 최저생활보장으로 복지사각지대 해소",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "국민기초생활보장 수급자에서 탈락한 저소득층의 최저생활보장으로 복지사각지대 해소",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -65335,8 +65551,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "자녀 양육가정에 경제적 부담을 경감하고 산모와 영유아의 건강증진을 도모하고자 산모·신생아 건강관리 지원금 지원",
-    "categories": "임신 · 출산, 중장년, 청년",
-    "life_cycle": "임신 · 출산, 중장년, 청년",
+    "categories": "임신 · 출산, 청년, 중장년",
+    "life_cycle": "임신 · 출산, 청년, 중장년",
     "url": ""
   },
   {
@@ -65875,8 +66091,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의사자와 의상자 및 그 유가족에 대하여 군산시에서 그 희생과 피해의 정도 등에 알맞은 예우 및 지원을 함으로써 \n이들의 숭고한 뜻을 기리고 시민의 귀감으로 삼아 사회정의를 실현하는데 이바지함.",
-    "categories": "청년, 중장년, 청소년, 아동, 영유아, 노년",
-    "life_cycle": "청년, 중장년, 청소년, 아동, 영유아, 노년",
+    "categories": "중장년, 청년, 청소년, 아동, 영유아, 노년",
+    "life_cycle": "중장년, 청년, 청소년, 아동, 영유아, 노년",
     "url": ""
   },
   {
@@ -66187,24 +66403,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003073",
-    "name": "이재민 구호",
-    "summary": "자연재해로 피해를 입은 이재민에 대한 구호 실시로 이재민의 생활안정 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "자연재해로 피해를 입은 이재민에 대한 구호 실시로 이재민의 생활안정 도모",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00000253",
     "name": "행려자 귀향여비 및 제경비",
     "summary": "-행여자 및 노숙인 등을 보호하기 위하여 귀향여비 제공",
@@ -66217,6 +66415,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "-행여자 및 노숙인 등을 보호하기 위하여 귀향여비 제공",
+    "categories": "",
+    "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003073",
+    "name": "이재민 구호",
+    "summary": "자연재해로 피해를 입은 이재민에 대한 구호 실시로 이재민의 생활안정 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "자연재해로 피해를 입은 이재민에 대한 구호 실시로 이재민의 생활안정 도모",
     "categories": "",
     "life_cycle": "",
     "url": ""
@@ -66271,8 +66487,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "「효행 장려 및 지원에 관한 법률」제11조에 따라 3세대 이상이 함께 사는 가정에 효도수당을 지급함으로써 경로효친의 건전한 가족제도 정착과 지역사회의 효 문화 확산",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -66577,8 +66793,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "부안군에 거주하는 장애인의 기본적인 이동권과 사회활동 참여 증진에 기여",
-    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -68365,24 +68581,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00006067",
-    "name": "구미시 청년일자리 근속장려금 지원사업",
-    "summary": "중소기업 청년근로자들에게 인센티브 제공을 통해 청년들의 장기근속을 유도\n장려금 지급을 통해 청년들이 지역 내에서 안정적인 경제생활을 유지하고 정착할 수 있도록 하며, 이를 통해 결혼과 출산으로 이어지는 구조를 구축하고자 함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "중소기업 청년근로자들에게 인센티브 제공을 통해 청년들의 장기근속을 유도\n장려금 지급을 통해 청년들이 지역 내에서 안정적인 경제생활을 유지하고 정착할 수 있도록 하며, 이를 통해 결혼과 출산으로 이어지는 구조를 구축하고자 함",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00006073",
     "name": "경기도 청소년복지시설 퇴소청소년 자립정착금 지급",
     "summary": "청소년복지시설 퇴소 가정 밖 청소년의 안정적인 자립지원을 위한 자립정착금 지급",
@@ -68397,6 +68595,24 @@
     "amount_summary": "청소년복지시설 퇴소 가정 밖 청소년의 안정적인 자립지원을 위한 자립정착금 지급",
     "categories": "청소년",
     "life_cycle": "청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00006067",
+    "name": "구미시 청년일자리 근속장려금 지원사업",
+    "summary": "중소기업 청년근로자들에게 인센티브 제공을 통해 청년들의 장기근속을 유도\n장려금 지급을 통해 청년들이 지역 내에서 안정적인 경제생활을 유지하고 정착할 수 있도록 하며, 이를 통해 결혼과 출산으로 이어지는 구조를 구축하고자 함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "중소기업 청년근로자들에게 인센티브 제공을 통해 청년들의 장기근속을 유도\n장려금 지급을 통해 청년들이 지역 내에서 안정적인 경제생활을 유지하고 정착할 수 있도록 하며, 이를 통해 결혼과 출산으로 이어지는 구조를 구축하고자 함",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -68437,24 +68653,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00006022",
-    "name": "밀양시 결혼장려금 지원",
-    "summary": "밀양시 신혼부부 증진을 위해 신혼부부 대상 지원금 지급",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "밀양시 신혼부부 증진을 위해 신혼부부 대상 지원금 지급",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00006035",
     "name": "긴급복지지원사업",
     "summary": "질병,실직,재해등 위기상황에 처해 생계어려움을 겪고 있는 가구에 일시적으로 신속하게 지원하여 위기에서 벗어날수 있도록 돕기 위함.",
@@ -68469,6 +68667,24 @@
     "amount_summary": "질병,실직,재해등 위기상황에 처해 생계어려움을 겪고 있는 가구에 일시적으로 신속하게 지원하여 위기에서 벗어날수 있도록 돕기 위함.",
     "categories": "청년, 노년, 청소년, 중장년",
     "life_cycle": "청년, 노년, 청소년, 중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00006022",
+    "name": "밀양시 결혼장려금 지원",
+    "summary": "밀양시 신혼부부 증진을 위해 신혼부부 대상 지원금 지급",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "밀양시 신혼부부 증진을 위해 신혼부부 대상 지원금 지급",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -68599,24 +68815,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005959",
-    "name": "김포시 장수축하물품 지급 사업",
-    "summary": "급격한 노령화와 23년 3월 고령사회에 진입한 김포시 어르신의 장수를 축하하고 기원하며 경로효친의 사회적 분위기 조성과 노인복지의 증진을 위함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "급격한 노령화와 23년 3월 고령사회에 진입한 김포시 어르신의 장수를 축하하고 기원하며 경로효친의 사회적 분위기 조성과 노인복지의 증진을 위함",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005988",
     "name": "대구광역시 남구 미취업청년 자격증 응시료 지원사업",
     "summary": "지역 청년의 취업 경쟁력 향상과 경제적 부담 완화 필요",
@@ -68631,6 +68829,24 @@
     "amount_summary": "지역 청년의 취업 경쟁력 향상과 경제적 부담 완화 필요",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005959",
+    "name": "김포시 장수축하물품 지급 사업",
+    "summary": "급격한 노령화와 23년 3월 고령사회에 진입한 김포시 어르신의 장수를 축하하고 기원하며 경로효친의 사회적 분위기 조성과 노인복지의 증진을 위함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "급격한 노령화와 23년 3월 고령사회에 진입한 김포시 어르신의 장수를 축하하고 기원하며 경로효친의 사회적 분위기 조성과 노인복지의 증진을 위함",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -68995,24 +69211,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005883",
-    "name": "울산아이문화패스",
-    "summary": "○ 문화예술시장의 잠재적 수요층인 아동(초등학생 연령)을 대상으로  문화예술 활동 지원 통한 문화예술 향유기회 제공 및 문화격차 완화\n ○ 문화예술‧체육 분야 및 예체능 학원 등에 사용 가능한 선불카드(지원금) 지원하여 지역 경제 활성화 도모\n ○ 저출산 시대 아동 양육 가구의 경제적 부담 경감 통한 인구감소 대응\n ○ 산업, 문화의 축에 ‘시민생활’을 포함하여 시민이 일상에서 변화를 체감하고 울산시민의 자부심을 느낄 수 있는 ‘생활체감형’ 사업 추진",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "○ 문화예술시장의 잠재적 수요층인 아동(초등학생 연령)을 대상으로  문화예술 활동 지원 통한 문화예술 향유기회 제공 및 문화격차 완화\n ○ 문화예술‧체육 분야 및 예체능 학원 등에 사용 가능한 선불카드(지원금) 지원하여 지역 경제 활성화 도모\n ○ 저출산 시대 아동 양육 가구의 경제적 부담 경감 통한 인구감소 대응\n ○ 산업, 문화의 축에 ‘시민생활’을 포함하여 시민이 일상에서 변화를 체감하고 울산시민의 자부심을 느낄 수 있는 ‘생활체감형’ 사업 추진",
-    "categories": "아동",
-    "life_cycle": "아동",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005882",
     "name": "울진군 초 ,충, 고 학교우유급식 확대지원",
     "summary": "학교우유급식을 통해 성장기 학생들에게 필요한 필수 영양소를 공급하여 고른 영양섭취를 통한 신체발달 및 건강 유지‧증진",
@@ -69027,6 +69225,24 @@
     "amount_summary": "학교우유급식을 통해 성장기 학생들에게 필요한 필수 영양소를 공급하여 고른 영양섭취를 통한 신체발달 및 건강 유지‧증진",
     "categories": "청소년, 아동",
     "life_cycle": "청소년, 아동",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005883",
+    "name": "울산아이문화패스",
+    "summary": "○ 문화예술시장의 잠재적 수요층인 아동(초등학생 연령)을 대상으로  문화예술 활동 지원 통한 문화예술 향유기회 제공 및 문화격차 완화\n ○ 문화예술‧체육 분야 및 예체능 학원 등에 사용 가능한 선불카드(지원금) 지원하여 지역 경제 활성화 도모\n ○ 저출산 시대 아동 양육 가구의 경제적 부담 경감 통한 인구감소 대응\n ○ 산업, 문화의 축에 ‘시민생활’을 포함하여 시민이 일상에서 변화를 체감하고 울산시민의 자부심을 느낄 수 있는 ‘생활체감형’ 사업 추진",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "○ 문화예술시장의 잠재적 수요층인 아동(초등학생 연령)을 대상으로  문화예술 활동 지원 통한 문화예술 향유기회 제공 및 문화격차 완화\n ○ 문화예술‧체육 분야 및 예체능 학원 등에 사용 가능한 선불카드(지원금) 지원하여 지역 경제 활성화 도모\n ○ 저출산 시대 아동 양육 가구의 경제적 부담 경감 통한 인구감소 대응\n ○ 산업, 문화의 축에 ‘시민생활’을 포함하여 시민이 일상에서 변화를 체감하고 울산시민의 자부심을 느낄 수 있는 ‘생활체감형’ 사업 추진",
+    "categories": "아동",
+    "life_cycle": "아동",
     "url": ""
   },
   {
@@ -69067,24 +69283,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005772",
-    "name": "저소득 장애인부모 건강검진비 지원",
-    "summary": "장애인 자녀를 돌보는 취약계층 부모에게 종합건강검진비를 지원하여 돌봄 부담이 큰 장애인 가족의 건강증진 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "장애인 자녀를 돌보는 취약계층 부모에게 종합건강검진비를 지원하여 돌봄 부담이 큰 장애인 가족의 건강증진 도모",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005773",
     "name": "사천시 지역인재 고용장려금 지원 사업",
     "summary": "사천시 청년 취업난 해소와 중소기업체의 인력난 해소",
@@ -69099,6 +69297,24 @@
     "amount_summary": "사천시 청년 취업난 해소와 중소기업체의 인력난 해소",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005772",
+    "name": "저소득 장애인부모 건강검진비 지원",
+    "summary": "장애인 자녀를 돌보는 취약계층 부모에게 종합건강검진비를 지원하여 돌봄 부담이 큰 장애인 가족의 건강증진 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "장애인 자녀를 돌보는 취약계층 부모에게 종합건강검진비를 지원하여 돌봄 부담이 큰 장애인 가족의 건강증진 도모",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -69319,24 +69535,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005722",
-    "name": "화순 사평빨래방 운영",
-    "summary": "일상생활이 불편한 노약자 및  복지사각지대 소외계층, 지역 주민을 대상으로 찾아가는 세탁서비스 제공",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "일상생활이 불편한 노약자 및  복지사각지대 소외계층, 지역 주민을 대상으로 찾아가는 세탁서비스 제공",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005721",
     "name": "옹진군 산후건강관리비 지원",
     "summary": "옹진군 모든 출산가정에 산후건강관리비를 지원하여 산모의 산후회복과 건강증진을 돕고 출산가정의 경제적 부담을 완화하여 \"출산 친화 옹진\"을 만들고자하는 사업입니다.",
@@ -69351,6 +69549,24 @@
     "amount_summary": "옹진군 모든 출산가정에 산후건강관리비를 지원하여 산모의 산후회복과 건강증진을 돕고 출산가정의 경제적 부담을 완화하여 \"출산 친화 옹진\"을 만들고자하는 사업입니다.",
     "categories": "중장년, 청년, 임신 · 출산",
     "life_cycle": "중장년, 청년, 임신 · 출산",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005722",
+    "name": "화순 사평빨래방 운영",
+    "summary": "일상생활이 불편한 노약자 및  복지사각지대 소외계층, 지역 주민을 대상으로 찾아가는 세탁서비스 제공",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "일상생활이 불편한 노약자 및  복지사각지대 소외계층, 지역 주민을 대상으로 찾아가는 세탁서비스 제공",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -69391,24 +69607,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005690",
-    "name": "장수축하금 지급",
-    "summary": "경로효친의 사회적 분위기를 조성하고 노인 복지증진에 이바지함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "경로효친의 사회적 분위기를 조성하고 노인 복지증진에 이바지함",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005686",
     "name": "독거노인 공동거주제 운영 지원",
     "summary": "□ 독거노인공동거주제 운영지원(의령군 독거노인 공동거주시설 운영 및 관리 조례)\n  ○ 예 산 액 : 40,000천원(군비)\n  ○ 지원대상 : 독거노인공동거주시설 7개소(41명)\n    - 화정 유수 5, 화정 북동 6·상정1구 6, 부림 오소 6, 유곡 구송산 6·신촌6·신송산3구 6\n  ○ 지원내용 : 운영비 \n    - 5인 이하 분기별 750천원(연 3백만원), 6인 이상 분기별 900천원 지원(연 360만원)\n  ○ 등록기준\n    - 공동시설에 거주하고자 하는 독거노인 5명 이상과 이를 수용할 수 있는 시설을 \n      갖춘 지역\n    - 경로당이 없거나 경로당이 있어도 이용에 상당한 애로가 있는 지역\n    - 교통이 불편한 오지지역으로 행정관서나 의료시설로부터 먼 지역\n    - 기타 독거노인 보호를 위해 군수가 인정하는 지역\n□독거노인 공동거주시설 생활비품 지원(의령군 독거노인 공동거주시설 운영 및 관리 조례)\n  ○ 예 산 액 : 3,000천원(군비)\n  ○ 지원대상 : 독거노인 공동거주시설\n  ○ 지원내용 : 1개소 500천원 이내 생활비품 지원\n\n□독거노인 공동거주시설 보험 가입 지원\n  ○ 예 산 액 : 360천원(군비)\n  ○ 지원대상 : 독거노인 공동거주시설 회원\n  ○ 지원내용 : 유수, 신촌 상해·화재보험(나머지 5개소: 경로당 보험 가입)",
@@ -69421,6 +69619,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "□ 독거노인공동거주제 운영지원(의령군 독거노인 공동거주시설 운영 및 관리 조례)\n  ○ 예 산 액 : 40,000천원(군비)\n  ○ 지원대상 : 독거노인공동거주시설 7개소(41명)\n    - 화정 유수 5, 화정 북동 6·상정1구 6, 부림 오소 6, 유곡 구송산 6·신촌6·신송산3구 6\n  ○ 지원내용 : 운영비 \n    - 5인 이하 분기별 750천원(연 3백만원), 6인 이상 분기별 900천원 지원(연 360만원)\n  ○ 등록기준\n    - 공동시설에 거주하고자 하는 독거노인 5명 이상과 이를 수용할 수 있는 시설을 \n      갖춘 지역\n    - 경로당이 없거나 경로당이 있어도 이용에 상당한 애로가 있는 지역\n    - 교통이 불편한 오지지역으로 행정관서나 의료시설로부터 먼 지역\n    - 기타 독거노인 보호를 위해 군수가 인정하는 지역\n□독거노인 공동거주시설 생활비품 지원(의령군 독거노인 공동거주시설 운영 및 관리 조례)\n  ○ 예 산 액 : 3,000천원(군비)\n  ○ 지원대상 : 독거노인 공동거주시설\n  ○ 지원내용 : 1개소 500천원 이내 생활비품 지원\n\n□독거노인 공동거주시설 보험 가입 지원\n  ○ 예 산 액 : 360천원(군비)\n  ○ 지원대상 : 독거노인 공동거주시설 회원\n  ○ 지원내용 : 유수, 신촌 상해·화재보험(나머지 5개소: 경로당 보험 가입)",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005690",
+    "name": "장수축하금 지급",
+    "summary": "경로효친의 사회적 분위기를 조성하고 노인 복지증진에 이바지함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "경로효친의 사회적 분위기를 조성하고 노인 복지증진에 이바지함",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -69625,24 +69841,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005602",
-    "name": "저소득층 학생 교육정보화(PC) 지원",
-    "summary": "○ 정보화 지원을 통한 정보 소외계층의 정보 접근 환경 개선으로 교육복지 실현\n○ 「교육기본법」 제23조(교육의 정보화), 「초ㆍ중등교육법」 제 60조의4(교육비지원), 「지능정보화기본법」 제 45조(정보격차 해소 시책의 마련)",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "○ 정보화 지원을 통한 정보 소외계층의 정보 접근 환경 개선으로 교육복지 실현\n○ 「교육기본법」 제23조(교육의 정보화), 「초ㆍ중등교육법」 제 60조의4(교육비지원), 「지능정보화기본법」 제 45조(정보격차 해소 시책의 마련)",
-    "categories": "아동, 청소년",
-    "life_cycle": "아동, 청소년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005608",
     "name": "결혼이민자 국적취득 수수료 지원사업",
     "summary": "결혼이민자 국적취득 수수료를 지원하여 국적취득 의욕 고취 및 가족욕구 충족으로 사회통합 기여",
@@ -69657,6 +69855,24 @@
     "amount_summary": "결혼이민자 국적취득 수수료를 지원하여 국적취득 의욕 고취 및 가족욕구 충족으로 사회통합 기여",
     "categories": "청년, 노년, 중장년",
     "life_cycle": "청년, 노년, 중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005602",
+    "name": "저소득층 학생 교육정보화(PC) 지원",
+    "summary": "○ 정보화 지원을 통한 정보 소외계층의 정보 접근 환경 개선으로 교육복지 실현\n○ 「교육기본법」 제23조(교육의 정보화), 「초ㆍ중등교육법」 제 60조의4(교육비지원), 「지능정보화기본법」 제 45조(정보격차 해소 시책의 마련)",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "○ 정보화 지원을 통한 정보 소외계층의 정보 접근 환경 개선으로 교육복지 실현\n○ 「교육기본법」 제23조(교육의 정보화), 「초ㆍ중등교육법」 제 60조의4(교육비지원), 「지능정보화기본법」 제 45조(정보격차 해소 시책의 마련)",
+    "categories": "아동, 청소년",
+    "life_cycle": "아동, 청소년",
     "url": ""
   },
   {
@@ -69877,24 +70093,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005510",
-    "name": "용인시 장애인가정 출산지원금 지원",
-    "summary": "장애인가정에 출산지원금을 지원함으로써 저출산 시대의 사회적 문제 해소와 장애인가정의 생활안정 및 사회적 통합에 기여하기 위함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "장애인가정에 출산지원금을 지원함으로써 저출산 시대의 사회적 문제 해소와 장애인가정의 생활안정 및 사회적 통합에 기여하기 위함.",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005507",
     "name": "중고등학교 신입생 교복구입비 지원",
     "summary": "중고등학교 신입생에게 교복 구입비를 지원하여 교육의 공공성 강화 및 학부모들의 교육비 부담을 경감시키고자 함.",
@@ -69909,6 +70107,24 @@
     "amount_summary": "중고등학교 신입생에게 교복 구입비를 지원하여 교육의 공공성 강화 및 학부모들의 교육비 부담을 경감시키고자 함.",
     "categories": "청소년",
     "life_cycle": "청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005510",
+    "name": "용인시 장애인가정 출산지원금 지원",
+    "summary": "장애인가정에 출산지원금을 지원함으로써 저출산 시대의 사회적 문제 해소와 장애인가정의 생활안정 및 사회적 통합에 기여하기 위함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "장애인가정에 출산지원금을 지원함으로써 저출산 시대의 사회적 문제 해소와 장애인가정의 생활안정 및 사회적 통합에 기여하기 위함.",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -69967,24 +70183,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005463",
-    "name": "인천 I-패스 사업",
-    "summary": "고물가시대 가계 부담 완화와 기후위기 대응을 위한 인천형 대중교통비 지원으로 시민의 행복한 일상 및 지속가능한 미래 설계 시책 추진",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "고물가시대 가계 부담 완화와 기후위기 대응을 위한 인천형 대중교통비 지원으로 시민의 행복한 일상 및 지속가능한 미래 설계 시책 추진",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005531",
     "name": "장애인활동지원 구비추가",
     "summary": "장애인활동지원 수급자 중 활동지원시간이 부족한 수급자에세 구비추가 급여를 지원하여 사회활동 및 일상생활 지원을 제공하는 등 장애인의 삶의 질을 높이고자 함",
@@ -69999,6 +70197,24 @@
     "amount_summary": "장애인활동지원 수급자 중 활동지원시간이 부족한 수급자에세 구비추가 급여를 지원하여 사회활동 및 일상생활 지원을 제공하는 등 장애인의 삶의 질을 높이고자 함",
     "categories": "청년, 중장년",
     "life_cycle": "청년, 중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005463",
+    "name": "인천 I-패스 사업",
+    "summary": "고물가시대 가계 부담 완화와 기후위기 대응을 위한 인천형 대중교통비 지원으로 시민의 행복한 일상 및 지속가능한 미래 설계 시책 추진",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "고물가시대 가계 부담 완화와 기후위기 대응을 위한 인천형 대중교통비 지원으로 시민의 행복한 일상 및 지속가능한 미래 설계 시책 추진",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -70039,24 +70255,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005453",
-    "name": "한부모가족 자녀 교육활동비 지원",
-    "summary": "저소득 한부모가족 자녀 수학여행비 및 현장확습비(활동) 지원을 통한 교육활동, 사회참여활동 기회 확대",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저소득 한부모가족 자녀 수학여행비 및 현장확습비(활동) 지원을 통한 교육활동, 사회참여활동 기회 확대",
-    "categories": "청소년, 아동",
-    "life_cycle": "청소년, 아동",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005452",
     "name": "한부모가족 상하수도수도요금 감면 지원",
     "summary": "- 상하수도요금 감면지원을 통한 한부모가족 생활안정 지원 및 양육부담 감경 지원",
@@ -70071,6 +70269,24 @@
     "amount_summary": "- 상하수도요금 감면지원을 통한 한부모가족 생활안정 지원 및 양육부담 감경 지원",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005453",
+    "name": "한부모가족 자녀 교육활동비 지원",
+    "summary": "저소득 한부모가족 자녀 수학여행비 및 현장확습비(활동) 지원을 통한 교육활동, 사회참여활동 기회 확대",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저소득 한부모가족 자녀 수학여행비 및 현장확습비(활동) 지원을 통한 교육활동, 사회참여활동 기회 확대",
+    "categories": "청소년, 아동",
+    "life_cycle": "청소년, 아동",
     "url": ""
   },
   {
@@ -70201,24 +70417,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005343",
-    "name": "장애인 활동지원사 양성 지원 사업",
-    "summary": "장애인활동지원 제공이 불가한 도서벽지 지역에 가족지원을 위해 장애인 가족 중 활동지원사 교육 비 등 지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "장애인활동지원 제공이 불가한 도서벽지 지역에 가족지원을 위해 장애인 가족 중 활동지원사 교육 비 등 지원",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005342",
     "name": "아동·청소년 부모 빚 대물림 방지 법률지원 사업",
     "summary": "❍ 법률적 지식이 부족한 아동․청소년이 부모 빚을 대물림 받아 경제적 어려움을 겪지 않도록 법률 사무처리에 필요한 사항을 지원하여 \n   건강한 사회 구성원으로 성장할 수 있도록 법률서비스 지원",
@@ -70233,6 +70431,24 @@
     "amount_summary": "❍ 법률적 지식이 부족한 아동․청소년이 부모 빚을 대물림 받아 경제적 어려움을 겪지 않도록 법률 사무처리에 필요한 사항을 지원하여 \n   건강한 사회 구성원으로 성장할 수 있도록 법률서비스 지원",
     "categories": "아동, 청소년",
     "life_cycle": "아동, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005343",
+    "name": "장애인 활동지원사 양성 지원 사업",
+    "summary": "장애인활동지원 제공이 불가한 도서벽지 지역에 가족지원을 위해 장애인 가족 중 활동지원사 교육 비 등 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "장애인활동지원 제공이 불가한 도서벽지 지역에 가족지원을 위해 장애인 가족 중 활동지원사 교육 비 등 지원",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -70273,24 +70489,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005319",
-    "name": "인천광역시교육청 다자녀 신학년 학습 준비비",
-    "summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
-    "categories": "청소년, 아동",
-    "life_cycle": "청소년, 아동",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005302",
     "name": "세종특별자치시 행복아파트(영구임대주택) 임차인 중 저소득 원주민 임대료 일부 감면 사업",
     "summary": "세종시 건설로 생활 터전을 상실한 저소득 원주민의 월 임대료 할증분 감면으로 주거 안정과 주거 수준 향상에 기여",
@@ -70305,6 +70503,24 @@
     "amount_summary": "세종시 건설로 생활 터전을 상실한 저소득 원주민의 월 임대료 할증분 감면으로 주거 안정과 주거 수준 향상에 기여",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005319",
+    "name": "인천광역시교육청 다자녀 신학년 학습 준비비",
+    "summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "출산률 저하에 따른 사회문제에 적극 대처하고 양육에 유리한 환경 조성",
+    "categories": "청소년, 아동",
+    "life_cycle": "청소년, 아동",
     "url": ""
   },
   {
@@ -70507,24 +70723,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005238",
-    "name": "청년 이사비용 지원사업",
-    "summary": "부동산 시장의 영향 및 경제적 어려움 등으로 이사가 잦아 주거 불안정을 겪는 청년들의 이사비용을 지원하여 청년들의 실질적 주거 안정 및 삶의 질 향상에 기여하고자 함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "부동산 시장의 영향 및 경제적 어려움 등으로 이사가 잦아 주거 불안정을 겪는 청년들의 이사비용을 지원하여 청년들의 실질적 주거 안정 및 삶의 질 향상에 기여하고자 함",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005249",
     "name": "출산장려금",
     "summary": "출산율 저하 및 인구감소 등의 사회문제에 대응하며, 아이를 출산한 가정을 축하하여 출산장려분위기를 조성하고자 출산장려금 지원",
@@ -70539,6 +70737,24 @@
     "amount_summary": "출산율 저하 및 인구감소 등의 사회문제에 대응하며, 아이를 출산한 가정을 축하하여 출산장려분위기를 조성하고자 출산장려금 지원",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005238",
+    "name": "청년 이사비용 지원사업",
+    "summary": "부동산 시장의 영향 및 경제적 어려움 등으로 이사가 잦아 주거 불안정을 겪는 청년들의 이사비용을 지원하여 청년들의 실질적 주거 안정 및 삶의 질 향상에 기여하고자 함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "부동산 시장의 영향 및 경제적 어려움 등으로 이사가 잦아 주거 불안정을 겪는 청년들의 이사비용을 지원하여 청년들의 실질적 주거 안정 및 삶의 질 향상에 기여하고자 함",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -70669,24 +70885,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005188",
-    "name": "신혼부부 주택 전월세자금 대출이자 지원 사업",
-    "summary": "무주택 청년 신혼부부에게 주택전월세자금 대출이자를 일부 지원함으로써 주거비용 부담완화를 통해 안정된 주거 환경 및 결혼·출산 친화 환경을 조성하고 \n우리 시에 주거정착을 유도하여 청년층 인구 유출을 방지하고 인구 증가를 장려",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "무주택 청년 신혼부부에게 주택전월세자금 대출이자를 일부 지원함으로써 주거비용 부담완화를 통해 안정된 주거 환경 및 결혼·출산 친화 환경을 조성하고 \n우리 시에 주거정착을 유도하여 청년층 인구 유출을 방지하고 인구 증가를 장려",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005186",
     "name": "사립유치원 유아교육비 지원",
     "summary": "대전광역시 유아교육비를 지원함으로써 「유아교육법」 제24조의 무상교육을 실현하여 유아교육의 공공성을 강화하고 저출생․인구감소 문제를 해결하고자 함.",
@@ -70701,6 +70899,24 @@
     "amount_summary": "대전광역시 유아교육비를 지원함으로써 「유아교육법」 제24조의 무상교육을 실현하여 유아교육의 공공성을 강화하고 저출생․인구감소 문제를 해결하고자 함.",
     "categories": "영유아",
     "life_cycle": "영유아",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005188",
+    "name": "신혼부부 주택 전월세자금 대출이자 지원 사업",
+    "summary": "무주택 청년 신혼부부에게 주택전월세자금 대출이자를 일부 지원함으로써 주거비용 부담완화를 통해 안정된 주거 환경 및 결혼·출산 친화 환경을 조성하고 \n우리 시에 주거정착을 유도하여 청년층 인구 유출을 방지하고 인구 증가를 장려",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "무주택 청년 신혼부부에게 주택전월세자금 대출이자를 일부 지원함으로써 주거비용 부담완화를 통해 안정된 주거 환경 및 결혼·출산 친화 환경을 조성하고 \n우리 시에 주거정착을 유도하여 청년층 인구 유출을 방지하고 인구 증가를 장려",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -70849,24 +71065,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005141",
-    "name": "경산시 출산장려 지원에 관한 조례 개정",
-    "summary": "저출산 극복 및 양육 부담 완화 정책",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저출산 극복 및 양육 부담 완화 정책",
-    "categories": "영유아, 임신 · 출산",
-    "life_cycle": "영유아, 임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005181",
     "name": "대구광역시 서민자녀 교육지원사업",
     "summary": "서민자녀 가구의 교육비 부담 경감 정책을 마련하여 생계부담 완화, 학력향상 등 동등한 교육기회를 제공",
@@ -70881,6 +71079,24 @@
     "amount_summary": "서민자녀 가구의 교육비 부담 경감 정책을 마련하여 생계부담 완화, 학력향상 등 동등한 교육기회를 제공",
     "categories": "청소년",
     "life_cycle": "청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005141",
+    "name": "경산시 출산장려 지원에 관한 조례 개정",
+    "summary": "저출산 극복 및 양육 부담 완화 정책",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저출산 극복 및 양육 부담 완화 정책",
+    "categories": "영유아, 임신 · 출산",
+    "life_cycle": "영유아, 임신 · 출산",
     "url": ""
   },
   {
@@ -71011,24 +71227,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005057",
-    "name": "임신부 가사돌봄서비스 지원사업",
-    "summary": "출산율 저하에 따른 사회 문제에 적극 대처하기 위해 출산 전 임신부에 대한 가사돌봄서비스 제공으로 임신 단계에서부터 지원을 강화하여 건강하고 안전한 출산을 할 수 있도록 돕고자 함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "출산율 저하에 따른 사회 문제에 적극 대처하기 위해 출산 전 임신부에 대한 가사돌봄서비스 제공으로 임신 단계에서부터 지원을 강화하여 건강하고 안전한 출산을 할 수 있도록 돕고자 함",
-    "categories": "청년, 임신 · 출산",
-    "life_cycle": "청년, 임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005018",
     "name": "청년 주택임차보증금 이자 지원사업",
     "summary": "충청남도 청년들의 주거비용 부담 완화",
@@ -71043,6 +71241,24 @@
     "amount_summary": "충청남도 청년들의 주거비용 부담 완화",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00005057",
+    "name": "임신부 가사돌봄서비스 지원사업",
+    "summary": "출산율 저하에 따른 사회 문제에 적극 대처하기 위해 출산 전 임신부에 대한 가사돌봄서비스 제공으로 임신 단계에서부터 지원을 강화하여 건강하고 안전한 출산을 할 수 있도록 돕고자 함",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "출산율 저하에 따른 사회 문제에 적극 대처하기 위해 출산 전 임신부에 대한 가사돌봄서비스 제공으로 임신 단계에서부터 지원을 강화하여 건강하고 안전한 출산을 할 수 있도록 돕고자 함",
+    "categories": "청년, 임신 · 출산",
+    "life_cycle": "청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -71083,24 +71299,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004982",
-    "name": "추석절 경로당 위문품 지원",
-    "summary": "경로당 이용하는 어르신들 추석명절 위문",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "경로당 이용하는 어르신들 추석명절 위문",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004984",
     "name": "경로당 위문",
     "summary": "어르신들의 경로당 이용 활성화 및 응원",
@@ -71113,6 +71311,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "어르신들의 경로당 이용 활성화 및 응원",
+    "categories": "노년",
+    "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004982",
+    "name": "추석절 경로당 위문품 지원",
+    "summary": "경로당 이용하는 어르신들 추석명절 위문",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "경로당 이용하는 어르신들 추석명절 위문",
     "categories": "노년",
     "life_cycle": "노년",
     "url": ""
@@ -71173,24 +71389,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004908",
-    "name": "탐나는인재 훈련(프로젝트) 수당",
-    "summary": "제주의 내일을 만들어 갈 청년들을 대상으로 선지원 후숙련 프로그램 제공을 통한 제주형 청년 혁신인재 육성 및 취창업 연계 지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "제주의 내일을 만들어 갈 청년들을 대상으로 선지원 후숙련 프로그램 제공을 통한 제주형 청년 혁신인재 육성 및 취창업 연계 지원",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004911",
     "name": "현장체험학습비 지원",
     "summary": "현장체험학습 지원을 통한 심리·사회성 함양 및 인천교육 회복",
@@ -71205,6 +71403,24 @@
     "amount_summary": "현장체험학습 지원을 통한 심리·사회성 함양 및 인천교육 회복",
     "categories": "노년, 청소년, 청년, 아동, 중장년",
     "life_cycle": "노년, 청소년, 청년, 아동, 중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004908",
+    "name": "탐나는인재 훈련(프로젝트) 수당",
+    "summary": "제주의 내일을 만들어 갈 청년들을 대상으로 선지원 후숙련 프로그램 제공을 통한 제주형 청년 혁신인재 육성 및 취창업 연계 지원",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "제주의 내일을 만들어 갈 청년들을 대상으로 선지원 후숙련 프로그램 제공을 통한 제주형 청년 혁신인재 육성 및 취창업 연계 지원",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -71263,24 +71479,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004910",
-    "name": "저소득 건강보험료 지원(노인, 장애인, 한부모)",
-    "summary": "「국민건강보험법」·「장기요양보험법」에 의한 보험료 납부에 어려움을 겪는 저소득층에게 보험료를 지원함으로써 의료보장의 사각지대를 해소하\n고 의료 이용 및 건강 수준의 계층 간 격차를 줄여 안산시민의 건강 증진과 복지향상에 기여함을 목적으로 한다.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "「국민건강보험법」·「장기요양보험법」에 의한 보험료 납부에 어려움을 겪는 저소득층에게 보험료를 지원함으로써 의료보장의 사각지대를 해소하\n고 의료 이용 및 건강 수준의 계층 간 격차를 줄여 안산시민의 건강 증진과 복지향상에 기여함을 목적으로 한다.",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004928",
     "name": "초등학교 입학준비금",
     "summary": "초등학교 입학생 학부모의 부담 경감",
@@ -71295,6 +71493,24 @@
     "amount_summary": "초등학교 입학생 학부모의 부담 경감",
     "categories": "아동",
     "life_cycle": "아동",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004910",
+    "name": "저소득 건강보험료 지원(노인, 장애인, 한부모)",
+    "summary": "「국민건강보험법」·「장기요양보험법」에 의한 보험료 납부에 어려움을 겪는 저소득층에게 보험료를 지원함으로써 의료보장의 사각지대를 해소하\n고 의료 이용 및 건강 수준의 계층 간 격차를 줄여 안산시민의 건강 증진과 복지향상에 기여함을 목적으로 한다.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "「국민건강보험법」·「장기요양보험법」에 의한 보험료 납부에 어려움을 겪는 저소득층에게 보험료를 지원함으로써 의료보장의 사각지대를 해소하\n고 의료 이용 및 건강 수준의 계층 간 격차를 줄여 안산시민의 건강 증진과 복지향상에 기여함을 목적으로 한다.",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -71515,24 +71731,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004778",
-    "name": "저소득 한부모가족 명절위문금 지원",
-    "summary": "명절을 맞아 저소득 한부모가족 가구에게 명절 위문금을 제공하여 행복한 명절을 맞이하기위해 지원하고자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "명절을 맞아 저소득 한부모가족 가구에게 명절 위문금을 제공하여 행복한 명절을 맞이하기위해 지원하고자 함.",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004771",
     "name": "산후조리비용 지원사업",
     "summary": "출산 산모의 산후조리를 도와 산후회복과 신생아의 양육을 지원하여 출산가정의 경제적 부담 경감과  모성건강 도모",
@@ -71547,6 +71745,24 @@
     "amount_summary": "출산 산모의 산후조리를 도와 산후회복과 신생아의 양육을 지원하여 출산가정의 경제적 부담 경감과  모성건강 도모",
     "categories": "임신 · 출산, 청년",
     "life_cycle": "임신 · 출산, 청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004778",
+    "name": "저소득 한부모가족 명절위문금 지원",
+    "summary": "명절을 맞아 저소득 한부모가족 가구에게 명절 위문금을 제공하여 행복한 명절을 맞이하기위해 지원하고자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "명절을 맞아 저소득 한부모가족 가구에게 명절 위문금을 제공하여 행복한 명절을 맞이하기위해 지원하고자 함.",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -71605,24 +71821,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004992",
-    "name": "나눔경로식당",
-    "summary": "식사를 거를 우려가 있는 어르신들의 기본적 생계를 보장하고 복지사각지대를 해소하고자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "식사를 거를 우려가 있는 어르신들의 기본적 생계를 보장하고 복지사각지대를 해소하고자 함.",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004902",
     "name": "청년 주거자금 대출이자 지원사업",
     "summary": "청년층 출산가정, 신혼부부, 청년 단독 거주자 주거비 부담 완화 및 안정된 정주 여건 조성으로 인구 감소 문제 해결과 군민 삶의 질 향상을 위함.",
@@ -71637,6 +71835,24 @@
     "amount_summary": "청년층 출산가정, 신혼부부, 청년 단독 거주자 주거비 부담 완화 및 안정된 정주 여건 조성으로 인구 감소 문제 해결과 군민 삶의 질 향상을 위함.",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004992",
+    "name": "나눔경로식당",
+    "summary": "식사를 거를 우려가 있는 어르신들의 기본적 생계를 보장하고 복지사각지대를 해소하고자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "식사를 거를 우려가 있는 어르신들의 기본적 생계를 보장하고 복지사각지대를 해소하고자 함.",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -72937,24 +73153,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003330",
-    "name": "음성군 영주귀국 사할린한인 생활안정 지원",
-    "summary": "영주귀국 사할린한인의 안정적 정착 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "영주귀국 사할린한인의 안정적 정착 도모",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00003089",
     "name": "임산부 진료비 플러스 사업",
     "summary": "경제적 부담 경감 및 출산 친화적 사회분위기 조성으로 출산율 안정에 기여",
@@ -72969,6 +73167,24 @@
     "amount_summary": "경제적 부담 경감 및 출산 친화적 사회분위기 조성으로 출산율 안정에 기여",
     "categories": "청년",
     "life_cycle": "청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003330",
+    "name": "음성군 영주귀국 사할린한인 생활안정 지원",
+    "summary": "영주귀국 사할린한인의 안정적 정착 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "영주귀국 사할린한인의 안정적 정착 도모",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -73387,24 +73603,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003627",
-    "name": "산모신생아건강관리사예외지원 확대실시사업",
-    "summary": "산모신생아 건강증진 및 출산가정의 경제적 부담경감(아이낳기 좋은 환경조성)\n대상자 가정에서 방문산후도우미 서비스를 이용함으로써 신생아 집단감염 차단\n출산장려 정책 확대로 저출산 극복과 사회적 일자리 창출",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "산모신생아 건강증진 및 출산가정의 경제적 부담경감(아이낳기 좋은 환경조성)\n대상자 가정에서 방문산후도우미 서비스를 이용함으로써 신생아 집단감염 차단\n출산장려 정책 확대로 저출산 극복과 사회적 일자리 창출",
-    "categories": "청소년, 청년",
-    "life_cycle": "청소년, 청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00003714",
     "name": "신혼부부 임대주택 주거비 지원사업",
     "summary": "나주시 저출산 고령사회 대응에 관한조례 제정과 관련 나주시에 거주하며 무주택 신혼부부에게 주거비 일부를 지원함으로써 신혼초기 주거 정착을 유도하여 출산장려를 통해 인구증대에 목적이 있음.",
@@ -73419,6 +73617,24 @@
     "amount_summary": "나주시 저출산 고령사회 대응에 관한조례 제정과 관련 나주시에 거주하며 무주택 신혼부부에게 주거비 일부를 지원함으로써 신혼초기 주거 정착을 유도하여 출산장려를 통해 인구증대에 목적이 있음.",
     "categories": "중장년, 청년",
     "life_cycle": "중장년, 청년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003627",
+    "name": "산모신생아건강관리사예외지원 확대실시사업",
+    "summary": "산모신생아 건강증진 및 출산가정의 경제적 부담경감(아이낳기 좋은 환경조성)\n대상자 가정에서 방문산후도우미 서비스를 이용함으로써 신생아 집단감염 차단\n출산장려 정책 확대로 저출산 극복과 사회적 일자리 창출",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "산모신생아 건강증진 및 출산가정의 경제적 부담경감(아이낳기 좋은 환경조성)\n대상자 가정에서 방문산후도우미 서비스를 이용함으로써 신생아 집단감염 차단\n출산장려 정책 확대로 저출산 극복과 사회적 일자리 창출",
+    "categories": "청소년, 청년",
+    "life_cycle": "청소년, 청년",
     "url": ""
   },
   {
@@ -73471,8 +73687,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "구례군 임신, 출산 및 양육 장려",
-    "categories": "청소년, 청년, 중장년",
-    "life_cycle": "청소년, 청년, 중장년",
+    "categories": "청소년, 중장년, 청년",
+    "life_cycle": "청소년, 중장년, 청년",
     "url": ""
   },
   {
@@ -73567,24 +73783,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003367",
-    "name": "신혼부부 및 자녀출산가정 주택자금 대출이자 지원",
-    "summary": "신혼부부 및 자녀출산 가정에 대한 주거비용 부담 완화로 결혼 및 출산장려 분위기 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "신혼부부 및 자녀출산 가정에 대한 주거비용 부담 완화로 결혼 및 출산장려 분위기 조성",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002707",
     "name": "안산 행복플러스카드",
     "summary": "출산 친화적인 사회 분위기 조성을 위하여 다자녀가정 및 임산부에 공공시설 사용료를 감면하여 경제적 부담을 완화하고 출산을 장려하고 함",
@@ -73599,6 +73797,24 @@
     "amount_summary": "출산 친화적인 사회 분위기 조성을 위하여 다자녀가정 및 임산부에 공공시설 사용료를 감면하여 경제적 부담을 완화하고 출산을 장려하고 함",
     "categories": "아동, 영유아, 청소년",
     "life_cycle": "아동, 영유아, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003367",
+    "name": "신혼부부 및 자녀출산가정 주택자금 대출이자 지원",
+    "summary": "신혼부부 및 자녀출산 가정에 대한 주거비용 부담 완화로 결혼 및 출산장려 분위기 조성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "신혼부부 및 자녀출산 가정에 대한 주거비용 부담 완화로 결혼 및 출산장려 분위기 조성",
+    "categories": "청년, 중장년",
+    "life_cycle": "청년, 중장년",
     "url": ""
   },
   {
@@ -73801,24 +74017,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00002430",
-    "name": "청송군 교복구입비 지원",
-    "summary": "지역의 중고등학교 신입생에게 교복구입비를 지원하여 학부모의 교육비 부담 경감",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "지역의 중고등학교 신입생에게 교복구입비를 지원하여 학부모의 교육비 부담 경감",
-    "categories": "청소년",
-    "life_cycle": "청소년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00001336",
     "name": "가평군 중고등학생 교통비 지원",
     "summary": "농어촌학교 학생들의 교육기회 보장 및 학부모의 경제적 부담 경감으로 학생들의 교육여건을 개선",
@@ -73831,6 +74029,24 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "농어촌학교 학생들의 교육기회 보장 및 학부모의 경제적 부담 경감으로 학생들의 교육여건을 개선",
+    "categories": "청소년",
+    "life_cycle": "청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00002430",
+    "name": "청송군 교복구입비 지원",
+    "summary": "지역의 중고등학교 신입생에게 교복구입비를 지원하여 학부모의 교육비 부담 경감",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "지역의 중고등학교 신입생에게 교복구입비를 지원하여 학부모의 교육비 부담 경감",
     "categories": "청소년",
     "life_cycle": "청소년",
     "url": ""
@@ -74065,26 +74281,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가보훈대상자에 대한 예우와 지원",
-    "categories": "중장년, 노년",
-    "life_cycle": "중장년, 노년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00004509",
-    "name": "출산양육장려금품 지원사업",
-    "summary": "출산장려",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "출산장려",
-    "categories": "영유아, 임신 · 출산",
-    "life_cycle": "영유아, 임신 · 출산",
+    "categories": "노년, 중장년",
+    "life_cycle": "노년, 중장년",
     "url": ""
   },
   {
@@ -74103,6 +74301,24 @@
     "amount_summary": "저소득계층으로 보험료 부과금액이 최저보험료 이하인 세대로서 만 65세 이상인 노인세대, 장애인세대, 한부모세대, 소년소녀가장세대에게 건강보험료를 지원하여 군민의 건강증진과 복지향상 도모",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00004509",
+    "name": "출산양육장려금품 지원사업",
+    "summary": "출산장려",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "출산장려",
+    "categories": "영유아, 임신 · 출산",
+    "life_cycle": "영유아, 임신 · 출산",
     "url": ""
   },
   {
@@ -74143,6 +74359,24 @@
   },
   {
     "source": "local",
+    "id": "WLF00002994",
+    "name": "중증장애인 택시요금 할인카드 지원",
+    "summary": "중증장애인들에게 택시요금 할인지원 사업을 통해 중증장애인의 교통비 부담을 경감하고, 이동권을 보장함으로서 사회활동 참여와 자립생활을 기회를 제공함으로서 삶의 질 향상에 기어코자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "중증장애인들에게 택시요금 할인지원 사업을 통해 중증장애인의 교통비 부담을 경감하고, 이동권을 보장함으로서 사회활동 참여와 자립생활을 기회를 제공함으로서 삶의 질 향상에 기어코자 함.",
+    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "url": ""
+  },
+  {
+    "source": "local",
     "id": "WLF00004398",
     "name": "태아기형아검사비 지원",
     "summary": "출생아 감소, 저출산 해소를 위한 다양한 지원 방안 모색 필요\n태아기형아 검사비를 지원하여 선천성기형을 조기 발견하고 치료 \n및 재활로 연계시킴으로써 임신에 대한 사회적 지원 강화",
@@ -74157,24 +74391,6 @@
     "amount_summary": "출생아 감소, 저출산 해소를 위한 다양한 지원 방안 모색 필요\n태아기형아 검사비를 지원하여 선천성기형을 조기 발견하고 치료 \n및 재활로 연계시킴으로써 임신에 대한 사회적 지원 강화",
     "categories": "중장년",
     "life_cycle": "중장년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00002994",
-    "name": "중증장애인 택시요금 할인카드 지원",
-    "summary": "중증장애인들에게 택시요금 할인지원 사업을 통해 중증장애인의 교통비 부담을 경감하고, 이동권을 보장함으로서 사회활동 참여와 자립생활을 기회를 제공함으로서 삶의 질 향상에 기어코자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "중증장애인들에게 택시요금 할인지원 사업을 통해 중증장애인의 교통비 부담을 경감하고, 이동권을 보장함으로서 사회활동 참여와 자립생활을 기회를 제공함으로서 삶의 질 향상에 기어코자 함.",
-    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -74695,8 +74911,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인연금 자산기준에는 적합하나 장애 진단비용 등의 부담으로 장애인연금을 신청하지 못하는 중증장애인에게 진단 및 검사비용을 지원합니다.\n보건복지부 저소득 장애인 진단비 및 검사비 지원사업 대상자는 제외됩니다.",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -74773,24 +74989,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003816",
-    "name": "보훈명예수당 지원",
-    "summary": "국가를 위해 희생하고 공헌하신 국가유공자 본인 및 유족을 예우하고자 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "국가를 위해 희생하고 공헌하신 국가유공자 본인 및 유족을 예우하고자 함.",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004500",
     "name": "보훈명예수당 지원",
     "summary": "밀양시에 거주하는 국가보훈대상자(단, 참전, 유족명예수당 지급대상자는 제외)",
@@ -74805,6 +75003,24 @@
     "amount_summary": "밀양시에 거주하는 국가보훈대상자(단, 참전, 유족명예수당 지급대상자는 제외)",
     "categories": "",
     "life_cycle": "",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003816",
+    "name": "보훈명예수당 지원",
+    "summary": "국가를 위해 희생하고 공헌하신 국가유공자 본인 및 유족을 예우하고자 함.",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "국가를 위해 희생하고 공헌하신 국가유공자 본인 및 유족을 예우하고자 함.",
+    "categories": "노년",
+    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -75631,8 +75847,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "심한장애인을 대상으로 상해보험을 가입하여 일상생활에서 발생할 수 있는 안전사고 피해로부터 경제적 어려움을 해소하고, 안정된 사회생활 도모",
-    "categories": "노년, 중장년, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 청소년, 청년",
+    "categories": "중장년, 노년, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 청소년, 청년",
     "url": ""
   },
   {
@@ -76171,8 +76387,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인이 고속도로통행료 할인카드 발급 시 부담하던 수수료(4,000원)를 군 자체예산으로 편성 지원하여 장애인 복지증진에 기여",
-    "categories": "노년, 영유아, 아동, 청년, 중장년, 청소년",
-    "life_cycle": "노년, 영유아, 아동, 청년, 중장년, 청소년",
+    "categories": "노년, 영유아, 아동, 중장년, 청년, 청소년",
+    "life_cycle": "노년, 영유아, 아동, 중장년, 청년, 청소년",
     "url": ""
   },
   {
@@ -76261,8 +76477,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "효 문화 발전 및 효 장려를 위해 4대가구 동거가족에게 효행수당을 지급",
-    "categories": "청년, 중장년, 청소년, 노년, 아동, 영유아",
-    "life_cycle": "청년, 중장년, 청소년, 노년, 아동, 영유아",
+    "categories": "중장년, 청년, 청소년, 노년, 아동, 영유아",
+    "life_cycle": "중장년, 청년, 청소년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -76297,8 +76513,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "- 청각장애인의 재활치료 지원으로 의료비 부담 경감 및 사회, 경제 활동 활성화 도모.",
-    "categories": "노년, 중장년, 영유아, 아동, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청소년, 청년",
+    "categories": "중장년, 노년, 영유아, 아동, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 영유아, 아동, 청소년, 청년",
     "url": ""
   },
   {
@@ -76357,24 +76573,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003560",
-    "name": "한부모가정위문",
-    "summary": "저소득 한부모가정 명절 위문품 지원(7만원 상당/2회/가구)",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저소득 한부모가정 명절 위문품 지원(7만원 상당/2회/가구)",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00000314",
     "name": "자연장 운영관리",
     "summary": "광주시 장사시설(공설 자연장) 관리",
@@ -76389,6 +76587,24 @@
     "amount_summary": "광주시 장사시설(공설 자연장) 관리",
     "categories": "노년",
     "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003560",
+    "name": "한부모가정위문",
+    "summary": "저소득 한부모가정 명절 위문품 지원(7만원 상당/2회/가구)",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "저소득 한부모가정 명절 위문품 지원(7만원 상당/2회/가구)",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -76531,8 +76747,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민의 생활안정 지원",
-    "categories": "청년, 청소년, 노년, 중장년, 아동, 영유아",
-    "life_cycle": "청년, 청소년, 노년, 중장년, 아동, 영유아",
+    "categories": "청년, 청소년, 중장년, 노년, 아동, 영유아",
+    "life_cycle": "청년, 청소년, 중장년, 노년, 아동, 영유아",
     "url": ""
   },
   {
@@ -76879,24 +77095,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00001400",
-    "name": "행려자 처리(귀향여비)",
-    "summary": "행려자 귀향여비 지급",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "행려자 귀향여비 지급",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002794",
     "name": "가정위탁아동 격려품 지원",
     "summary": "가정위탁아동이 따뜻한 이웃의 정을 느끼고 밝게 성장할 수 있도록 격려품 지원(설,추석,가정의 달,연말)\n\n인당 문화상품권 5만원 지원",
@@ -76911,6 +77109,24 @@
     "amount_summary": "가정위탁아동이 따뜻한 이웃의 정을 느끼고 밝게 성장할 수 있도록 격려품 지원(설,추석,가정의 달,연말)\n\n인당 문화상품권 5만원 지원",
     "categories": "청소년, 아동",
     "life_cycle": "청소년, 아동",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00001400",
+    "name": "행려자 처리(귀향여비)",
+    "summary": "행려자 귀향여비 지급",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "행려자 귀향여비 지급",
+    "categories": "",
+    "life_cycle": "",
     "url": ""
   },
   {
@@ -77107,8 +77323,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 주민 건강보험료 및 장기요양보험료 지원",
-    "categories": "청년, 청소년, 중장년, 노년, 영유아, 아동",
-    "life_cycle": "청년, 청소년, 중장년, 노년, 영유아, 아동",
+    "categories": "청년, 청소년, 노년, 중장년, 영유아, 아동",
+    "life_cycle": "청년, 청소년, 노년, 중장년, 영유아, 아동",
     "url": ""
   },
   {
@@ -77179,8 +77395,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득층 돌발위기 가정 지원",
-    "categories": "아동, 영유아, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 영유아, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 영유아, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 영유아, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -77233,8 +77449,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 소외계층의 생활현장을 직접 방문하여 불편사항을 해결해 줌으로써 삶의 질 향상을 도모하고, \n필요한 서비스를 연계·지원하여 맞춤형 복지서비스 제공으로 수요자 중심의 복지행정 실현",
-    "categories": "청소년, 청년, 노년, 중장년, 영유아, 아동",
-    "life_cycle": "청소년, 청년, 노년, 중장년, 영유아, 아동",
+    "categories": "청소년, 청년, 중장년, 노년, 영유아, 아동",
+    "life_cycle": "청소년, 청년, 중장년, 노년, 영유아, 아동",
     "url": ""
   },
   {
@@ -77287,8 +77503,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "복지사각지대에 놓인 저소득대상자의 생계. 의료 지원",
-    "categories": "중장년, 노년, 아동, 영유아, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 아동, 영유아, 청년, 청소년",
+    "categories": "노년, 중장년, 아동, 영유아, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 아동, 영유아, 청년, 청소년",
     "url": ""
   },
   {
@@ -77305,8 +77521,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "결혼이민자들의 안정적인 정착 지원 및 경제적 자립 도모 위한 어린이집 급식도우미 채용",
-    "categories": "청년, 중장년",
-    "life_cycle": "청년, 중장년",
+    "categories": "중장년, 청년",
+    "life_cycle": "중장년, 청년",
     "url": ""
   },
   {
@@ -77503,8 +77719,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "생활에 어려움을 겪는 저소득주민에게 국민건강보험료 및 장기요양보험료를 지원함으로써 건강증진과 사회복지 향상 도모",
-    "categories": "노년, 중장년, 아동, 영유아, 청소년, 청년",
-    "life_cycle": "노년, 중장년, 아동, 영유아, 청소년, 청년",
+    "categories": "중장년, 노년, 아동, 영유아, 청소년, 청년",
+    "life_cycle": "중장년, 노년, 아동, 영유아, 청소년, 청년",
     "url": ""
   },
   {
@@ -77653,24 +77869,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003122",
-    "name": "가정위탁아동 양육보조금 지원",
-    "summary": "부모의 사망, 기타사유로 인해 발생된 요보호아동을 위탁하는 가정에 대한 지원으로 아동의 건전한 성장 도모",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "부모의 사망, 기타사유로 인해 발생된 요보호아동을 위탁하는 가정에 대한 지원으로 아동의 건전한 성장 도모",
-    "categories": "아동",
-    "life_cycle": "아동",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00000179",
     "name": "어린이날 위문",
     "summary": "아동복지시설 재원 아동에 대한 어린이날 위문",
@@ -77685,6 +77883,24 @@
     "amount_summary": "아동복지시설 재원 아동에 대한 어린이날 위문",
     "categories": "청소년, 아동",
     "life_cycle": "청소년, 아동",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003122",
+    "name": "가정위탁아동 양육보조금 지원",
+    "summary": "부모의 사망, 기타사유로 인해 발생된 요보호아동을 위탁하는 가정에 대한 지원으로 아동의 건전한 성장 도모",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "부모의 사망, 기타사유로 인해 발생된 요보호아동을 위탁하는 가정에 대한 지원으로 아동의 건전한 성장 도모",
+    "categories": "아동",
+    "life_cycle": "아동",
     "url": ""
   },
   {
@@ -78157,24 +78373,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00002725",
-    "name": "장애인가정 출산지원금 지원",
-    "summary": "장애인가정의 산모와 신생아의 건강관리를 지원하여 생활안정을 도모하고 저출산 시대의 사회적 문제 해소에 기여",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "장애인가정의 산모와 신생아의 건강관리를 지원하여 생활안정을 도모하고 저출산 시대의 사회적 문제 해소에 기여",
-    "categories": "중장년, 청년, 임신 · 출산",
-    "life_cycle": "중장년, 청년, 임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00003425",
     "name": "저소득층 국민건강, 장기요양보험료 지원",
     "summary": "65세이상 노인ㆍ장애ㆍ한부모가정 등  저소득계층에게 국민건강보험료 및 장기요양보험료를 지원함으로써 군민의 건강증진과 복지향상 도모를 목적으로 함.",
@@ -78189,6 +78387,24 @@
     "amount_summary": "65세이상 노인ㆍ장애ㆍ한부모가정 등  저소득계층에게 국민건강보험료 및 장기요양보험료를 지원함으로써 군민의 건강증진과 복지향상 도모를 목적으로 함.",
     "categories": "청년, 중장년, 노년",
     "life_cycle": "청년, 중장년, 노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00002725",
+    "name": "장애인가정 출산지원금 지원",
+    "summary": "장애인가정의 산모와 신생아의 건강관리를 지원하여 생활안정을 도모하고 저출산 시대의 사회적 문제 해소에 기여",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "장애인가정의 산모와 신생아의 건강관리를 지원하여 생활안정을 도모하고 저출산 시대의 사회적 문제 해소에 기여",
+    "categories": "중장년, 청년, 임신 · 출산",
+    "life_cycle": "중장년, 청년, 임신 · 출산",
     "url": ""
   },
   {
@@ -80641,24 +80857,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003760",
-    "name": "충북행복결혼공제사업",
-    "summary": "청년층 결혼장려를 통한 출산율 제고, 중소(중견)기업 장기근속 유도 및 청년농업인‧청년소상공인 육성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "청년층 결혼장려를 통한 출산율 제고, 중소(중견)기업 장기근속 유도 및 청년농업인‧청년소상공인 육성",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002704",
     "name": "대상포진 예방접종 지원사업",
     "summary": "65세 이상 어르신에게 대상포진 예방접종 비용을 지원함으로써 접종으로 인한 비용 부담을 경감시키고 질병 예방을 통한 삶의 질 향상 도모",
@@ -80673,6 +80871,24 @@
     "amount_summary": "65세 이상 어르신에게 대상포진 예방접종 비용을 지원함으로써 접종으로 인한 비용 부담을 경감시키고 질병 예방을 통한 삶의 질 향상 도모",
     "categories": "노년",
     "life_cycle": "노년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00003760",
+    "name": "충북행복결혼공제사업",
+    "summary": "청년층 결혼장려를 통한 출산율 제고, 중소(중견)기업 장기근속 유도 및 청년농업인‧청년소상공인 육성",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "청년층 결혼장려를 통한 출산율 제고, 중소(중견)기업 장기근속 유도 및 청년농업인‧청년소상공인 육성",
+    "categories": "청년",
+    "life_cycle": "청년",
     "url": ""
   },
   {
@@ -80785,24 +81001,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00002998",
-    "name": "고혈압·당뇨 등록관리사업(진료비 지원)",
-    "summary": "횡성군 관내 의료기관과 연계하여 고혈압·당뇨환자의 지속 치료율 및 자가 관리능력 향상\n - 전산시스템을 통한 고혈압·당뇨병 환자 등록관리\n - 지속치료 유도를 위해 고혈압·당뇨병 진료비 지원\n - 자가 관리능력 강화를 위한 질환 및 영양 교육 제공",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "횡성군 관내 의료기관과 연계하여 고혈압·당뇨환자의 지속 치료율 및 자가 관리능력 향상\n - 전산시스템을 통한 고혈압·당뇨병 환자 등록관리\n - 지속치료 유도를 위해 고혈압·당뇨병 진료비 지원\n - 자가 관리능력 강화를 위한 질환 및 영양 교육 제공",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004496",
     "name": "한방난임부부 지원사업",
     "summary": "사회적 환경적 요인으로 증가하고 있는 난임부부에게 한의약 이용한 난임치료를 통하여 임신의 가능성을 높이고 저출산 시대에 출산율 향상에 기여하기 위한 사업입니다.",
@@ -80817,6 +81015,24 @@
     "amount_summary": "사회적 환경적 요인으로 증가하고 있는 난임부부에게 한의약 이용한 난임치료를 통하여 임신의 가능성을 높이고 저출산 시대에 출산율 향상에 기여하기 위한 사업입니다.",
     "categories": "중장년",
     "life_cycle": "중장년",
+    "url": ""
+  },
+  {
+    "source": "local",
+    "id": "WLF00002998",
+    "name": "고혈압·당뇨 등록관리사업(진료비 지원)",
+    "summary": "횡성군 관내 의료기관과 연계하여 고혈압·당뇨환자의 지속 치료율 및 자가 관리능력 향상\n - 전산시스템을 통한 고혈압·당뇨병 환자 등록관리\n - 지속치료 유도를 위해 고혈압·당뇨병 진료비 지원\n - 자가 관리능력 강화를 위한 질환 및 영양 교육 제공",
+    "dept": "",
+    "ministry": "",
+    "region": "",
+    "apply_start": "",
+    "apply_end": "",
+    "apply_type": "",
+    "support_type": "",
+    "target_summary": "",
+    "amount_summary": "횡성군 관내 의료기관과 연계하여 고혈압·당뇨환자의 지속 치료율 및 자가 관리능력 향상\n - 전산시스템을 통한 고혈압·당뇨병 환자 등록관리\n - 지속치료 유도를 위해 고혈압·당뇨병 진료비 지원\n - 자가 관리능력 강화를 위한 질환 및 영양 교육 제공",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -80995,8 +81211,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인활동지원 국고보조지원 및 서울시추가지원을 받고 있는 대상자 중  기능제한점수 400점이상 최중증장애인 또는 만19세 이상 성인발달장애인(x1점수 중 인지행동특성점수 47점 이상)에게 매월 50시간 또는 30시간 추가지원함으로써 장애인 가족의 부담을 줄이고 발달장애인의 자립생활과 사회참여 증진에 기여하고자 함",
-    "categories": "중장년, 노년, 청년",
-    "life_cycle": "중장년, 노년, 청년",
+    "categories": "노년, 중장년, 청년",
+    "life_cycle": "노년, 중장년, 청년",
     "url": ""
   },
   {
@@ -81571,8 +81787,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "거리에서 생활하는 노숙인에 한 해  응급이송, 상담 및 욕구 파악을 통한 유형별 시설입소의뢰,유관기관연계 등을 통해 탈노숙을 지원하고자 함",
-    "categories": "노년, 중장년, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 청년, 청소년",
+    "categories": "중장년, 노년, 청년, 청소년",
+    "life_cycle": "중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -81661,8 +81877,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 실업자에게 한시적인 일자리 창출로 최소한의 생계를 \n보장하여 참여자가 새로운 직장을 구할 수 있는 기회를 제공",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -82309,8 +82525,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득 장애인의 경제적 부담 경감으로 생활안정 도모",
-    "categories": "청소년, 청년, 아동, 노년, 중장년",
-    "life_cycle": "청소년, 청년, 아동, 노년, 중장년",
+    "categories": "청소년, 청년, 아동, 중장년, 노년",
+    "life_cycle": "청소년, 청년, 아동, 중장년, 노년",
     "url": ""
   },
   {
@@ -82507,8 +82723,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국민기초생활보장법상의 수급권자가 아닌, 저소득 틈새계층 중 건강보험료를 납부하지 못하여 의료사각지대에 놓인 구민들에게 국민건강보험료를 지원함으로써 건강증진과 복지향상에 기여",
-    "categories": "중장년, 노년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "중장년, 노년, 영유아, 아동, 청년, 청소년",
+    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
+    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -83485,24 +83701,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00004791",
-    "name": "4차산업칼리지 청년인턴 지원사업",
-    "summary": "4차산업혁명 시대를 맞아 핵심분야인 AI교육과정을 운영하여 수료생들을 취업연계하여 청년 일자리 창출에 기여하고자 함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "4차산업혁명 시대를 맞아 핵심분야인 AI교육과정을 운영하여 수료생들을 취업연계하여 청년 일자리 창출에 기여하고자 함",
-    "categories": "청년",
-    "life_cycle": "청년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00004685",
     "name": "이천시 화장장려금 지원",
     "summary": "이천시 화장시설 부재에 따른 시민 불편 및 부담을 완화하고 친환경 장사문화 확산을 위해 화장장려금 지급",
@@ -83623,8 +83821,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "이동에 상당한 제약이 있는 장애인에게 차량운행을 통해 직장 출퇴근, 외출보조 및 병원이용 보조 등 각종 이동서비스 지원으로 장애인의 사회 활동기회 확대",
-    "categories": "청소년, 청년, 중장년, 노년, 아동, 영유아",
-    "life_cycle": "청소년, 청년, 중장년, 노년, 아동, 영유아",
+    "categories": "청소년, 청년, 노년, 중장년, 아동, 영유아",
+    "life_cycle": "청소년, 청년, 노년, 중장년, 아동, 영유아",
     "url": ""
   },
   {
@@ -83643,24 +83841,6 @@
     "amount_summary": "장애인이 생활함에 있어 안전하고 편리하게 시설 및 설비를 이용하고 정보에 접근하도록 보장",
     "categories": "",
     "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00000927",
-    "name": "국민건강보험료 지원",
-    "summary": "일정 기준 이하의 국민건강보험료를 납부하는 세대에 대한 보험료 지원을 통한 경제적 부담 경감",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "일정 기준 이하의 국민건강보험료를 납부하는 세대에 대한 보험료 지원을 통한 경제적 부담 경감",
-    "categories": "노년, 중장년, 영유아, 아동, 청년, 청소년",
-    "life_cycle": "노년, 중장년, 영유아, 아동, 청년, 청소년",
     "url": ""
   },
   {
@@ -83731,24 +83911,6 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "「군산시 인구정책 기본 조례」 제2조제2호에 따른 다자녀 가정(주민등록표상 동일 세대원인 경우에 한함)에게 요금을 감면할 수 있다",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00005694",
-    "name": "전입축하선물지급",
-    "summary": "인구감소 등 사회문제에 적극대처하고 인구증가를 위한 시책 지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "인구감소 등 사회문제에 적극대처하고 인구증가를 위한 시책 지원",
     "categories": "",
     "life_cycle": "",
     "url": ""
@@ -83827,24 +83989,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00003091",
-    "name": "화장장려금지원",
-    "summary": "관내에 화장장 시설이 없어 타지역의 화장장을 이용하는 시민들에게 화장 장려금을 지원하여 장묘문화 개선사업에 적극 동참토록 하기 위함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "관내에 화장장 시설이 없어 타지역의 화장장을 이용하는 시민들에게 화장 장려금을 지원하여 장묘문화 개선사업에 적극 동참토록 하기 위함",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00000581",
     "name": "휠체어택시 운영",
     "summary": "장애인의 이동권보장 및 편의제공",
@@ -83857,8 +84001,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "장애인의 이동권보장 및 편의제공",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "노년, 청년, 중장년",
+    "life_cycle": "노년, 청년, 중장년",
     "url": ""
   },
   {
@@ -84057,24 +84201,6 @@
     "amount_summary": "경제적, 의료적, 정서적으로 복합적인 문제점을 안고 있는 대상자에게 복지뿐만 아니라 보건, 교육, 주거 등의 다양한 서비스를 \n맞춤형(공적부조 및 민간자원 연계등)으로 제공해 문제가 해결될 수 있도록 도움을 드리는 사업",
     "categories": "",
     "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00000227",
-    "name": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원",
-    "summary": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원를 통한 생계지원",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "저소득한부모가족/소년소녀가정·가정위탁아동 생활용품지원를 통한 생계지원",
-    "categories": "아동, 청소년",
-    "life_cycle": "아동, 청소년",
     "url": ""
   },
   {
@@ -84379,8 +84505,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위하여 희생하거나 공헌한 국가유공자분들의 노고에 대한 감사 및 자긍심 제고",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -84399,24 +84525,6 @@
     "amount_summary": "다문화 가족 자격취득비 지원으로 정착지원",
     "categories": "청년, 중장년",
     "life_cycle": "청년, 중장년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00002815",
-    "name": "일반아동 보육료 차액지원",
-    "summary": "정부미지원시설인 민간·가정어린이집을 이용하고 있는 3~5세 아동에 대한 보육료 차액 지원을 통해 보호자의 육아 부담 해소와 건전한 양육 분위기를 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "정부미지원시설인 민간·가정어린이집을 이용하고 있는 3~5세 아동에 대한 보육료 차액 지원을 통해 보호자의 육아 부담 해소와 건전한 양육 분위기를 조성",
-    "categories": "영유아",
-    "life_cycle": "영유아",
     "url": ""
   },
   {
@@ -85099,8 +85207,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "전 군민 인플루엔자 예방접종을 실시하여 인플루엔자 유행감소시키고 사회적, 경제적 질병부담을 줄여 군민보건 향상시키고 인플루엔자예방접종 위탁사업으로 분산접종하여 피접종자 편의성 향상및 안전한 접종 시행",
-    "categories": "아동, 중장년, 노년, 청소년, 청년",
-    "life_cycle": "아동, 중장년, 노년, 청소년, 청년",
+    "categories": "아동, 노년, 중장년, 청소년, 청년",
+    "life_cycle": "아동, 노년, 중장년, 청소년, 청년",
     "url": ""
   },
   {
@@ -85441,8 +85549,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "의로운 군민 등의 숭고한 뜻을 기리고 보은군 군민들의 귀감으로 삼아 사회정의 실현에 이바지하기 위함.",
-    "categories": "아동, 노년, 중장년, 청년, 청소년",
-    "life_cycle": "아동, 노년, 중장년, 청년, 청소년",
+    "categories": "아동, 중장년, 노년, 청년, 청소년",
+    "life_cycle": "아동, 중장년, 노년, 청년, 청소년",
     "url": ""
   },
   {
@@ -85465,24 +85573,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00001578",
-    "name": "가스안전기기(타이머콕) 보급사업",
-    "summary": "가스사고에 취약한 65세이상 노인가구 등에 가스안전기기(타이머콕) 보급하여 가스안전 확보 및 서민층 생활안정에 기여하기 위함",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "가스사고에 취약한 65세이상 노인가구 등에 가스안전기기(타이머콕) 보급하여 가스안전 확보 및 서민층 생활안정에 기여하기 위함",
-    "categories": "",
-    "life_cycle": "",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00002206",
     "name": "참전유공자 사망위로금 지원",
     "summary": "참전유공자 유족에게 사망위로금을 지급하여 유공자의 희생공로에 보답하고자 함.",
@@ -85495,8 +85585,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "참전유공자 유족에게 사망위로금을 지급하여 유공자의 희생공로에 보답하고자 함.",
-    "categories": "노년, 중장년",
-    "life_cycle": "노년, 중장년",
+    "categories": "중장년, 노년",
+    "life_cycle": "중장년, 노년",
     "url": ""
   },
   {
@@ -85591,24 +85681,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005880",
-    "name": "더드림 신혼부부 주거비 지원사업",
-    "summary": "결혼을 장려하고 출산,양육하기 좋은 환경 조성",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "결혼을 장려하고 출산,양육하기 좋은 환경 조성",
-    "categories": "임신 · 출산",
-    "life_cycle": "임신 · 출산",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00005759",
     "name": "충청북도 농어업인 공익수당 지원",
     "summary": "사업목적 \n\n - 농업농촌이 가지고 있는 공익적 기능의 보전 및 증진을 통하여 지속가능한 농업 농촌환경 조성과 도민의 삶의 질 향상 도모\n - 농업인의 삶의 질 향상 및 농촌사회 공동화 대응, 농업인 소득안정 도모",
@@ -85659,24 +85731,6 @@
     "amount_summary": "중고등학교 신입생 교복 지원",
     "categories": "청소년",
     "life_cycle": "청소년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00005200",
-    "name": "노인 성인용보행기 지원",
-    "summary": "보행이 어려운 노인들의 불편해소와 편의증진을 위하여 성인용 보행기 지원을 실시하여 노인들의 건강한 삶을 지원하도록 함.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "보행이 어려운 노인들의 불편해소와 편의증진을 위하여 성인용 보행기 지원을 실시하여 노인들의 건강한 삶을 지원하도록 함.",
-    "categories": "노년",
-    "life_cycle": "노년",
     "url": ""
   },
   {
@@ -85857,24 +85911,6 @@
     "amount_summary": "저소득 결식우려 주민·노인 등 경로식당(노인무료급식시설)를 찾는 이용자들의 식사와 도시락을 정성껏 준비하여 지원함으로써 노인들의 안전하고 건강한 일상생활 유지 및 노후생활 안정화에 기여함",
     "categories": "노년",
     "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
-    "id": "WLF00005632",
-    "name": "야간·휴일 시간제보육 어린이집 운영",
-    "summary": "○ 병원 이용, 취업준비, 맞벌이 등에 따른 개별 보육수요에 대응하기 위해 야간 또는 휴일에 시간단위 보육서비스를 제공하여 양육부담 경감",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "○ 병원 이용, 취업준비, 맞벌이 등에 따른 개별 보육수요에 대응하기 위해 야간 또는 휴일에 시간단위 보육서비스를 제공하여 양육부담 경감",
-    "categories": "영유아",
-    "life_cycle": "영유아",
     "url": ""
   },
   {
@@ -86203,24 +86239,6 @@
   },
   {
     "source": "local",
-    "id": "WLF00005069",
-    "name": "치매 감별검사 본인부담금 지원",
-    "summary": "취약계층 어르신들의 치매 감별검사 본인부담금을 지원하여 치매를 조기에 발견하고 중증화를 예방하고자 하는 사업입니다.\n\n국가에서도 3차 감별검사 비용을 지원하지만 지원상한액이 정해져 있어 (종합병원:8만원/ 상급종합병원:11만원) 본인부담금이 5~33만원까지 발생하고 있습니다.\n국비 지원외에도 추가적으로 발생하는 본인부담금을 성남시에서 지원해줌으로써 치매 검진율을 높이고자하는 사업입니다.",
-    "dept": "",
-    "ministry": "",
-    "region": "",
-    "apply_start": "",
-    "apply_end": "",
-    "apply_type": "",
-    "support_type": "",
-    "target_summary": "",
-    "amount_summary": "취약계층 어르신들의 치매 감별검사 본인부담금을 지원하여 치매를 조기에 발견하고 중증화를 예방하고자 하는 사업입니다.\n\n국가에서도 3차 감별검사 비용을 지원하지만 지원상한액이 정해져 있어 (종합병원:8만원/ 상급종합병원:11만원) 본인부담금이 5~33만원까지 발생하고 있습니다.\n국비 지원외에도 추가적으로 발생하는 본인부담금을 성남시에서 지원해줌으로써 치매 검진율을 높이고자하는 사업입니다.",
-    "categories": "노년",
-    "life_cycle": "노년",
-    "url": ""
-  },
-  {
-    "source": "local",
     "id": "WLF00001229",
     "name": "여성농업인 행복바우처 지원",
     "summary": "농업을 주생계수단으로 하면서 가사를 병행하는 여성농업인에게 문화활동 등 기회를 제공하여 삶의 질 향상 및 복지증진에 기여",
@@ -86287,8 +86305,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "저소득주민 생활안정 및 주거안정 도모",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
@@ -86683,8 +86701,8 @@
     "support_type": "",
     "target_summary": "",
     "amount_summary": "국가를 위하여 희생하거나 공헌한 국가유공자, 그 유족  또는 가족을 예우",
-    "categories": "노년, 중장년, 청년",
-    "life_cycle": "노년, 중장년, 청년",
+    "categories": "중장년, 노년, 청년",
+    "life_cycle": "중장년, 노년, 청년",
     "url": ""
   },
   {
